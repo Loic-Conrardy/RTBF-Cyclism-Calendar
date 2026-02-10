@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+DTEND:20260301T165400Z
+DTSTART:20260301T132800Z
+SUMMARY:🚴 Cyclisme - Kuurne-Bruxelles-Kuurne
+UID:6bae48a9-df93-44cc-90f7-027afe2bfb56@6bae.org
+URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
+DTEND:20260302T154100Z
+DTSTART:20260302T122800Z
+SUMMARY:🚴 Cyclisme - Samyn Classic - Course Dames
+UID:d44be9d0-c931-4ab0-9a4d-9a61cb6cbb06@d44b.org
+URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
+END:VEVENT
+END:VCALENDAR
