@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
-DTEND:20260303T173100Z
-DTSTART:20260303T141300Z
-SUMMARY:🚴 Cyclisme - Samyn Classic - Course Hommes
-UID:561820c6-c813-4373-a2d4-641927c9d19b@5618.org
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
 DTEND:20260302T174100Z
 DTSTART:20260302T145800Z
 SUMMARY:🚴 Cyclisme - Samyn Classic - Course Dames
-UID:8342e9c7-18d2-4e50-a285-aa10ae477380@8342.org
+UID:cb601581-981e-492c-8407-781c47352780@cb60.org
 URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +14,15 @@ DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-brux
 DTEND:20260301T165400Z
 DTSTART:20260301T132800Z
 SUMMARY:🚴 Cyclisme - Kuurne-Bruxelles-Kuurne
-UID:76c54e6d-cf2d-462c-9d94-89804b3e3da9@76c5.org
+UID:8dbfc1dc-5bc2-498d-bfb0-662d32f1cf48@8dbf.org
 URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+DTEND:20260303T173100Z
+DTSTART:20260303T141300Z
+SUMMARY:🚴 Cyclisme - Samyn Classic - Course Hommes
+UID:0db80c30-fa25-493b-aa83-940a83f94cf3@0db8.org
+URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
 END:VEVENT
 END:VCALENDAR
