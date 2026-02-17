@@ -2,27 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
-DTEND:20260303T173100Z
-DTSTART:20260303T141300Z
-SUMMARY:🚴 Cyclisme - Samyn Classic - Course Hommes
-UID:de0fb869-d002-4821-b651-f5fe335df335@de0f.org
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+DTEND:20260301T165400Z
+DTSTART:20260301T132800Z
+SUMMARY:🚴 Cyclisme - Kuurne-Bruxelles-Kuurne
+UID:2f266426-db20-4b8b-a694-b12e30c1efb0@2f26.org
+URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-2-epone-montargis-688894
+DTEND:20260309T164100Z
+DTSTART:20260309T140800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 2 : Épône > Montargis
+UID:66a152db-6e69-48d6-aa82-096cdc2c8864@66a1.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-2-epone-montargis-688894
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
 DTEND:20260302T174100Z
 DTSTART:20260302T145800Z
 SUMMARY:🚴 Cyclisme - Samyn Classic - Course Dames
-UID:a18b54fd-387c-4d3c-a26a-3f063f8a7a74@a18b.org
+UID:a62f7a2c-b082-470e-9df4-de843d3e90ba@a62f.org
 URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
-DTEND:20260301T165400Z
-DTSTART:20260301T132800Z
-SUMMARY:🚴 Cyclisme - Kuurne-Bruxelles-Kuurne
-UID:ace6a9b1-6657-4f31-9f33-92c499be4478@ace6.org
-URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+DTEND:20260303T173100Z
+DTSTART:20260303T141300Z
+SUMMARY:🚴 Cyclisme - Samyn Classic - Course Hommes
+UID:65341e2f-be0b-4545-a5ae-75502affaca0@6534.org
+URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
+DTEND:20260308T164100Z
+DTSTART:20260308T141800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 1 : Achères > Carrières-sous-Poissy
+UID:4f8c19da-0bef-41ac-9e79-b054b8fee5d3@4f8c.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
 END:VEVENT
 END:VCALENDAR
