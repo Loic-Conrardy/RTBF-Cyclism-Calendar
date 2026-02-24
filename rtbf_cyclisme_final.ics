@@ -2,91 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
-DTEND:20260310T164100Z
-DTSTART:20260310T140800Z
-SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 3 : Cosne-Cours-sur-Loire > Pouilly-sur-Loire
-UID:2f16d8f7-f176-429c-8cb3-b25125e54336@2f16.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
-DTEND:20260302T174100Z
-DTSTART:20260302T145800Z
-SUMMARY:🚴 Cyclisme - Samyn Classic - Course Dames
-UID:36f510b9-24f1-43a5-bcca-9e5f56220eec@36f5.org
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
-DTEND:20260301T165400Z
-DTSTART:20260301T132800Z
-SUMMARY:🚴 Cyclisme - Kuurne-Bruxelles-Kuurne
-UID:f9d76153-b810-439e-91e0-b3608d8aae0a@f9d7.org
-URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
-DTEND:20260303T173100Z
-DTSTART:20260303T141300Z
-SUMMARY:🚴 Cyclisme - Samyn Classic - Course Hommes
-UID:a100bd43-7573-45db-b202-4f23f56219e1@a100.org
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
+DTEND:20260313T164600Z
+DTSTART:20260313T140800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
+UID:ed5b1468-9c66-4bbd-80fe-2c0431c61192@ed5b.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-2-epone-montargis-688894
 DTEND:20260309T164100Z
 DTSTART:20260309T140800Z
 SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 2 : Épône > Montargis
-UID:50293d33-b972-4ef2-9b4f-6a6372dfdd15@5029.org
+UID:da9b35a2-6704-4d50-9725-17bb7f9a2324@da9b.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-2-epone-montargis-688894
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
-DTEND:20260312T163700Z
-DTSTART:20260312T140800Z
-SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 5 : Cormoranche-sur-Saône > Colombier-le-Vieux
-UID:1eb69fae-457e-4afd-a45f-54782d2c8f05@1eb6.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
-DTEND:20260308T164100Z
-DTSTART:20260308T141800Z
-SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 1 : Achères > Carrières-sous-Poissy
-UID:5fb0c5c0-8f68-49ad-ac96-b1227b3d1f11@5fb0.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690226
-DTEND:20260302T224900Z
-DTSTART:20260302T213000Z
-SUMMARY:🚴 On connait nos classiques
-UID:c90a4b42-5371-40a3-a2b6-1fd0acfe794f@c90a.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690226
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
 DTEND:20260311T164200Z
 DTSTART:20260311T140800Z
 SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 4 : Bourges > Uchon
-UID:6df39489-b1f6-4791-873b-3fd0e9665927@6df3.org
+UID:d05e4bf5-fcce-4a0b-838b-afd9cdc5ffc0@d05e.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
-DTEND:20260313T164600Z
-DTSTART:20260313T140800Z
-SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
-UID:63e2054c-a629-4a68-9430-d5b3d61bcf92@63e2.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
+DTEND:20260314T143800Z
+DTSTART:20260314T123500Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
+UID:f008d041-1941-47cc-aec0-e456238a6f6e@f008.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
+DTEND:20260315T163900Z
+DTSTART:20260315T141800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
+UID:9f64f634-1b69-47a5-baa9-f909a10ddcff@9f64.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
+DTEND:20260308T164100Z
+DTSTART:20260308T141800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 1 : Achères > Carrières-sous-Poissy
+UID:29cb6b83-ae19-42ae-ba05-f846cf061d32@29cb.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+DTEND:20260303T173100Z
+DTSTART:20260303T141300Z
+SUMMARY:🚴 Cyclisme - Samyn Classic - Course Hommes
+UID:3249c96f-1c9d-4ebe-b7fe-35d73924e7f9@3249.org
+URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690226
+DTEND:20260302T224900Z
+DTSTART:20260302T213000Z
+SUMMARY:🚴 On connait nos classiques
+UID:0bc66a1b-e616-4c59-86be-4b8a76f859a9@0bc6.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690226
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690227
 DTEND:20260309T224800Z
 DTSTART:20260309T212900Z
 SUMMARY:🚴 On connait nos classiques
-UID:6265d11c-a28c-422b-9835-046beb89bbad@6265.org
+UID:f7853ef5-6eee-4fbf-8f82-e7d2c82c0815@f785.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690227
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
+DTEND:20260302T174100Z
+DTSTART:20260302T145800Z
+SUMMARY:🚴 Cyclisme - Samyn Classic - Course Dames
+UID:016c02a5-b66e-49a9-97cb-50c15588e816@016c.org
+URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
+DTEND:20260312T163700Z
+DTSTART:20260312T140800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 5 : Cormoranche-sur-Saône > Colombier-le-Vieux
+UID:753ec0c1-98c5-4c3f-999f-2d5de84aed94@753e.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+DTEND:20260301T165400Z
+DTSTART:20260301T132800Z
+SUMMARY:🚴 Cyclisme - Kuurne-Bruxelles-Kuurne
+UID:3bb0edc4-5a38-4545-b3ba-472ecf3aeaf2@3bb0.org
+URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
+DTEND:20260310T164100Z
+DTSTART:20260310T140800Z
+SUMMARY:🚴 Cyclisme : Paris - Nice - Etape 3 : Cosne-Cours-sur-Loire > Pouilly-sur-Loire
+UID:e147f054-5abc-46be-8670-9ee0167de222@e147.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
 END:VEVENT
 END:VCALENDAR
