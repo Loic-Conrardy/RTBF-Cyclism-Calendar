@@ -1,0 +1,38 @@
+name: Mise à jour Calendrier Cyclisme
+
+on:
+  schedule:
+    # Cron: À 4h00 et 16h00 UTC tous les jours (soit 6h et 18h en Belgique en été)
+    - cron: '0 4,16 * * *'
+  workflow_dispatch: # Permet de lancer manuellement le bouton "Run workflow" pour tester
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupération du code
+        uses: actions/checkout@v3
+
+      - name: Installation de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Installation des dépendances
+        run: |
+          pip install -r requirements.txt
+
+      - name: Exécution du script
+        run: python main.py
+
+      - name: Sauvegarde et Push du fichier ICS
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add *.ics
+          # Le script ne commit que s'il y a des changements pour éviter les erreurs
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique du calendrier" && git push)
