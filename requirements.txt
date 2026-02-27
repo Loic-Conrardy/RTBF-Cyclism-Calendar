@@ -1,3 +1,5 @@
 requests
 ics
 python-dateutil
+beautifulsoup4
+tzdata
