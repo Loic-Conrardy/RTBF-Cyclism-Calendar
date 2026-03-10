@@ -7,17 +7,8 @@ DTEND:20260316T225000Z
 LOCATION:Tipik
 DTSTART:20260316T212900Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:09baf6f4-e703-4458-bfd7-acebf627f6b1@09ba.org
+UID:23c79ef9-eef4-4385-ae57-e956a1a9cdc7@23c7.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
-DTEND:20260312T163700Z
-LOCATION:Tipik
-DTSTART:20260312T140800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 5 : Cormoranche-sur-Saône > Colombier-le-Vieux
-UID:ff422c87-129a-4f3d-8edf-f33b7c20fbe4@ff42.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
@@ -25,16 +16,17 @@ DTEND:20260311T164200Z
 LOCATION:Tipik
 DTSTART:20260311T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 4 : Bourges > Uchon
-UID:44fee8f0-af1f-4f07-af07-1e8af3e1d224@44fe.org
+UID:ce7f3a00-f657-4e24-b5ef-80be90320a89@ce7f.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260307T132000Z
-SUMMARY:🚴‍♂️ [RTL] Strade Bianche - Hommes 🇮🇹 (1.UWT)
-UID:79d0c987-6646-4e8a-9241-f4037d5b69e5@79d0.org
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
+DTEND:20260314T143800Z
+LOCATION:La Une
+DTSTART:20260314T123500Z
+SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
+UID:56c13215-30d1-47ca-9d8f-0e8cb18511ed@56c1.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
@@ -42,7 +34,7 @@ DTEND:20260323T224700Z
 LOCATION:Tipik
 DTSTART:20260323T213000Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:427de99c-146f-48cb-8044-8d715dabe8e0@427d.org
+UID:1f5f0f9c-7cec-4c31-9a62-260648a0e031@1f5f.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
 END:VEVENT
 BEGIN:VEVENT
@@ -51,17 +43,17 @@ DTEND:20260313T164600Z
 LOCATION:Tipik
 DTSTART:20260313T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
-UID:2041d7ee-a140-451f-ae17-397dd18934d2@2041.org
+UID:4f9f9c0c-de31-4407-a6c2-6436c40d6ea2@4f9f.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
-DTEND:20260314T143800Z
-LOCATION:La Une
-DTSTART:20260314T123500Z
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
-UID:fd0972dc-d84c-419d-9190-9f9a58f473db@fd09.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
+DTEND:20260312T163700Z
+LOCATION:Tipik
+DTSTART:20260312T140800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 5 : Cormoranche-sur-Saône > Colombier-le-Vieux
+UID:f6bbf0f2-0425-4d99-8642-2077e361be49@f6bb.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
@@ -69,16 +61,7 @@ DTEND:20260315T161900Z
 LOCATION:La Une
 DTSTART:20260315T135800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
-UID:1959c669-8ca3-4e6c-81dc-0c3c40f61eec@1959.org
+UID:98ddb44b-dc5c-4b5b-808f-bd1e5a1b4424@98dd.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
-DTEND:20260310T164000Z
-LOCATION:Tipik
-DTSTART:20260310T140800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 3 : Cosne-Cours-sur-Loire > Pouilly-sur-Loire
-UID:b1b88b92-bc1a-4cc1-a7ae-2eb572522a76@b1b8.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
 END:VEVENT
 END:VCALENDAR
