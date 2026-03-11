@@ -2,13 +2,49 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DTEND:20260330T221100Z
+LOCATION:Tipik
+DTSTART:20260330T205200Z
+SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
+UID:974167ad-8d3c-4b4f-91ec-d6b1f8a86df8@9741.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
 DTEND:20260316T225000Z
 LOCATION:Tipik
 DTSTART:20260316T212900Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:23c79ef9-eef4-4385-ae57-e956a1a9cdc7@23c7.org
+UID:38db973f-ff7d-4296-b117-095e3f30dac1@38db.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
+DTEND:20260315T161900Z
+LOCATION:La Une
+DTSTART:20260315T135800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
+UID:fc70b73a-a221-4023-bc87-0fb8896f57b4@fc70.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
+DTEND:20260313T164600Z
+LOCATION:Tipik
+DTSTART:20260313T140800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
+UID:97d5f459-3afd-4d6e-864e-04a08504b960@97d5.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
+DTEND:20260323T224700Z
+LOCATION:Tipik
+DTSTART:20260323T213000Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:21f80045-27d6-491e-8d41-2c01040f092a@21f8.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
@@ -16,7 +52,7 @@ DTEND:20260311T164200Z
 LOCATION:Tipik
 DTSTART:20260311T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 4 : Bourges > Uchon
-UID:ce7f3a00-f657-4e24-b5ef-80be90320a89@ce7f.org
+UID:84f89031-4848-4077-bc67-962526a4115c@84f8.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
 END:VEVENT
 BEGIN:VEVENT
@@ -25,26 +61,8 @@ DTEND:20260314T143800Z
 LOCATION:La Une
 DTSTART:20260314T123500Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
-UID:56c13215-30d1-47ca-9d8f-0e8cb18511ed@56c1.org
+UID:8e607687-a7f4-407f-8dc4-a04c435efe2d@8e60.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
-DTEND:20260323T224700Z
-LOCATION:Tipik
-DTSTART:20260323T213000Z
-SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:1f5f0f9c-7cec-4c31-9a62-260648a0e031@1f5f.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
-DTEND:20260313T164600Z
-LOCATION:Tipik
-DTSTART:20260313T140800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
-UID:4f9f9c0c-de31-4407-a6c2-6436c40d6ea2@4f9f.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
@@ -52,16 +70,7 @@ DTEND:20260312T163700Z
 LOCATION:Tipik
 DTSTART:20260312T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 5 : Cormoranche-sur-Saône > Colombier-le-Vieux
-UID:f6bbf0f2-0425-4d99-8642-2077e361be49@f6bb.org
+UID:3caaedaa-97e9-4695-b4e0-79c135491726@3caa.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
-DTEND:20260315T161900Z
-LOCATION:La Une
-DTSTART:20260315T135800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
-UID:98ddb44b-dc5c-4b5b-808f-bd1e5a1b4424@98dd.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
 END:VEVENT
 END:VCALENDAR
