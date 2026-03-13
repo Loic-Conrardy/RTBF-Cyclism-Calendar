@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
-DTEND:20260323T224700Z
-LOCATION:Tipik
-DTSTART:20260323T213000Z
-SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:04c6208e-e3bd-4037-8029-d10c35441c81@04c6.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
+DTEND:20260314T144200Z
+LOCATION:La Une
+DTSTART:20260314T123500Z
+SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
+UID:eb0e82da-2cca-4d23-a001-0b6caebfc1dc@eb0e.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
@@ -16,8 +16,17 @@ DTEND:20260330T221100Z
 LOCATION:Tipik
 DTSTART:20260330T205200Z
 SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
-UID:3416029a-cb9f-46af-a98b-c31fc6a4d527@3416.org
+UID:08a81a15-45c8-4d6b-a1ab-7720725a9911@08a8.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
+DTEND:20260323T224700Z
+LOCATION:Tipik
+DTSTART:20260323T213000Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:0ca90b77-8947-45a2-9ef9-439e5dcbca5e@0ca9.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
@@ -25,26 +34,8 @@ DTEND:20260313T164600Z
 LOCATION:Tipik
 DTSTART:20260313T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
-UID:e3042dd0-99d7-400a-ad89-22e1d2147f1e@e304.org
+UID:a7ecc346-af65-49d8-ad21-37712cc3cff3@a7ec.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
-DTEND:20260314T144200Z
-LOCATION:La Une
-DTSTART:20260314T123500Z
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
-UID:98df873b-8333-467c-a5a6-acf72e08c585@98df.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
-DTEND:20260316T225000Z
-LOCATION:Tipik
-DTSTART:20260316T212900Z
-SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:ae82a14c-9a33-4975-8329-1651849e3d9f@ae82.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
@@ -52,7 +43,16 @@ DTEND:20260315T161700Z
 LOCATION:La Une
 DTSTART:20260315T135800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
-UID:d240e7c7-2d9d-48c1-a224-54d0825db70f@d240.org
+UID:13bea4d5-2c74-4bbd-baa6-585acd64bbe8@13be.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
+DTEND:20260316T225000Z
+LOCATION:Tipik
+DTSTART:20260316T212900Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:c2f005b8-5cc6-4d99-8a03-69602f01cfec@c2f0.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
 END:VEVENT
 END:VCALENDAR
