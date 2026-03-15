@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
-DTEND:20260316T225100Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DTEND:20260330T221100Z
 LOCATION:Tipik
-DTSTART:20260316T213200Z
-SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:b0dacf58-4bb5-4c4a-a2e6-f298e561e457@b0da.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
+DTSTART:20260330T205200Z
+SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
+UID:52052294-bf3c-4f20-88dd-06570257ab6e@5205.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
@@ -16,17 +16,17 @@ DTEND:20260323T224700Z
 LOCATION:Tipik
 DTSTART:20260323T213000Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:6f5a1621-2aa9-4341-858f-e8215b1ccabf@6f5a.org
+UID:feb36ca7-9c5b-43d1-b332-f38d588cbc5f@feb3.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
-DTEND:20260330T221100Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
+DTEND:20260316T225100Z
 LOCATION:Tipik
-DTSTART:20260330T205200Z
-SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
-UID:4a4713fc-e617-4871-b03f-554e24c2f99b@4a47.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DTSTART:20260316T213200Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:91e4fd43-454e-4e9e-8ece-05e7998b00e9@91e4.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
@@ -34,7 +34,7 @@ DTEND:20260315T161700Z
 LOCATION:La Une
 DTSTART:20260315T135800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
-UID:a34c6d91-9c0f-4fd1-97a7-4ee50faa8eb2@a34c.org
+UID:50651b8a-8af9-4f74-b4b9-ac2daa284a14@5065.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
 END:VEVENT
 END:VCALENDAR
