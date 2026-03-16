@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
-DTEND:20260330T221100Z
-LOCATION:Tipik
-DTSTART:20260330T205200Z
-SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
-UID:31c93497-087c-4b1e-b99c-32e1ed198eea@31c9.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
 DTEND:20260316T225100Z
 LOCATION:Tipik
 DTSTART:20260316T213200Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:54e17a23-4fbf-43ff-b084-51a76745d3aa@54e1.org
+UID:7f2407c6-4082-4fca-a7b9-fcdfd3d0c3e3@7f24.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DTEND:20260330T221100Z
+LOCATION:Tipik
+DTSTART:20260330T205200Z
+SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
+UID:935cb205-6a07-4abb-b91a-603ef0b0a2b2@935c.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
@@ -25,7 +25,7 @@ DTEND:20260323T224700Z
 LOCATION:Tipik
 DTSTART:20260323T213000Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:7d036c64-263a-4714-912a-9e5475693f72@7d03.org
+UID:930ab267-5490-46e3-a3d5-dffd6f9e6024@930a.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
 END:VEVENT
 END:VCALENDAR
