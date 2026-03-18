@@ -2,46 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260326T142000Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Femmes 🇧🇪 (1.WWT)
-UID:55ef217e-216c-4320-9417-325455e00388@55ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h15 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260329T121500Z
-SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Hommes 🇧🇪 (1.UWT)
-UID:cb515460-dc83-4925-a7aa-b2fd0576622a@cb51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-nokere-koerse-696777
-DTEND:20260318T163500Z
-LOCATION:Tipik
-DTSTART:20260318T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme: Nokere Koerse
-UID:2aa41fb6-b134-4e55-8f6a-c1ccc04cdb26@2aa4.org
-URL:https://auvio.rtbf.be/live/cyclisme-nokere-koerse-696777
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-bredene-koksijde-classic-696275
-DTEND:20260320T162000Z
-LOCATION:Tipik
-DTSTART:20260320T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Bredene Koksijde Classic
-UID:48d6e260-0c5e-4563-b4b5-801db94c6a80@48d6.org
-URL:https://auvio.rtbf.be/live/cyclisme-bredene-koksijde-classic-696275
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260327T133000Z
 SUMMARY:🚴‍♂️ [RTL] E3 Saxo Bank Classic 🇧🇪 (1.UWT)
-UID:97c36bba-3f40-4814-a100-f87b4422c566@97c3.org
+UID:40d9b415-9d89-4616-b1db-5c279cb95a0c@40d9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -49,16 +15,15 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260325T142000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Hommes 🇧🇪 (1.UWT)
-UID:63df5640-34ad-4220-8332-a9b088c6ff51@63df.org
+UID:b93bc83c-70db-4eea-9407-e3ad70408d2b@b93b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
-DTEND:20260330T221300Z
-LOCATION:Tipik
-DTSTART:20260330T205400Z
-SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
-UID:4349f2d1-9588-4b7a-8cd8-aa99b885e7bf@4349.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DESCRIPTION:Diffusion : Dès 15h20 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260326T142000Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Femmes 🇧🇪 (1.WWT)
+UID:5d68514d-ccf7-4646-8793-414e7a9f2ac7@5d68.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
@@ -66,17 +31,8 @@ DTEND:20260323T224500Z
 LOCATION:Tipik
 DTSTART:20260323T212800Z
 SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:464ce105-8729-4203-b178-71599af549fb@464c.org
+UID:00b0a71f-003b-4dc0-8f56-f0704df57ac3@00b0.org
 URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-696819
-DTEND:20260406T215200Z
-LOCATION:Tipik
-DTSTART:20260406T203100Z
-SUMMARY:🚴 [RTBF] On connait nos classiques
-UID:8ded350e-0f7f-4ea8-85f5-a0e1c590d628@8ded.org
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-696819
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 16h30 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -84,7 +40,16 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260329T143000Z
 SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Femmes 🇧🇪 (1.WWT)
-UID:e73885ca-b558-49df-9c22-5bf50e208368@e738.org
+UID:15f41189-0c72-4b0c-a7fa-dbdc4c934811@15f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-bredene-koksijde-classic-696275
+DTEND:20260320T162000Z
+LOCATION:Tipik
+DTSTART:20260320T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Bredene Koksijde Classic
+UID:152887a4-50a1-4018-bbc1-9d55657cd784@1528.org
+URL:https://auvio.rtbf.be/live/cyclisme-bredene-koksijde-classic-696275
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
@@ -92,7 +57,33 @@ DTEND:20260406T142100Z
 LOCATION:Tipik
 DTSTART:20260406T112800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
-UID:c4b61c90-7caf-44a6-86a9-7bcd2e39133e@c4b6.org
+UID:8c31b2dd-de86-4e8a-9fef-00dcde452ebf@8c31.org
 URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h15 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260329T121500Z
+SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Hommes 🇧🇪 (1.UWT)
+UID:bb6931f2-162c-41b1-8063-72f79a30759b@bb69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DTEND:20260330T221300Z
+LOCATION:Tipik
+DTSTART:20260330T205400Z
+SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
+UID:2e602388-395d-4d21-9b90-898bae65cb15@2e60.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-696819
+DTEND:20260406T215200Z
+LOCATION:Tipik
+DTSTART:20260406T203100Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:9dfe0064-9498-4c3c-81f8-d4847e3d382e@9dfe.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-696819
 END:VEVENT
 END:VCALENDAR
