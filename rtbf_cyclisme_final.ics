@@ -1,325 +1,89 @@
 BEGIN:VCALENDAR
-
 VERSION:2.0
-
 PRODID:ics.py - http://git.io/lLljaA
-
 BEGIN:VEVENT
-
-DESCRIPTION:Diffusion : Dès 17h00 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-
+DESCRIPTION:Diffusion : Dès 16h30 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
-
 LOCATION:RTL
-
-DTSTART:20260228T160000Z
-
-SUMMARY:🚴‍♂️ [RTL] Circuit Het Nieuwsblad - Femmes 🇧🇪 (1.WWT)
-
-UID:e56a90c4-d0cf-4dee-a79e-86dc87c8d80f@e56a.org
-
+DTSTART:20260329T143000Z
+SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Femmes 🇧🇪 (1.WWT)
+UID:7a59f0a9-2b86-4c5a-b387-682610e02983@7a59.org
 END:VEVENT
-
 BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690226
-
-DTEND:20260302T224800Z
-
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
+DTEND:20260406T142100Z
 LOCATION:Tipik
-
-DTSTART:20260302T212900Z
-
-SUMMARY:🚴 [RTBF] On connait nos classiques
-
-UID:72ea6116-6ea2-471f-814b-43953236a06d@72ea.org
-
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690226
-
+DTSTART:20260406T112800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
+UID:9b45dde3-d417-4000-b1ff-5e186f5f44cc@9b45.org
+URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
 END:VEVENT
-
 BEGIN:VEVENT
-
-DESCRIPTION:Diffusion : Dès 14h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+DTEND:20260330T221300Z
+LOCATION:Tipik
+DTSTART:20260330T205400Z
+SUMMARY:🚴 [RTBF] On connait nos classiques - On connait nos classiques
+UID:782ffe11-798a-447c-a0b7-94149335ede4@782f.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-694697
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h15 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
-
 LOCATION:RTL
-
-DTSTART:20260307T132000Z
-
-SUMMARY:🚴‍♂️ [RTL] Strade Bianche - Hommes 🇮🇹 (1.UWT)
-
-UID:02894738-6cbd-4194-a286-aa9dd3bf035a@0289.org
-
+DTSTART:20260329T121500Z
+SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Hommes 🇧🇪 (1.UWT)
+UID:fad03c62-931b-40f8-af5f-20108f146698@fad0.org
 END:VEVENT
-
 BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
-
-DTEND:20260310T164100Z
-
-LOCATION:Tipik
-
-DTSTART:20260310T140800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 3 : Cosne-Cours-sur-Loire > Pouilly-sur-Loire
-
-UID:db018c5e-2fa8-4e0c-a48b-a9116c6cbdff@db01.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-3-cosne-cours-sur-loire-pouilly-sur-loire-689083
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
-
-DTEND:20260301T165400Z
-
-LOCATION:La Une
-
-DTSTART:20260301T132800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme - Kuurne-Bruxelles-Kuurne
-
-UID:5684ce44-7ff6-4284-bbec-d878429b0c31@5684.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-kuurne-bruxelles-kuurne-687553
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690227
-
-DTEND:20260309T224800Z
-
-LOCATION:Tipik
-
-DTSTART:20260309T212900Z
-
-SUMMARY:🚴 [RTBF] On connait nos classiques
-
-UID:599f3f6c-e310-4bd7-b6a6-76d2cec5e29a@599f.org
-
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690227
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-presentation-des-coureurs-691441
-
-DTEND:20260303T115000Z
-
-LOCATION:Auvio
-
-DTSTART:20260303T100800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme - Samyn Classic - Présentation des coureurs
-
-UID:effb27c9-d21b-4692-957c-b01b1fbb055c@effb.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-presentation-des-coureurs-691441
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
-
-DTEND:20260303T173100Z
-
-LOCATION:Tipik
-
-DTSTART:20260303T141300Z
-
-SUMMARY:🚴 [RTBF] Cyclisme - Samyn Classic - Course Hommes
-
-UID:015eb046-f0b7-4839-a61b-5253a5cd7323@015e.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-hommes-687713
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
-
-DTEND:20260316T225000Z
-
-LOCATION:Tipik
-
-DTSTART:20260316T212900Z
-
-SUMMARY:🚴 [RTBF] On connait nos classiques
-
-UID:fc5ec2bc-b72a-4ced-b76d-6a86fc7b11ed@fc5e.org
-
-URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-690889
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
-
-DTEND:20260312T163700Z
-
-LOCATION:Tipik
-
-DTSTART:20260312T140800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 5 : Cormoranche-sur-Saône > Colombier-le-Vieux
-
-UID:0f09189e-bb77-405c-abf1-ede6dc156d02@0f09.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-5-cormoranche-sur-saone-colombier-le-vieux-689893
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
-
-DTEND:20260302T174100Z
-
-LOCATION:Tipik
-
-DTSTART:20260302T145800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme - Samyn Classic - Course Dames
-
-UID:7c1d676c-ac38-46fe-90fc-b39cf43fb68f@7c1d.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-samyn-classic-course-dames-687607
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
-
-DTEND:20260311T164200Z
-
-LOCATION:Tipik
-
-DTSTART:20260311T140800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 4 : Bourges > Uchon
-
-UID:ddfecbc5-038d-4122-8545-00080a411ae0@ddfe.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-4-bourges-uchon-689279
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
-
-DTEND:20260308T164100Z
-
-LOCATION:La Une
-
-DTSTART:20260308T141800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 1 : Achères > Carrières-sous-Poissy
-
-UID:9fbbe200-eb06-4c81-8274-cd54a35ca056@9fbb.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-1-acheres-carrieres-sous-poissy-688923
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
-
-DTEND:20260313T164600Z
-
-LOCATION:Tipik
-
-DTSTART:20260313T140800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 6 : Barbentane > Apt
-
-UID:3940e56c-150a-4544-a6e5-037dd5073411@3940.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-6-barbentane-apt-690114
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
-
-DTEND:20260315T163900Z
-
-LOCATION:La Une
-
-DTSTART:20260315T141800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 8 : Nice > Nice
-
-UID:fb028a57-9d1a-432f-9c2d-2c92aa2a3964@fb02.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-8-nice-nice-690690
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
-
-DTEND:20260314T143800Z
-
-LOCATION:La Une
-
-DTSTART:20260314T123500Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 7 : Nice > Auron
-
-UID:de072bff-95e4-4b9e-a447-4e448cbd7c5c@de07.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-7-nice-auron-690689
-
-END:VEVENT
-
-BEGIN:VEVENT
-
-DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-
+DESCRIPTION:Diffusion : Dès 15h20 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
-
 LOCATION:RTL
-
-DTSTART:20260228T123000Z
-
-SUMMARY:🚴‍♂️ [RTL] Circuit Het Nieuwsblad - Hommes 🇧🇪 (1.UWT)
-
-UID:81077c57-01f6-48a9-9198-12fa327396bc@8107.org
-
+DTSTART:20260326T142000Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Femmes 🇧🇪 (1.WWT)
+UID:41e6aab9-62c1-4011-86d3-592d26a0218e@41e6.org
 END:VEVENT
-
 BEGIN:VEVENT
-
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-2-epone-montargis-688894
-
-DTEND:20260309T164100Z
-
-LOCATION:Tipik
-
-DTSTART:20260309T140800Z
-
-SUMMARY:🚴 [RTBF] Cyclisme : Paris - Nice - Etape 2 : Épône > Montargis
-
-UID:2fb31f0c-725b-4b1c-a7cb-7d16cb11888d@2fb3.org
-
-URL:https://auvio.rtbf.be/live/cyclisme-paris-nice-etape-2-epone-montargis-688894
-
+DESCRIPTION:Diffusion : Dès 14h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260327T133000Z
+SUMMARY:🚴‍♂️ [RTL] E3 Saxo Bank Classic 🇧🇪 (1.UWT)
+UID:0326ccf0-68da-4134-92b1-448340efb0c1@0326.org
 END:VEVENT
-
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-bredene-koksijde-classic-696275
+DTEND:20260320T162000Z
+LOCATION:Tipik
+DTSTART:20260320T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Bredene Koksijde Classic
+UID:850ab651-3374-46ac-b034-1ee7217471d9@850a.org
+URL:https://auvio.rtbf.be/live/cyclisme-bredene-koksijde-classic-696275
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
+DTEND:20260323T224500Z
+LOCATION:Tipik
+DTSTART:20260323T212800Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:2e93ddda-4b2e-483a-bd6a-0ce6f4c2bfba@2e93.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-692644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/on-connait-nos-classiques-696819
+DTEND:20260406T215200Z
+LOCATION:Tipik
+DTSTART:20260406T203100Z
+SUMMARY:🚴 [RTBF] On connait nos classiques
+UID:0d1ec6c3-27fc-4969-a76d-b98fe91fe53b@0d1e.org
+URL:https://auvio.rtbf.be/live/on-connait-nos-classiques-696819
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260325T142000Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Hommes 🇧🇪 (1.UWT)
+UID:e82a08e3-c77b-4cb8-93f3-64e2e1b8007b@e82a.org
+END:VEVENT
 END:VCALENDAR
