@@ -10,7 +10,7 @@ import dateutil.parser
 # CONSTANTES ET CONFIGURATIONS
 # ==========================================
 
-# Dictionnaire pour la traduction des mois (RTL)
+# Dictionnaire pour la traduction des mois
 MOIS_FR = {
     'janvier': 1, 'février': 2, 'fevrier': 2, 'mars': 3, 'avril': 4,
     'mai': 5, 'juin': 6, 'juillet': 7, 'août': 8, 'aout': 8,
@@ -30,8 +30,8 @@ HEADERS = {
 # FONCTIONS UTILITAIRES
 # ==========================================
 
-def extraire_date_heure_rtl(date_texte, texte_diffusion):
-    """Transforme les dates textuelles de RTL en objet datetime"""
+def extraire_date_heure(date_texte, texte_diffusion):
+    """Transforme les dates textuelles (ex: Mardi 24 mars) en objet datetime"""
     annee_actuelle = datetime.datetime.now().year
 
     jour = 1
@@ -54,21 +54,95 @@ def extraire_date_heure_rtl(date_texte, texte_diffusion):
 
     fuseau = ZoneInfo("Europe/Brussels")
     mois_actuel = datetime.datetime.now().month
+    # Gestion basique du passage à l'année suivante
     if mois < mois_actuel and mois_actuel > 10:
         annee_actuelle += 1
 
     return datetime.datetime(annee_actuelle, mois, jour, heure, minute, tzinfo=fuseau)
 
+def evenements_se_chevauchent(event1, event2):
+    """Vérifie si deux événements se chevauchent dans le temps."""
+    # On détermine les débuts et fins (en gérant le cas où duration est défini au lieu de end)
+    debut1 = event1.begin
+    fin1 = event1.end if event1.end else debut1 + event1.duration
+    
+    debut2 = event2.begin
+    fin2 = event2.end if event2.end else debut2 + event2.duration
+    
+    # Condition mathématique de chevauchement de deux intervalles
+    return debut1 < fin2 and fin1 > debut2
+
+def est_en_conflit_avec_api(nouvel_event, liste_events_api):
+    """Vérifie si le nouvel événement chevauche au moins un événement de l'API."""
+    for api_event in liste_events_api:
+        if evenements_se_chevauchent(nouvel_event, api_event):
+            return True
+    return False
+
 
 # ==========================================
-# SCRAPERS
+# RÉCUPÉRATION DES DONNÉES
 # ==========================================
 
-def ajouter_evenements_rtl(calendrier):
-    """Récupère les diffusions RTL et les ajoute au calendrier"""
-    print("\nRecherche des courses sur RTL...")
-    url = "https://cyclismerevue.be/programme-tv-cyclisme/"
+def recuperer_evenements_rtbf_api(calendrier):
+    """Étape 1 : Récupère les diffusions RTBF via leur API. Retourne aussi la liste des événements pour le check."""
+    print("\n[Étape 1] Appel du widget Cyclisme RTBF (API)...")
     compteur = 0
+    liste_events_api = []
+
+    try:
+        r = requests.get(WIDGET_URL, headers=HEADERS, timeout=10)
+        r.raise_for_status()
+        data = r.json()
+        items = data.get('data', {}).get('content', [])
+
+        if not items:
+            print("  Aucun direct RTBF listé pour le moment via l'API.")
+            return 0, []
+
+        for item in items:
+            title = item.get('title', 'Direct Cyclisme').strip()
+            subtitle = item.get('subtitle', '').strip()
+            start_str = item.get('scheduledFrom')
+            end_str = item.get('scheduledTo')
+
+            if start_str and end_str:
+                e = Event()
+                e.name = f"🚴 [RTBF] {title}"
+                if subtitle:
+                    e.name += f" - {subtitle}"
+
+                e.begin = dateutil.parser.parse(start_str)
+                e.end = dateutil.parser.parse(end_str)
+
+                path = item.get('path')
+                e.url = f"https://auvio.rtbf.be{path}" if path else "https://auvio.rtbf.be/direct"
+
+                label = item.get('label', '')
+                channel = item.get('channelLabel', 'RTBF')
+                e.description = f"{label} sur {channel}.\nLien : {e.url}"
+                e.location = channel
+
+                calendrier.events.add(e)
+                liste_events_api.append(e)
+                compteur += 1
+
+                debut_local = e.begin.astimezone(ZoneInfo("Europe/Brussels"))
+                fin_local = e.end.astimezone(ZoneInfo("Europe/Brussels"))
+                print(f"  Ajouté (API) : {e.name} | {debut_local.strftime('%d/%m de %H:%M')} à {fin_local.strftime('%H:%M')}")
+
+    except Exception as e:
+        print(f"  Erreur RTBF API : {e}")
+
+    return compteur, liste_events_api
+
+
+def recuperer_evenements_cyclismerevue(calendrier, liste_events_api):
+    """Étapes 2 & 3 : Récupère le scraping. Ajoute RTBF si pas de conflit, ajoute RTL dans tous les cas."""
+    print("\n[Étapes 2 & 3] Recherche des courses sur le programme TV web...")
+    url = "https://cyclismerevue.be/programme-tv-cyclisme/"
+    compteur_rtl = 0
+    compteur_rtbf = 0
 
     try:
         reponse = requests.get(url, timeout=10)
@@ -77,7 +151,13 @@ def ajouter_evenements_rtl(calendrier):
 
         for li in soup.find_all('li'):
             texte_diffusion = li.get_text(strip=True)
-            if 'RTL' in texte_diffusion.upper():
+            texte_upper = texte_diffusion.upper()
+            
+            # Détection de la chaîne
+            est_rtl = 'RTL' in texte_upper
+            est_rtbf = 'RTBF' in texte_upper or 'TIPIK' in texte_upper or 'LA UNE' in texte_upper
+
+            if est_rtl or est_rtbf:
                 parent_ul = li.find_parent('ul')
                 if parent_ul and parent_ul.find_parent('li'):
                     course_li = parent_ul.find_parent('li')
@@ -95,75 +175,35 @@ def ajouter_evenements_rtl(calendrier):
                             break
 
                     if date_texte:
-                        date_debut = extraire_date_heure_rtl(date_texte, texte_diffusion)
+                        date_debut = extraire_date_heure(date_texte, texte_diffusion)
 
+                        diffuseur = "RTL" if est_rtl else "RTBF"
                         evenement = Event()
-                        evenement.name = f"🚴‍♂️ [RTL] {course_nom}"
+                        evenement.name = f"🚴‍♂️ [{diffuseur}] {course_nom}"
                         evenement.begin = date_debut
                         evenement.duration = datetime.timedelta(hours=2, minutes=30)
                         evenement.description = f"Diffusion : {texte_diffusion}\nSource : {url}"
-                        evenement.location = "RTL"
+                        evenement.location = diffuseur
 
-                        calendrier.events.add(evenement)
-                        compteur += 1
-                        print(f"  Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
-
-    except Exception as e:
-        print(f"  Erreur RTL : {e}")
-
-    return compteur
-
-
-def ajouter_evenements_rtbf(calendrier):
-    """Récupère les diffusions RTBF via leur API et les ajoute au calendrier"""
-    print("\nAppel du widget Cyclisme RTBF...")
-    compteur = 0
-
-    try:
-        r = requests.get(WIDGET_URL, headers=HEADERS, timeout=10)
-        r.raise_for_status()
-        data = r.json()
-        items = data.get('data', {}).get('content', [])
-
-        if not items:
-            print("  Aucun direct RTBF listé pour le moment.")
-            return 0
-
-        for item in items:
-            title = item.get('title', 'Direct Cyclisme').strip()
-            subtitle = item.get('subtitle', '').strip()
-            start_str = item.get('scheduledFrom')
-            end_str = item.get('scheduledTo')
-
-            if start_str and end_str:
-                e = Event()
-                e.name = f"🚴 [RTBF] {title}"
-                if subtitle: e.name += f" - {subtitle}"
-
-                e.begin = dateutil.parser.parse(start_str)
-                e.end = dateutil.parser.parse(end_str)
-
-                path = item.get('path')
-                e.url = f"https://auvio.rtbf.be{path}" if path else "https://auvio.rtbf.be/direct"
-
-                label = item.get('label', '')
-                channel = item.get('channelLabel', 'RTBF')
-                e.description = f"{label} sur {channel}.\nLien : {e.url}"
-                e.location = channel
-
-                calendrier.events.add(e)
-                compteur += 1
-
-                # Formatage de l'affichage en tenant compte des fuseaux locaux (pour la console)
-                debut_local = e.begin.astimezone(ZoneInfo("Europe/Brussels"))
-                fin_local = e.end.astimezone(ZoneInfo("Europe/Brussels"))
-                print(
-                    f"  Ajouté : {e.name} | {debut_local.strftime('%d/%m de %H:%M')} à {fin_local.strftime('%H:%M')}")
+                        # RÈGLE 3 : RTL s'ajoute toujours
+                        if est_rtl:
+                            calendrier.events.add(evenement)
+                            compteur_rtl += 1
+                            print(f"  RTL - Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
+                        
+                        # RÈGLE 2 : RTBF s'ajoute SEULEMENT s'il n'y a pas de conflit avec l'API
+                        elif est_rtbf:
+                            if not est_en_conflit_avec_api(evenement, liste_events_api):
+                                calendrier.events.add(evenement)
+                                compteur_rtbf += 1
+                                print(f"  RTBF - Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
+                            else:
+                                print(f"  RTBF - Ignoré : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
 
     except Exception as e:
-        print(f"  Erreur RTBF : {e}")
+        print(f"  Erreur Scraping Web : {e}")
 
-    return compteur
+    return compteur_rtl, compteur_rtbf
 
 
 # ==========================================
@@ -175,11 +215,13 @@ def generer_calendrier_global():
 
     print("=== GÉNÉRATION DU CALENDRIER CYCLISTE BELGE ===")
 
-    # On peuple le calendrier avec nos deux sources
-    total_rtl = ajouter_evenements_rtl(calendrier)
-    total_rtbf = ajouter_evenements_rtbf(calendrier)
+    # 1. On peuple avec l'API RTBF et on garde ces événements en mémoire
+    total_rtbf_api, liste_events_api = recuperer_evenements_rtbf_api(calendrier)
 
-    total_courses = total_rtl + total_rtbf
+    # 2 & 3. On peuple avec le scraping (RTBF de secours + RTL)
+    total_rtl_scraping, total_rtbf_scraping = recuperer_evenements_cyclismerevue(calendrier, liste_events_api)
+
+    total_courses = total_rtbf_api + total_rtl_scraping + total_rtbf_scraping
 
     # Sauvegarde
     if total_courses > 0:
@@ -187,13 +229,17 @@ def generer_calendrier_global():
         with open(nom_fichier, 'w', encoding='utf-8') as f:
             f.writelines(calendrier.serialize())
 
-        print("\n" + "=" * 50)
+        print("\n" + "=" * 65)
         print(f"SUCCÈS ! Fichier '{nom_fichier}' généré.")
-        print(f"Bilan : {total_rtl} course(s) RTL + {total_rtbf} course(s) RTBF = {total_courses} événements.")
+        print(f"Bilan :")
+        print(f"  - RTBF via API     : {total_rtbf_api} course(s)")
+        print(f"  - RTBF via Web     : {total_rtbf_scraping} course(s) ajoutée(s) en complément")
+        print(f"  - RTL via Web      : {total_rtl_scraping} course(s)")
+        print(f"  TOTAL              : {total_courses} événements.")
         print("-> Importez ce fichier dans Google Agenda, Outlook ou Apple Calendar.")
-        print("=" * 50 + "\n")
+        print("=" * 65 + "\n")
     else:
-        print("\n⚠️ Aucune course n'a été trouvée sur aucune des chaînes. Le fichier n'a pas été créé.")
+        print("\nAucune course n'a été trouvée sur aucune des chaînes. Le fichier n'a pas été créé.")
 
 
 if __name__ == "__main__":
