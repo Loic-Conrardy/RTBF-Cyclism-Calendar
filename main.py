@@ -106,7 +106,7 @@ def recuperer_evenements_rtbf_api(calendrier):
             start_str = item.get('scheduledFrom')
             end_str = item.get('scheduledTo')
 
-            if start_str and end_str:
+            if start_str and end_str and "On connait nos classiques" not in title:
                 e = Event()
                 e.name = f"🚴 [RTBF] {title}"
                 if subtitle:
