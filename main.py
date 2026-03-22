@@ -176,29 +176,29 @@ def recuperer_evenements_cyclismerevue(calendrier, liste_events_api):
 
                     if date_texte:
                         date_debut = extraire_date_heure(date_texte, texte_diffusion)
+                        if not date_debut < datetime.datetime.now(tz=ZoneInfo("Europe/Brussels")):
+                            diffuseur = "RTL" if est_rtl else "RTBF"
+                            evenement = Event()
+                            evenement.name = f"🚴‍♂️ [{diffuseur}] {course_nom}"
+                            evenement.begin = date_debut
+                            evenement.duration = datetime.timedelta(hours=2, minutes=30)
+                            evenement.description = f"Diffusion : {texte_diffusion}\nSource : {url}"
+                            evenement.location = diffuseur
 
-                        diffuseur = "RTL" if est_rtl else "RTBF"
-                        evenement = Event()
-                        evenement.name = f"🚴‍♂️ [{diffuseur}] {course_nom}"
-                        evenement.begin = date_debut
-                        evenement.duration = datetime.timedelta(hours=2, minutes=30)
-                        evenement.description = f"Diffusion : {texte_diffusion}\nSource : {url}"
-                        evenement.location = diffuseur
-
-                        # RÈGLE 3 : RTL s'ajoute toujours
-                        if est_rtl:
-                            calendrier.events.add(evenement)
-                            compteur_rtl += 1
-                            print(f"  RTL - Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
-                        
-                        # RÈGLE 2 : RTBF s'ajoute SEULEMENT s'il n'y a pas de conflit avec l'API
-                        elif est_rtbf:
-                            if not est_en_conflit_avec_api(evenement, liste_events_api):
+                            # RÈGLE 3 : RTL s'ajoute toujours
+                            if est_rtl:
                                 calendrier.events.add(evenement)
-                                compteur_rtbf += 1
-                                print(f"  RTBF - Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
-                            else:
-                                print(f"  RTBF - Ignoré : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
+                                compteur_rtl += 1
+                                print(f"  RTL - Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
+                            
+                            # RÈGLE 2 : RTBF s'ajoute SEULEMENT s'il n'y a pas de conflit avec l'API
+                            elif est_rtbf:
+                                if not est_en_conflit_avec_api(evenement, liste_events_api):
+                                    calendrier.events.add(evenement)
+                                    compteur_rtbf += 1
+                                    print(f"  RTBF - Ajouté : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
+                                else:
+                                    print(f"  RTBF - Ignoré : {course_nom} | {date_debut.strftime('%d/%m à %H:%M')}")
 
     except Exception as e:
         print(f"  Erreur Scraping Web : {e}")
