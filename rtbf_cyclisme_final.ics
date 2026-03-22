@@ -2,12 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h20 sur La Une etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260328T142000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 6e étape
+UID:39c8b6e7-33a8-441e-883a-f6c7cc80c549@39c8.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260326T142000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Femmes 🇧🇪 (1.WWT)
-UID:2874e0d1-062a-4970-b80a-bbc872a817bd@2874.org
+UID:ebf50d5d-d501-4832-bc67-dbacb8a74ce4@ebf5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h15 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,41 +23,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260329T121500Z
 SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Hommes 🇧🇪 (1.UWT)
-UID:13856abb-e6fb-4bb5-a898-76d35628b51d@1385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 16h30 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260329T143000Z
-SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Femmes 🇧🇪 (1.WWT)
-UID:2a29cf18-e7f8-41e5-a1da-f1593fd440c9@2a29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
-DTEND:20260406T142100Z
-LOCATION:Tipik
-DTSTART:20260406T112800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
-UID:391ad3fb-7170-4a7f-8e33-ecbb9334a608@391a.org
-URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260323T142000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 1re étape
-UID:f6d8484e-fcb5-4242-b6ab-7e1cd3ed7873@f6d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/gp-jean-pierre-monsere-697493
-DTEND:20260322T163400Z
-LOCATION:Tipik
-DTSTART:20260322T132800Z
-SUMMARY:🚴 [RTBF] GP Jean-Pierre Monséré
-UID:9faef4a1-19c4-4fff-9240-978e61eb15fa@9fae.org
-URL:https://auvio.rtbf.be/live/gp-jean-pierre-monsere-697493
+UID:d4aa151b-2b04-401c-a6cb-6ba2b70447ce@d4aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -57,72 +31,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260325T142000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Bruges - Hommes 🇧🇪 (1.UWT)
-UID:75bb87a3-034d-4a3f-9d5d-f97a57e23429@75bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260326T142000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 4e étape
-UID:8887acb2-4871-4f8a-8a5f-ede16f7a6b58@8887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260325T142000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 3e étape
-UID:4f8fc2e3-be1a-438e-881f-c1e54d367062@4f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-milan-sanremo-697494
-DTEND:20260321T163500Z
-LOCATION:La Une
-DTSTART:20260321T124700Z
-SUMMARY:🚴 [RTBF] Cyclisme : Milan - Sanremo
-UID:b1a8381c-ee49-4715-9b0e-5b24fdee2de6@b1a8.org
-URL:https://auvio.rtbf.be/live/cyclisme-milan-sanremo-697494
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260327T133000Z
-SUMMARY:🚴‍♂️ [RTL] E3 Saxo Bank Classic 🇧🇪 (1.UWT)
-UID:9320e1d6-73fc-4f54-a3d2-8296ddbe0700@9320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 12h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260329T102000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 7e et dernière étape
-UID:7837f726-f399-4563-9b32-a2a01522ee13@7837.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 sur La Une etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260328T142000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 6e étape
-UID:038b81ed-2cdd-4d0e-b748-f0f341f61655@038b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h30 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260320T133000Z
-SUMMARY:🚴‍♂️ [RTBF] Bredene Coxyde Classic 🇧🇪 (1.1)
-UID:42c62ad8-4dca-47b5-afe7-3a57c2a4e510@42c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260327T142000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 5e étape
-UID:c98584d5-c27c-487c-a8ef-68930ad24a84@c985.org
+UID:a41e34c5-a91b-45a9-b7fc-590180331c46@a41e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -130,6 +39,96 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260324T142000Z
 SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 2e étape
-UID:70c62585-4312-4b0d-bfd9-884d5d158b19@70c6.org
+UID:85e4522c-d73a-43f1-8b14-976d571b248c@85e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h50 sur La Une etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260321T125000Z
+SUMMARY:🚴‍♂️ [RTBF] Milan-Sanremo - Hommes 🇮🇹 (1.UWT)
+UID:70c5dcf9-a230-4a24-9127-7b786e24f4e6@70c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
+DTEND:20260406T142100Z
+LOCATION:Tipik
+DTSTART:20260406T112800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
+UID:7f9d380f-5252-4656-bee5-9ccecb3b189e@7f9d.org
+URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h30 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260320T133000Z
+SUMMARY:🚴‍♂️ [RTBF] Bredene Coxyde Classic 🇧🇪 (1.1)
+UID:1a468945-1604-485a-a3e9-9d2899081375@1a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 16h30 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260329T143000Z
+SUMMARY:🚴‍♂️ [RTL] In Flanders Fields - From Middelkerke to Wevelgem - Femmes 🇧🇪 (1.WWT)
+UID:019e005b-86bc-4b95-ba48-913e66e0d803@019e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/gp-jean-pierre-monsere-697493
+DTEND:20260322T163400Z
+LOCATION:Tipik
+DTSTART:20260322T132800Z
+SUMMARY:🚴 [RTBF] GP Jean-Pierre Monséré
+UID:8cb01555-6a6a-4fda-ab15-e16e060a40fa@8cb0.org
+URL:https://auvio.rtbf.be/live/gp-jean-pierre-monsere-697493
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 12h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260329T102000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 7e et dernière étape
+UID:200cf9c7-a8cd-4535-be11-e970319c0104@200c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260323T142000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 1re étape
+UID:163eae1f-cf4a-40e6-b1c6-d07e53d32596@163e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260327T142000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 5e étape
+UID:5f4562c8-8810-4c69-8bf1-871b0e5d3959@5f45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260327T133000Z
+SUMMARY:🚴‍♂️ [RTL] E3 Saxo Bank Classic 🇧🇪 (1.UWT)
+UID:fe8c1bda-9bfb-4fd8-ae2d-0aa174cc2801@fe8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h20 sur Tipik etRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260326T142000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 4e étape
+UID:e315efe1-f8e4-4ae5-82be-afc952bb66df@e315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h20 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260325T142000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de Catalogne - Hommes 🇪🇸 (2.UWT) - 3e étape
+UID:e6771efb-30b2-429f-907b-47ca39479b91@e677.org
 END:VEVENT
 END:VCALENDAR
