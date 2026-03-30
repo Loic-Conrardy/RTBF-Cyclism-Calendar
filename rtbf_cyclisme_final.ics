@@ -2,13 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
+DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260405T113000Z
+SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Hommes 🇧🇪 (1.UWT)
+UID:84377eea-3770-4a75-bf05-3c12406a0c26@8437.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
 DTEND:20260406T142100Z
 LOCATION:Tipik
 DTSTART:20260406T112800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
-UID:47469154-8d5b-4851-a7ab-c06631e9bf36@4746.org
-URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-696648
+UID:389371ab-7a89-4be8-885c-9f3c8b491a02@3893.org
+URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -16,14 +24,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260405T130000Z
 SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
-UID:e621c7a3-2fd2-4093-9b39-e249ad78739d@e621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260405T113000Z
-SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Hommes 🇧🇪 (1.UWT)
-UID:221b1e85-8fa1-4d95-9d56-34ecf38872ec@221b.org
+UID:27cb54cd-ada6-4114-ba9f-cf524f9e8cd7@27cb.org
 END:VEVENT
 END:VCALENDAR
