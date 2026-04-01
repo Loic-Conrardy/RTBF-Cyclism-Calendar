@@ -7,7 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260412T104500Z
 SUMMARY:🚴‍♂️ [RTBF] Paris-Roubaix - Hommes 🇫🇷 (1.UWT)
-UID:9ea5246e-c408-4648-8767-8303d5d457d0@9ea5.org
+UID:bf318e4e-6345-49af-a712-2f0c0224bffe@bf31.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 16h45 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,15 +15,7 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260412T144500Z
 SUMMARY:🚴‍♂️ [RTBF] Paris-Roubaix - Femmes 🇫🇷 (1.WWT)
-UID:0b859dd6-a86a-473d-9f8c-6f9f78740774@0b85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260405T130000Z
-SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
-UID:0561f4fb-5899-41a0-ac56-d642782a22ae@0561.org
+UID:492b2f61-d128-4f0c-b426-1dd5dd226c25@492b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
@@ -31,8 +23,16 @@ DTEND:20260406T142100Z
 LOCATION:Tipik
 DTSTART:20260406T112800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
-UID:62b817c9-38dc-4ab8-b77d-6b0b2fff0ef3@62b8.org
+UID:98e464a4-7416-480e-96d8-0f680e6705f4@98e4.org
 URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260405T130000Z
+SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
+UID:e6f9566e-385f-4f96-b411-a8c7bcdb9998@e6f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -40,7 +40,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260408T133500Z
 SUMMARY:🚴‍♂️ [RTL] Grand Prix de l’Escaut - Hommes 🇧🇪 (1.Pro)
-UID:526efa4f-6a69-4a8a-837c-5d845f7cebe3@526e.org
+UID:1e0f0a6d-486f-4d20-b518-864b33029a67@1e0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -48,6 +48,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260405T113000Z
 SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Hommes 🇧🇪 (1.UWT)
-UID:5688fad6-fc0c-4c33-8553-f13c54f8b270@5688.org
+UID:1095d333-220c-4445-81cb-1e3c762ccb55@1095.org
 END:VEVENT
 END:VCALENDAR
