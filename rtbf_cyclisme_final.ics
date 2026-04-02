@@ -2,45 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 12h45 sur Tipik\, puis dès 13h35 sur La Une\, et dès 12h45 sur RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260412T104500Z
-SUMMARY:🚴‍♂️ [RTBF] Paris-Roubaix - Hommes 🇫🇷 (1.UWT)
-UID:bf318e4e-6345-49af-a712-2f0c0224bffe@bf31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 16h45 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260412T144500Z
-SUMMARY:🚴‍♂️ [RTBF] Paris-Roubaix - Femmes 🇫🇷 (1.WWT)
-UID:492b2f61-d128-4f0c-b426-1dd5dd226c25@492b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
-DTEND:20260406T142100Z
-LOCATION:Tipik
-DTSTART:20260406T112800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
-UID:98e464a4-7416-480e-96d8-0f680e6705f4@98e4.org
-URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260405T130000Z
-SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
-UID:e6f9566e-385f-4f96-b411-a8c7bcdb9998@e6f9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260408T133500Z
 SUMMARY:🚴‍♂️ [RTL] Grand Prix de l’Escaut - Hommes 🇧🇪 (1.Pro)
-UID:1e0f0a6d-486f-4d20-b518-864b33029a67@1e0f.org
+UID:0f185d81-9917-4f71-87d6-5b84d4bfe8c3@0f18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -48,6 +15,39 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260405T113000Z
 SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Hommes 🇧🇪 (1.UWT)
-UID:1095d333-220c-4445-81cb-1e3c762ccb55@1095.org
+UID:7926859b-c887-48a4-95f0-9924fc679070@7926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260405T130000Z
+SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
+UID:a1b2825e-926d-4bb2-bb3f-dc2188fe3485@a1b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 12h45 sur Tipik\, puis dès 13h35 sur La Une\, et dès 12h45 sur RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260412T104500Z
+SUMMARY:🚴‍♂️ [RTBF] Paris-Roubaix - Hommes 🇫🇷 (1.UWT)
+UID:b58d2e36-d38b-4e00-8fef-6caaf75e7ad2@b58d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 16h45 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260412T144500Z
+SUMMARY:🚴‍♂️ [RTBF] Paris-Roubaix - Femmes 🇫🇷 (1.WWT)
+UID:4c084f20-42f9-4acd-877e-ebff8b6d2acb@4c08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
+DTEND:20260406T142100Z
+LOCATION:Tipik
+DTSTART:20260406T112800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
+UID:f5bab087-f9f3-440a-b220-ffbe5b4f79a8@f5ba.org
+URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
 END:VEVENT
 END:VCALENDAR
