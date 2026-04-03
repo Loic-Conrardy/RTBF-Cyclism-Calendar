@@ -2,12 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260405T130000Z
+SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
+UID:9dbd578b-287d-41bb-b18a-b5ae83c5a329@9dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260408T133500Z
+SUMMARY:🚴‍♂️ [RTL] Grand Prix de l’Escaut - Hommes 🇧🇪 (1.Pro)
+UID:53c5a9f0-0b12-4d4d-99e6-77558095e432@53c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
+DTEND:20260406T142100Z
+LOCATION:Tipik
+DTSTART:20260406T112800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
+UID:778d3ebd-e17d-4294-800e-f43b7041146c@778d.org
+URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-roubaix-femmes-702091
+DTEND:20260412T120600Z
+LOCATION:Tipik
+DTSTART:20260412T104300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Femmes
+UID:8c0158e1-d156-45c1-a839-1b1b61db5744@8c01.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-femmes-702091
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
+DTEND:20260422T164600Z
+LOCATION:La Une
+DTSTART:20260422T145300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Dames
+UID:05054fcb-c0a5-4ea8-a50e-7f2b87ece239@0505.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260405T113000Z
+SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Hommes 🇧🇪 (1.UWT)
+UID:60d91177-88ef-46b2-a366-3da7535537d7@60d9.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-hommes-702104
 DTEND:20260422T150900Z
 LOCATION:La Une
 DTSTART:20260422T113700Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Hommes
-UID:f96de480-bf8c-497f-9ef8-c96197a63062@f96d.org
+UID:4a240fdf-2d96-4791-855f-30ac152df6e2@4a24.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-hommes-702104
 END:VEVENT
 BEGIN:VEVENT
@@ -16,7 +67,7 @@ DTEND:20260412T151300Z
 LOCATION:La Une
 DTSTART:20260412T113500Z
 SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Hommes
-UID:1dfca1c0-654b-4d8f-982b-77b295fe61dd@1dfc.org
+UID:7adddc9d-227c-4acd-acd7-5874449116bf@7add.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-hommes-702092
 END:VEVENT
 BEGIN:VEVENT
@@ -25,58 +76,7 @@ DTEND:20260422T115000Z
 LOCATION:Tipik
 DTSTART:20260422T104300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne
-UID:0f2937ce-dda7-42a6-94ef-fd1e9cd00017@0f29.org
+UID:058e1550-d706-4dae-9b84-4721e2d0a181@058e.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-702103
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260408T133500Z
-SUMMARY:🚴‍♂️ [RTL] Grand Prix de l’Escaut - Hommes 🇧🇪 (1.Pro)
-UID:69549ff5-c6be-4eb4-93c4-17bb69b06bfc@6954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h30 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260405T113000Z
-SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Hommes 🇧🇪 (1.UWT)
-UID:a0ba363a-f1ca-4b8e-8b36-4ac8522983d3@a0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
-DTEND:20260422T164600Z
-LOCATION:La Une
-DTSTART:20260422T145300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Dames
-UID:3520611a-1d9b-4dd4-ab0d-c9505bd5857a@3520.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-roubaix-femmes-702091
-DTEND:20260412T120600Z
-LOCATION:Tipik
-DTSTART:20260412T104300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Femmes
-UID:6d5e8308-f40b-4297-ace4-799155ce9b63@6d5e.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-femmes-702091
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
-DTEND:20260406T142100Z
-LOCATION:Tipik
-DTSTART:20260406T112800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Ronde de Mouscron
-UID:3b0a651f-5b50-4c21-8fad-05dfa8e45bf8@3b0a.org
-URL:https://auvio.rtbf.be/live/cyclisme-ronde-de-mouscron-700812
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 surRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260405T130000Z
-SUMMARY:🚴‍♂️ [RTL] Tour des Flandres - Femmes 🇧🇪 (1.WWT)
-UID:eb75a3ad-fd6d-418f-9ebe-47bf4a0682e4@eb75.org
 END:VEVENT
 END:VCALENDAR
