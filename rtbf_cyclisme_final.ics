@@ -2,73 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702899
-DTEND:20260426T145900Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-dames-703120
+DTEND:20260412T170500Z
 LOCATION:La Une
-DTSTART:20260426T113500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège - Bastogne - Liège
-UID:d8f28b55-5ada-42a4-93b0-776493704cc7@d8f2.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702899
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702898
-DTEND:20260426T120200Z
-LOCATION:Tipik
-DTSTART:20260426T093800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège - Bastogne - Liège
-UID:5ee84cf5-d1bc-4f07-b41d-02bb47030213@5ee8.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702898
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-hommes-1ere-partie-702091
-DTEND:20260412T114500Z
-LOCATION:Tipik
-DTSTART:20260412T103300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Course Hommes - 1ere partie
-UID:c553240c-d69a-43dd-accf-cf94b837be70@c553.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-hommes-1ere-partie-702091
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h15 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260417T131500Z
-SUMMARY:🚴‍♂️ [RTL] Flèche Brabançonne - Hommes 🇧🇪 (1.Pro)
-UID:9f4db120-687f-45cc-a4f7-89c2b726b130@9f4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260419T130000Z
-SUMMARY:🚴‍♂️ [RTL] Amstel Gold Race - Hommes 🇳🇱 (1.UWT)
-UID:b689f99e-205d-4c1e-ab62-8ebef82887e4@b689.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260415T133000Z
-SUMMARY:🚴‍♂️ [RTL] Tour du Limbourg 🇧🇪 (1.Pro)
-UID:16a275b4-be8f-4ee7-bdb4-8509aeb35121@16a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
-DTEND:20260422T164600Z
-LOCATION:La Une
-DTSTART:20260422T145300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Dames
-UID:76540d2d-f6f7-4216-83d6-725c5d6fb821@7654.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-hommes-702104
-DTEND:20260422T150900Z
-LOCATION:La Une
-DTSTART:20260422T113700Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Hommes
-UID:9792162a-6dd9-46a0-a05e-22f80c72ab4a@9792.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-hommes-702104
+DTSTART:20260412T145500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Course Dames
+UID:447e0480-19e4-4aa9-a60f-872f93154408@447e.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-dames-703120
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-702103
@@ -76,25 +16,67 @@ DTEND:20260422T115000Z
 LOCATION:Tipik
 DTSTART:20260422T104300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne
-UID:8d988c89-b685-4904-b474-a1f6c593770f@8d98.org
+UID:fe1594e1-bd96-48c3-898b-80b432e8bc25@fe15.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-702103
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-dames-703120
-DTEND:20260412T170500Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-hommes-702104
+DTEND:20260422T150900Z
 LOCATION:La Une
-DTSTART:20260412T145500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Course Dames
-UID:26e7fc05-fa9c-4bdb-9df1-8bd4c5644a69@26e7.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-dames-703120
+DTSTART:20260422T113700Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Hommes
+UID:2a3e763b-01e1-4862-a153-6495996d7aa2@2a3e.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-hommes-702104
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-hommes-2e-partie-702092
-DTEND:20260412T150500Z
+DESCRIPTION:Diffusion : Dès 15h00 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260419T130000Z
+SUMMARY:🚴‍♂️ [RTL] Amstel Gold Race - Hommes 🇳🇱 (1.UWT)
+UID:19732355-16d9-4151-bd06-590db3e22406@1973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702899
+DTEND:20260426T145900Z
 LOCATION:La Une
-DTSTART:20260412T113500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Paris-Roubaix - Course Hommes - 2e partie
-UID:6a3cfe9b-7f24-43de-97e1-736301bed3d8@6a3c.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-roubaix-course-hommes-2e-partie-702092
+DTSTART:20260426T113500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège - Bastogne - Liège
+UID:61fde2d9-a3f3-4166-a8dc-cfa00b8a278b@61fd.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
+DTEND:20260422T164600Z
+LOCATION:La Une
+DTSTART:20260422T145300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Dames
+UID:065ac5a7-acd9-45c4-811b-56624a1d18b7@065a.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-dames-702123
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702898
+DTEND:20260426T120200Z
+LOCATION:Tipik
+DTSTART:20260426T093800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège - Bastogne - Liège
+UID:3ff507ed-7138-4629-b9b1-8be243b69108@3ff5.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogne-liege-702898
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h15 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260417T131500Z
+SUMMARY:🚴‍♂️ [RTL] Flèche Brabançonne - Hommes 🇧🇪 (1.Pro)
+UID:1be2c525-8324-4b32-90ab-72a10dbbe752@1be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260415T133000Z
+SUMMARY:🚴‍♂️ [RTL] Tour du Limbourg 🇧🇪 (1.Pro)
+UID:7e59a899-027d-4103-ab46-772e29773dd5@7e59.org
 END:VEVENT
 END:VCALENDAR
