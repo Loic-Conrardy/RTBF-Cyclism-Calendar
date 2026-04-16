@@ -2,38 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
-DTEND:20260426T114500Z
-LOCATION:Tipik
-DTSTART:20260426T093800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Hommes - 1ere partie
-UID:8acb32fa-7332-4302-ae4e-fd6e36dd2c24@8acb.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260419T130000Z
-SUMMARY:🚴‍♂️ [RTL] Amstel Gold Race - Hommes 🇳🇱 (1.UWT)
-UID:9ff6ffb4-d5df-4f41-a030-4210dc31e1f0@9ff6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-presentation-des-coureurs-706792
 DTEND:20260422T093500Z
 DTSTART:20260422T074500Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Présentation des coureurs
-UID:e64845c4-10f3-4155-8a73-c1837eb6f822@e648.org
+UID:99e5d900-9d72-44ff-be83-8551b4b617aa@99e5.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-presentation-des-coureurs-706792
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-dames-705888
-DTEND:20260426T163500Z
-LOCATION:La Une
-DTSTART:20260426T145300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Dames
-UID:c4426372-3d50-4089-b4b1-0aff23e7c1b6@c442.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-dames-705888
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-hommes-1ere-partie-702103
@@ -41,43 +15,8 @@ DTEND:20260422T114000Z
 LOCATION:Tipik
 DTSTART:20260422T104300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Course Hommes - 1ere partie
-UID:e163b891-ece7-4a3e-b6eb-da5277a5824e@e163.org
+UID:213c39a2-8fb2-405a-a9ad-22f5718ae6f7@213c.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-hommes-1ere-partie-702103
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
-DTEND:20260425T141500Z
-DTSTART:20260425T111500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Présentations des 46 équipes Hommes & Dames
-UID:c87042bb-e162-43e9-9c66-64cc26b17e8c@c870.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-706782
-DTEND:20260505T125400Z
-LOCATION:Tipik
-DTSTART:20260505T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta
-UID:c8bbaba7-27f4-47c7-826a-18a3f6f8aa7a@c8bb.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-706782
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-hommes-2e-partie-702104
-DTEND:20260422T150500Z
-LOCATION:La Une
-DTSTART:20260422T113700Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Course Hommes - 2e partie
-UID:9311fe68-b7ff-4b27-8bd5-130fe1c0ebfd@9311.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-hommes-2e-partie-702104
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-706256
-DTEND:20260503T123700Z
-LOCATION:Tipik
-DTSTART:20260503T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta
-UID:e38777fa-7fe8-4df9-b844-532a82a6c20a@e387.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-706256
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-2e-partie-702899
@@ -85,25 +24,68 @@ DTEND:20260426T150000Z
 LOCATION:La Une
 DTSTART:20260426T113600Z
 SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Hommes - 2e partie
-UID:05326787-c964-4f82-a9e4-2c77d3b36f92@0532.org
+UID:b896bbed-2eae-458d-8af5-3eaf3c5ceb35@b896.org
 URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-2e-partie-702899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-dames-705888
+DTEND:20260426T163500Z
+LOCATION:La Une
+DTSTART:20260426T145300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Dames
+UID:a733c4ef-ee0e-4aab-aac1-221ca50402d7@a733.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-dames-705888
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-hommes-2e-partie-702104
+DTEND:20260422T150500Z
+LOCATION:La Une
+DTSTART:20260422T113700Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Course Hommes - 2e partie
+UID:d5ead98d-2bd5-4e8f-a335-c8e6bd61c308@d5ea.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-hommes-2e-partie-702104
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-706914
+DTEND:20260506T124300Z
+LOCATION:Tipik
+DTSTART:20260506T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta
+UID:d7aa9f38-ad80-4375-89a6-e07a7bd75b4b@d7aa.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-706914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
+DTEND:20260503T123700Z
+LOCATION:Tipik
+DTSTART:20260503T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 1ere étape : Marin > Salvaterra de Miño
+UID:48d971c8-db42-45f1-bbf1-d44cde94ebbe@48d9.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h00 sur RTL-TVi etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260419T130000Z
+SUMMARY:🚴‍♂️ [RTL] Amstel Gold Race - Hommes 🇳🇱 (1.UWT)
+UID:2e104d4c-abfd-44c5-bda6-ac2d1c692b97@2e10.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-presentation-des-coureuses-706793
 DTEND:20260422T114500Z
 DTSTART:20260422T101500Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Présentation des coureuses
-UID:aa77f9cf-6227-409d-b7f3-bc1395ffa058@aa77.org
+UID:16fb41fb-c58a-41fc-8357-3c7ea7084dfa@16fb.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-presentation-des-coureuses-706793
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-706257
-DTEND:20260504T125000Z
-LOCATION:Tipik
-DTSTART:20260504T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta
-UID:62ec2880-8597-4562-a43d-7482efdc4ec3@62ec.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-706257
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
+DTEND:20260425T141500Z
+DTSTART:20260425T111500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Présentations des 46 équipes Hommes & Dames
+UID:e6eeee54-72a5-4588-99d1-54c6261f3b59@e6ee.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h15 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -111,7 +93,16 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260417T131500Z
 SUMMARY:🚴‍♂️ [RTL] Flèche Brabançonne - Hommes 🇧🇪 (1.Pro)
-UID:8fc2a519-cb63-40c8-8b4b-05e37fc32379@8fc2.org
+UID:5a537341-17eb-432f-9ac5-db8e1ae1179a@5a53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-2e-etape-lobios-san-cibrao-das-vinas-706257
+DTEND:20260504T125000Z
+LOCATION:Tipik
+DTSTART:20260504T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 2e étape : Lobios > San Cibrao das Viñas
+UID:e5b95ec2-54ac-4666-ab9a-6ef9f6578856@e5b9.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-2e-etape-lobios-san-cibrao-das-vinas-706257
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-dames-702123
@@ -119,7 +110,25 @@ DTEND:20260422T163500Z
 LOCATION:La Une
 DTSTART:20260422T145300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Flèche wallonne - Course Dames
-UID:0c7f240d-c703-4d3e-a208-cab2bc02e2e0@0c7f.org
+UID:abf9e22c-73a5-4c35-ba9f-ea306faa70ab@abf9.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-fleche-wallonne-course-dames-702123
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
+DTEND:20260505T125400Z
+LOCATION:Tipik
+DTSTART:20260505T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 3e étape : Padrón > A Coruña
+UID:e5be285b-efb8-42e8-851d-c52ff08c82fc@e5be.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
+DTEND:20260426T114500Z
+LOCATION:Tipik
+DTSTART:20260426T093800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Hommes - 1ere partie
+UID:02822951-7ca9-426e-ab81-92b98bde53b6@0282.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
 END:VEVENT
 END:VCALENDAR
