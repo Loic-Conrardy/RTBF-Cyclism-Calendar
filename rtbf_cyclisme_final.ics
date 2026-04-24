@@ -2,58 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
+DTEND:20260508T124200Z
+LOCATION:Tipik
+DTSTART:20260508T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
+UID:691df58e-cfc9-45ac-a251-948cdb4bc424@691d.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-dames-705888
 DTEND:20260426T163500Z
 LOCATION:La Une
 DTSTART:20260426T145300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Dames
-UID:e47c04e5-dde1-4f12-a658-a6e1f6041feb@e47c.org
+UID:fc7b6c28-c5ae-4cb0-941a-9e75f838b191@fc7b.org
 URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-dames-705888
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
-DTEND:20260510T154900Z
-LOCATION:Tipik
-DTSTART:20260510T131300Z
-SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:47eb67e5-1f1b-43c5-8ced-050995681dc6@47eb.org
-URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
-DTEND:20260426T114500Z
-LOCATION:Tipik
-DTSTART:20260426T093800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Hommes - 1ere partie
-UID:a274bb51-e20d-4ab6-b1aa-def41c970e6a@a274.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
-DTEND:20260503T124300Z
-LOCATION:Tipik
-DTSTART:20260503T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 1ere étape : Marin > Salvaterra de Miño
-UID:55441665-c840-408b-bac7-0c360a45a9a7@5544.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-eschborn-frankfurt-707419
-DTEND:20260501T154700Z
-LOCATION:Tipik
-DTSTART:20260501T121800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Eschborn Frankfurt
-UID:52e32f39-0de6-4faa-a5ba-58438c7fcc2e@52e3.org
-URL:https://auvio.rtbf.be/live/cyclisme-eschborn-frankfurt-707419
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
-DTEND:20260503T150400Z
-LOCATION:La Une
-DTSTART:20260503T121800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Famenne Ardenne Classic
-UID:436fb830-da1b-49f0-8c6a-cad78c71d99a@436f.org
-URL:https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-2e-etape-lobios-san-cibrao-das-vinas-706257
@@ -61,34 +25,8 @@ DTEND:20260504T125000Z
 LOCATION:Tipik
 DTSTART:20260504T101800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 2e étape : Lobios > San Cibrao das Viñas
-UID:f35bee02-8e02-4d6d-be62-85f9328f7d88@f35b.org
+UID:75f3c266-ab15-4d22-932e-30768a1c35d4@75f3.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-2e-etape-lobios-san-cibrao-das-vinas-706257
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
-DTEND:20260425T141500Z
-DTSTART:20260425T111500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Présentations des 46 équipes Hommes & Dames
-UID:86c1c33c-7fac-46c4-aba7-1414932353f4@86c1.org
-URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
-DTEND:20260507T124300Z
-LOCATION:Tipik
-DTSTART:20260507T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
-UID:35ebb875-c6fc-4754-b92b-e4f1e73df0b0@35eb.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-DTEND:20260509T124200Z
-LOCATION:Tipik
-DTSTART:20260509T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:64c57012-c480-404f-8c14-af5eafd170aa@64c5.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
@@ -96,8 +34,79 @@ DTEND:20260505T125400Z
 LOCATION:Tipik
 DTSTART:20260505T101800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 3e étape : Padrón > A Coruña
-UID:cb934801-2ce1-496d-b9c5-f2081ecac97a@cb93.org
+UID:cb74771e-74a2-4205-8a64-c36af6b6f974@cb74.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
+DTEND:20260507T124300Z
+LOCATION:Tipik
+DTSTART:20260507T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
+UID:db2176d9-c8d9-4243-b3db-4c902910ee78@db21.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
+DTEND:20260426T114500Z
+LOCATION:Tipik
+DTSTART:20260426T093800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Hommes - 1ere partie
+UID:f14f10a7-a7a3-4a68-adb0-e14c4c4b59ca@f14f.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-1ere-partie-702898
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+DTEND:20260509T124200Z
+LOCATION:Tipik
+DTSTART:20260509T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
+UID:1d17d96e-973a-41af-8b70-4dbf4766974e@1d17.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
+DTEND:20260503T124300Z
+LOCATION:Tipik
+DTSTART:20260503T101800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 1ere étape : Marin > Salvaterra de Miño
+UID:744476e8-6718-4c61-b519-8876dcc5c858@7444.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
+DTEND:20260503T150400Z
+LOCATION:La Une
+DTSTART:20260503T121800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Famenne Ardenne Classic
+UID:15f42a3b-2bc1-4679-83d6-4669df051ba6@15f4.org
+URL:https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
+DTEND:20260425T141500Z
+DTSTART:20260425T111500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Présentations des 46 équipes Hommes & Dames
+UID:f0cbdad1-41c0-489b-afcf-7aba56ae3dd5@f0cb.org
+URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-presentations-des-46-equipes-hommes-dames-706794
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-eschborn-frankfurt-707419
+DTEND:20260501T154700Z
+LOCATION:Tipik
+DTSTART:20260501T121800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Eschborn Frankfurt
+UID:3d15c180-c564-434b-9e28-068d32c88969@3d15.org
+URL:https://auvio.rtbf.be/live/cyclisme-eschborn-frankfurt-707419
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
+DTEND:20260510T154900Z
+LOCATION:Tipik
+DTSTART:20260510T131300Z
+SUMMARY:🚴 [RTBF] Tro Bro Leon
+UID:97b4c8ac-3015-40a8-8ef5-663a23917331@97b4.org
+URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-2e-partie-702899
@@ -105,17 +114,8 @@ DTEND:20260426T150000Z
 LOCATION:La Une
 DTSTART:20260426T113600Z
 SUMMARY:🚴 [RTBF] Cyclisme - Liège >Bastogne>Liège - Course Hommes - 2e partie
-UID:2f3d6de0-68ae-4064-96be-a1f1a6457431@2f3d.org
+UID:a398ccac-a0e5-4693-82a0-c64c42a67254@a398.org
 URL:https://auvio.rtbf.be/live/cyclisme-liege-bastogneliege-course-hommes-2e-partie-702899
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-DTEND:20260508T124200Z
-LOCATION:Tipik
-DTSTART:20260508T101800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
-UID:1550d127-c7d1-4d2c-be15-a166dbb5bfe6@1550.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
@@ -123,7 +123,7 @@ DTEND:20260506T124200Z
 LOCATION:Tipik
 DTSTART:20260506T101800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 4e étape : Monforte de Lemos > Antas de Ulla
-UID:240df73b-a44b-46e8-8ede-9a10d62bbb56@240d.org
+UID:d0227456-09e3-4814-91a9-1cb04f074d70@d022.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
 END:VEVENT
 END:VCALENDAR
