@@ -2,13 +2,49 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
+DTEND:20260503T131200Z
+LOCATION:Tipik
+DTSTART:20260503T103800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 1ere étape : Marin > Salvaterra de Miño
+UID:d9504ae4-d844-45fa-87c5-61afb8e65f54@d950.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+DTEND:20260509T130700Z
+LOCATION:Tipik
+DTSTART:20260509T103800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
+UID:4e580164-16e5-4359-8f1d-80feb8a8ad41@4e58.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-2e-etape-lobios-san-cibrao-das-vinas-706257
 DTEND:20260504T155000Z
 LOCATION:Tipik
 DTSTART:20260504T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 2e étape : Lobios > San Cibrao das Viñas
-UID:a6a089f4-00aa-4fb0-88e2-cd89ba1830b1@a6a0.org
+UID:9becb8f3-f2c0-48bf-a9e3-96e9de0be06a@9bec.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-2e-etape-lobios-san-cibrao-das-vinas-706257
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
+DTEND:20260510T154900Z
+LOCATION:Tipik
+DTSTART:20260510T131300Z
+SUMMARY:🚴 [RTBF] Tro Bro Leon
+UID:416c4254-3b87-45db-8304-21943ec479bd@416c.org
+URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
+DTEND:20260505T155100Z
+LOCATION:Tipik
+DTSTART:20260505T132300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 3e étape : Padrón > A Coruña
+UID:aa6f1729-11bc-4ef6-85ec-870b1f869327@aa6f.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
@@ -16,8 +52,17 @@ DTEND:20260506T155200Z
 LOCATION:Tipik
 DTSTART:20260506T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 4e étape : Monforte de Lemos > Antas de Ulla
-UID:1b44b1bc-ef23-4fc5-83d5-4e2221dda113@1b44.org
+UID:fe5eaae8-3400-4584-88dd-db0491de1503@fe5e.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
+DTEND:20260503T153000Z
+LOCATION:La Une
+DTSTART:20260503T121800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Famenne Ardenne Classic
+UID:c49fb26f-081a-40aa-96dc-480fce2b41dd@c49f.org
+URL:https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
@@ -25,7 +70,7 @@ DTEND:20260507T155400Z
 LOCATION:Tipik
 DTSTART:20260507T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
-UID:2bf74d38-daed-455a-9b70-4bbf24919d12@2bf7.org
+UID:f0756893-19e2-4a0e-b370-732ed69fd696@f075.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
 END:VEVENT
 BEGIN:VEVENT
@@ -34,52 +79,7 @@ DTEND:20260508T162300Z
 LOCATION:Tipik
 DTSTART:20260508T140200Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
-UID:2209612f-8689-4a21-bd84-bbc250699d3e@2209.org
+UID:c8e443a8-795d-4569-a0d6-02a8521381d3@c8e4.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-DTEND:20260509T130700Z
-LOCATION:Tipik
-DTSTART:20260509T103800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:a8b63cf2-9231-453f-bcd9-dc4bb7414438@a8b6.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
-DTEND:20260503T153000Z
-LOCATION:La Une
-DTSTART:20260503T121800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Famenne Ardenne Classic
-UID:e1ddfd5b-ab5a-49e3-95a3-d67128840b17@e1dd.org
-URL:https://auvio.rtbf.be/live/cyclisme-famenne-ardenne-classic-708227
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
-DTEND:20260503T131200Z
-LOCATION:Tipik
-DTSTART:20260503T103800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 1ere étape : Marin > Salvaterra de Miño
-UID:71b9efef-5703-4635-a4ad-c697bd551a08@71b9.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-1ere-etape-marin-salvaterra-de-mino-706256
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
-DTEND:20260505T155100Z
-LOCATION:Tipik
-DTSTART:20260505T132300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 3e étape : Padrón > A Coruña
-UID:45bc28df-594d-4ff7-81e1-decaa3e2dabc@45bc.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-3e-etape-padron-a-coruna-706782
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
-DTEND:20260510T154900Z
-LOCATION:Tipik
-DTSTART:20260510T131300Z
-SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:84428a09-5905-4300-aea3-8b22be25c38e@8442.org
-URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
 END:VEVENT
 END:VCALENDAR
