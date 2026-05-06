@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-DTEND:20260509T130700Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
+DTEND:20260507T154800Z
 LOCATION:Tipik
-DTSTART:20260509T103800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:afcbe547-d1ac-43a5-9f5b-a50d083b6496@afcb.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+DTSTART:20260507T132300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
+UID:859931b4-c4af-4c9d-a937-8f7bac11dd35@8599.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
@@ -16,34 +16,25 @@ DTEND:20260508T161900Z
 LOCATION:Tipik
 DTSTART:20260508T140100Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
-UID:6e6b9dc0-5e0d-47c7-bbf8-550956b05d30@6e6b.org
+UID:fe0220b5-1884-479e-ad7f-3f30ccc00922@fe02.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
-DTEND:20260506T160300Z
-LOCATION:Tipik
-DTSTART:20260506T133300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 4e étape : Monforte de Lemos > Antas de Ulla
-UID:bcd4b205-c304-47ff-968f-c037481be37e@bcd4.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
-DTEND:20260507T155400Z
-LOCATION:Tipik
-DTSTART:20260507T132300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
-UID:d30f06f9-7fa7-4499-8215-5606d1a49710@d30f.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
-DTEND:20260510T154900Z
+DTEND:20260510T155000Z
 LOCATION:Tipik
-DTSTART:20260510T131300Z
+DTSTART:20260510T131400Z
 SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:8b173fa6-e8cb-43f3-938e-11678e2d3f9b@8b17.org
+UID:65b298a2-d204-4d44-b566-b148bda534b5@65b2.org
 URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+DTEND:20260509T130700Z
+LOCATION:Tipik
+DTSTART:20260509T103800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
+UID:e41c2b4d-a2fe-43fd-8ffe-65ae1577ddcc@e41c.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
 END:VEVENT
 END:VCALENDAR
