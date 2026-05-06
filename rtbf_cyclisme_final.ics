@@ -2,22 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-DTEND:20260508T161900Z
-LOCATION:Tipik
-DTSTART:20260508T140100Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
-UID:17b195ff-3536-4cbc-91e5-240405b3a48e@17b1.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
 DTEND:20260509T130700Z
 LOCATION:Tipik
 DTSTART:20260509T103800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:84fc3387-1dd7-48f9-b5ea-8196b72921a4@84fc.org
+UID:afcbe547-d1ac-43a5-9f5b-a50d083b6496@afcb.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
+DTEND:20260508T161900Z
+LOCATION:Tipik
+DTSTART:20260508T140100Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
+UID:6e6b9dc0-5e0d-47c7-bbf8-550956b05d30@6e6b.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
+DTEND:20260506T160300Z
+LOCATION:Tipik
+DTSTART:20260506T133300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 4e étape : Monforte de Lemos > Antas de Ulla
+UID:bcd4b205-c304-47ff-968f-c037481be37e@bcd4.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
@@ -25,7 +34,7 @@ DTEND:20260507T155400Z
 LOCATION:Tipik
 DTSTART:20260507T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
-UID:ad570d71-59f6-4d8a-92ed-015c4b1f627f@ad57.org
+UID:d30f06f9-7fa7-4499-8215-5606d1a49710@d30f.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
 END:VEVENT
 BEGIN:VEVENT
@@ -34,16 +43,7 @@ DTEND:20260510T154900Z
 LOCATION:Tipik
 DTSTART:20260510T131300Z
 SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:ccb8911f-9524-4340-ac91-a5d3774da09b@ccb8.org
+UID:8b173fa6-e8cb-43f3-938e-11678e2d3f9b@8b17.org
 URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
-DTEND:20260506T160300Z
-LOCATION:Tipik
-DTSTART:20260506T133300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 4e étape : Monforte de Lemos > Antas de Ulla
-UID:90f908fb-9ac7-4f3f-ba2b-9a6830583bbe@90f9.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-4e-etape-monforte-de-lemos-antas-de-ulla-706914
 END:VEVENT
 END:VCALENDAR
