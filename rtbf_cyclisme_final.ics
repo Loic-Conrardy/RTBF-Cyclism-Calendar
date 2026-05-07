@@ -2,31 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
-DTEND:20260507T154800Z
-LOCATION:Tipik
-DTSTART:20260507T132300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
-UID:859931b4-c4af-4c9d-a937-8f7bac11dd35@8599.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
 DTEND:20260508T161900Z
 LOCATION:Tipik
 DTSTART:20260508T140100Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
-UID:fe0220b5-1884-479e-ad7f-3f30ccc00922@fe02.org
+UID:e0d78b1a-d27a-40ad-8ee6-58b543c6f826@e0d7.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
-DTEND:20260510T155000Z
-LOCATION:Tipik
-DTSTART:20260510T131400Z
-SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:65b298a2-d204-4d44-b566-b148bda534b5@65b2.org
-URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
@@ -34,7 +16,25 @@ DTEND:20260509T130700Z
 LOCATION:Tipik
 DTSTART:20260509T103800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:e41c2b4d-a2fe-43fd-8ffe-65ae1577ddcc@e41c.org
+UID:edf77c58-dcc3-4cd9-bbe0-13e9566f98ff@edf7.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
+DTEND:20260507T154800Z
+LOCATION:Tipik
+DTSTART:20260507T132300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 5e étape : León > Astorga
+UID:ec6eaab0-6a18-4b4b-850c-5a0b4f9f8668@ec6e.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-5e-etape-leon-astorga-707062
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
+DTEND:20260510T155000Z
+LOCATION:Tipik
+DTSTART:20260510T131400Z
+SUMMARY:🚴 [RTBF] Tro Bro Leon
+UID:974c62d8-2831-4aaf-bc1c-bce9043b7cc9@974c.org
+URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
 END:VEVENT
 END:VCALENDAR
