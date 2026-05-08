@@ -2,30 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-DTEND:20260508T162200Z
-LOCATION:Tipik
-DTSTART:20260508T140100Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
-UID:bf4bd005-83e9-48c4-802b-e688f3e5242d@bf4b.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260514T122000Z
 SUMMARY:🚴‍♂️ [RTBF] Circuit de Wallonie 🇧🇪 (1.1)
-UID:a780d7a3-5470-4278-ab74-579423b513ee@a780.org
+UID:d518b8be-7d6b-4371-bad6-6bce7ad301df@d518.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-DTEND:20260509T130700Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
+DTEND:20260508T162200Z
 LOCATION:Tipik
-DTSTART:20260509T103800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:13edb736-5942-4e0c-aae0-ee203fc8a72b@13ed.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+DTSTART:20260508T140100Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 6e étape : Gijón/Xixón > Les Praeres. Nava
+UID:e3f67e2f-cf3c-4d12-be3d-5e3b2ae7b7d1@e3f6.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-6e-etape-gijonxixon-les-praeres-nava-707234
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
@@ -33,7 +24,16 @@ DTEND:20260510T155000Z
 LOCATION:Tipik
 DTSTART:20260510T131400Z
 SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:149d89b8-1082-44f7-8799-b23ad6b7bdf1@149d.org
+UID:946fb464-3111-410e-81d2-35acfe63b236@946f.org
 URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
+DTEND:20260509T130700Z
+LOCATION:Tipik
+DTSTART:20260509T103800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
+UID:95f39cd0-8e8d-42ef-90d4-e907dcce0381@95f3.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
 END:VEVENT
 END:VCALENDAR
