@@ -2,21 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-DTEND:20260509T130900Z
-LOCATION:Tipik
-DTSTART:20260509T103800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta Femenina - 7e étape : La Pola Llaviana > L'Angliru
-UID:ff969f6f-f2af-4e47-92dd-e2013f79536f@ff96.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-femenina-7e-etape-la-pola-llaviana-langliru-707570
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260514T122000Z
 SUMMARY:🚴‍♂️ [RTBF] Circuit de Wallonie 🇧🇪 (1.1)
-UID:f66b8643-907f-4511-abd6-375bb7fb26df@f66b.org
+UID:8792e57b-14e9-47ed-931b-152e7400e784@8792.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
@@ -24,7 +15,7 @@ DTEND:20260510T154700Z
 LOCATION:Tipik
 DTSTART:20260510T131300Z
 SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:cd48f8ad-3ef1-44ed-bf29-6927d58b6ffc@cd48.org
+UID:479002ba-1a36-459e-9646-a33cc40a99cf@4790.org
 URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
 END:VEVENT
 END:VCALENDAR
