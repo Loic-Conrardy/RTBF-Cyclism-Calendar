@@ -2,20 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/tro-bro-leon-707569
-DTEND:20260510T154700Z
-LOCATION:Tipik
-DTSTART:20260510T131300Z
-SUMMARY:🚴 [RTBF] Tro Bro Leon
-UID:fca3a096-9e94-4eed-8698-8bcb238dd657@fca3.org
-URL:https://auvio.rtbf.be/live/tro-bro-leon-707569
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260514T122000Z
 SUMMARY:🚴‍♂️ [RTBF] Circuit de Wallonie 🇧🇪 (1.1)
-UID:75827fa6-046f-46ad-9c0c-b0e99357af2a@7582.org
+UID:4d534831-8071-4dae-93ed-d2846911b8b7@4d53.org
 END:VEVENT
 END:VCALENDAR
