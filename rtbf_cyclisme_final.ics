@@ -7,7 +7,7 @@ DTEND:20260514T142400Z
 LOCATION:Tipik
 DTSTART:20260514T121800Z
 SUMMARY:🚴 [RTBF] Circuit de Wallonie
-UID:ba9842ce-bc5b-4add-a286-c01ceca1c1a2@ba98.org
+UID:5a26e909-a3c9-4ad1-ab6e-466694bc45e1@5a26.org
 URL:https://auvio.rtbf.be/live/circuit-de-wallonie-711671
 END:VEVENT
 BEGIN:VEVENT
@@ -15,7 +15,7 @@ DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/circuit-de-wallonie-presen
 DTEND:20260514T100500Z
 DTSTART:20260514T084500Z
 SUMMARY:🚴 [RTBF] Circuit de Wallonie - Présentation des équipes
-UID:79f02fad-b0ae-40a5-bc6f-b1c58a5fac3f@79f0.org
+UID:01075343-5920-4170-be72-65b0b13d70d6@0107.org
 URL:https://auvio.rtbf.be/live/circuit-de-wallonie-presentation-des-equipes-711672
 END:VEVENT
 END:VCALENDAR
