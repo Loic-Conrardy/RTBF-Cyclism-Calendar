@@ -2,20 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/circuit-de-wallonie-presentation-des-equipes-711672
+DTEND:20260514T100500Z
+DTSTART:20260514T084500Z
+SUMMARY:🚴 [RTBF] Circuit de Wallonie - Présentation des équipes
+UID:f2bee7f1-a1f6-40c9-9364-f9cd566b9567@f2be.org
+URL:https://auvio.rtbf.be/live/circuit-de-wallonie-presentation-des-equipes-711672
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
+DTEND:20260524T155200Z
+LOCATION:La Une
+DTSTART:20260524T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
+UID:089529a3-136d-4f6c-b967-dc3c103e7e50@0895.org
+URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/circuit-de-wallonie-711671
 DTEND:20260514T142400Z
 LOCATION:Tipik
 DTSTART:20260514T121800Z
 SUMMARY:🚴 [RTBF] Circuit de Wallonie
-UID:5a26e909-a3c9-4ad1-ab6e-466694bc45e1@5a26.org
+UID:45f7a09f-911a-4ef0-a22c-cbc67f86e3cc@45f7.org
 URL:https://auvio.rtbf.be/live/circuit-de-wallonie-711671
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/circuit-de-wallonie-presentation-des-equipes-711672
-DTEND:20260514T100500Z
-DTSTART:20260514T084500Z
-SUMMARY:🚴 [RTBF] Circuit de Wallonie - Présentation des équipes
-UID:01075343-5920-4170-be72-65b0b13d70d6@0107.org
-URL:https://auvio.rtbf.be/live/circuit-de-wallonie-presentation-des-equipes-711672
 END:VEVENT
 END:VCALENDAR
