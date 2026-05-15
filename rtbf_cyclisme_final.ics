@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
-DTEND:20260524T155200Z
+DTEND:20260524T160700Z
 LOCATION:La Une
-DTSTART:20260524T132800Z
+DTSTART:20260524T131300Z
 SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
-UID:0e8ea7d5-390f-45be-9703-608672d201af@0e8e.org
+UID:9666fc50-68f0-4d7d-b529-39c8c78de2ac@9666.org
 URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
 END:VEVENT
 END:VCALENDAR
