@@ -7,7 +7,16 @@ DTEND:20260524T160700Z
 LOCATION:La Une
 DTSTART:20260524T131300Z
 SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
-UID:01caa9f6-f811-4b3d-a17b-10a6fa94c637@01ca.org
+UID:48fa0378-4f4a-44a9-86be-d4813f4646e8@48fa.org
 URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
+DTEND:20260607T145000Z
+LOCATION:Auvio
+DTSTART:20260607T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
+UID:2b3b63e5-50cb-43af-95f0-c4c32f2cae0e@2b3b.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
 END:VEVENT
 END:VCALENDAR
