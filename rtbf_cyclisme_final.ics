@@ -2,12 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
+DTEND:20260608T160200Z
+LOCATION:Tipik
+DTSTART:20260608T132300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
+UID:b7cd278b-348d-4ab9-9e38-e4a3ad2f72aa@b7cd.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
 DTEND:20260524T160700Z
 LOCATION:La Une
 DTSTART:20260524T131300Z
 SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
-UID:996485e3-007e-416a-8761-44d4d1844da0@9964.org
+UID:8ceee37c-e8f8-4d80-a97a-7158794dfe17@8cee.org
 URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
 END:VEVENT
 BEGIN:VEVENT
@@ -16,7 +25,7 @@ DTEND:20260607T145000Z
 LOCATION:Auvio
 DTSTART:20260607T113300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
-UID:a4286747-9361-48af-a325-106a74b720bc@a428.org
+UID:4e879339-45b3-4744-8754-2f9e1c1256d4@4e87.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
 END:VEVENT
 END:VCALENDAR
