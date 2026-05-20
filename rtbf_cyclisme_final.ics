@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
-DTEND:20260608T160200Z
-LOCATION:Tipik
-DTSTART:20260608T132300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
-UID:b7cd278b-348d-4ab9-9e38-e4a3ad2f72aa@b7cd.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
+DTEND:20260607T145000Z
+LOCATION:Auvio
+DTSTART:20260607T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
+UID:e4c4d273-dae9-46ba-a9c8-6a737f6a0a49@e4c4.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
@@ -16,16 +16,16 @@ DTEND:20260524T160700Z
 LOCATION:La Une
 DTSTART:20260524T131300Z
 SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
-UID:8ceee37c-e8f8-4d80-a97a-7158794dfe17@8cee.org
+UID:0054d82c-d098-4f7e-9fe1-62e9efce624a@0054.org
 URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
-DTEND:20260607T145000Z
-LOCATION:Auvio
-DTSTART:20260607T113300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
-UID:4e879339-45b3-4744-8754-2f9e1c1256d4@4e87.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
+DTEND:20260608T160200Z
+LOCATION:Tipik
+DTSTART:20260608T132300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
+UID:a8c38ce0-733d-40a1-8ac3-064099780030@a8c3.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
 END:VEVENT
 END:VCALENDAR
