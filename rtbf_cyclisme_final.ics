@@ -2,22 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-antwerp-port-epic-classic-715700
+DTEND:20260525T154500Z
+DTSTART:20260525T130000Z
+SUMMARY:🚴 [RTBF] Cyclisme - Antwerp Port Epic Classic
+UID:3750e9a6-c7bf-4b71-b200-cecf9896f853@3750.org
+URL:https://auvio.rtbf.be/live/cyclisme-antwerp-port-epic-classic-715700
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
 DTEND:20260608T160200Z
 LOCATION:Tipik
 DTSTART:20260608T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
-UID:28cd9284-2eb8-40ea-b2dc-90899258f40e@28cd.org
+UID:19879769-75ff-436d-8671-9ddbea55b7d3@1987.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
-DTEND:20260607T145000Z
-LOCATION:Auvio
-DTSTART:20260607T113300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
-UID:31cb4cc3-20c1-4f32-a7e1-830e572e0293@31cb.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
@@ -25,8 +24,17 @@ DTEND:20260524T160700Z
 LOCATION:La Une
 DTSTART:20260524T131300Z
 SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
-UID:bf63e5bc-2f23-4e3a-952b-0262084d2b97@bf63.org
+UID:03812eed-4480-460f-ab14-f580c229c130@0381.org
 URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
+DTEND:20260607T145000Z
+LOCATION:Auvio
+DTSTART:20260607T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
+UID:e80a6231-8df3-4957-91d6-1e6c91710004@e80a.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-713492
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
@@ -34,7 +42,7 @@ DTEND:20260609T155800Z
 LOCATION:Tipik
 DTSTART:20260609T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 3 : Perreux > Perreux (Clm équipes)
-UID:f91bde02-b8f6-4f2d-bcc2-27f93c034cb4@f91b.org
+UID:016c1126-7226-491c-9431-453a6b263fe8@016c.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
 END:VEVENT
 END:VCALENDAR
