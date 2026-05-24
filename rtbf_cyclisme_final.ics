@@ -2,57 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
-DTEND:20260607T132000Z
-LOCATION:Tipik
-DTSTART:20260607T110300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
-UID:619f8e36-c3ad-4d77-a64d-30b2e92c24bb@619f.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
-DTEND:20260612T160200Z
-LOCATION:Tipik
-DTSTART:20260612T132300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 6 : Saint-Vulbas > Crest-Voland
-UID:3f2a681c-df4c-42ea-ac61-ce5bf606837b@3f2a.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
-DTEND:20260609T155300Z
-LOCATION:Tipik
-DTSTART:20260609T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 3 : Perreux > Perreux (Clm équipes)
-UID:8d235c67-7a44-4074-a7ac-4c7d021071fa@8d23.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
-DTEND:20260524T160500Z
-LOCATION:La Une
-DTSTART:20260524T131300Z
-SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
-UID:eea63232-3ee4-4f71-8371-9dcd8fd5af35@eea6.org
-URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
 DTEND:20260610T155500Z
 LOCATION:Tipik
 DTSTART:20260610T131800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 4 : Le Puy en Velay > Montrond-les-Bains
-UID:55d3982a-9955-4b3b-a8d8-587052f1b7ae@55d3.org
+UID:250b83d4-d53a-4070-8a82-ec0e85e43d43@250b.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-antwerp-port-epic-classic-715700
-DTEND:20260525T154500Z
-DTSTART:20260525T130000Z
-SUMMARY:🚴 [RTBF] Cyclisme - Antwerp Port Epic Classic
-UID:aeff40dd-4581-4271-ab05-c4a249b256d5@aeff.org
-URL:https://auvio.rtbf.be/live/cyclisme-antwerp-port-epic-classic-715700
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
@@ -60,8 +16,17 @@ DTEND:20260611T155100Z
 LOCATION:Tipik
 DTSTART:20260611T131800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 5 : Saint-Chamond > Villars-les-Dombes
-UID:19f836dc-f1fb-4eda-8454-5f999eb1f99f@19f8.org
+UID:6218cf6a-969c-477a-84ca-f19246d505a1@6218.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
+DTEND:20260607T132000Z
+LOCATION:Tipik
+DTSTART:20260607T110300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
+UID:6571e07f-574a-4990-8a21-ef04e072f6fe@6571.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
@@ -69,7 +34,42 @@ DTEND:20260608T155700Z
 LOCATION:Tipik
 DTSTART:20260608T131800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
-UID:256e92e5-c044-4ae6-87b5-6e78263c983b@256e.org
+UID:a1787e7d-bbe1-4988-9699-22050fbcc24b@a178.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
+DTEND:20260609T155300Z
+LOCATION:Tipik
+DTSTART:20260609T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 3 : Perreux > Perreux (Clm équipes)
+UID:13c4af43-605b-4772-b45c-91e805ae6bc6@13c4.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
+DTEND:20260612T160200Z
+LOCATION:Tipik
+DTSTART:20260612T132300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 6 : Saint-Vulbas > Crest-Voland
+UID:dcdefb44-236f-4d60-a572-200777eecb4b@dcde.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
+DTEND:20260524T160500Z
+LOCATION:La Une
+DTSTART:20260524T131300Z
+SUMMARY:🚴 [RTBF] Cyclisme - GP Criquielion
+UID:aee27851-b280-41e1-a519-4fb98c703987@aee2.org
+URL:https://auvio.rtbf.be/live/cyclisme-gp-criquielion-712011
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-antwerp-port-epic-classic-715700
+DTEND:20260525T154500Z
+DTSTART:20260525T130000Z
+SUMMARY:🚴 [RTBF] Cyclisme - Antwerp Port Epic Classic
+UID:c7ba2236-d255-462f-bce4-7cce9c0c1192@c7ba.org
+URL:https://auvio.rtbf.be/live/cyclisme-antwerp-port-epic-classic-715700
 END:VEVENT
 END:VCALENDAR
