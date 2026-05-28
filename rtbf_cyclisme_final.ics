@@ -2,12 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-6-ala-brescello-721449
-DTEND:20260604T160000Z
-DTSTART:20260604T133000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 6 : Ala > Brescello
-UID:ff1b51e7-3473-46e2-8100-5e6e28542455@ff1b.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-6-ala-brescello-721449
+DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260603T133000Z
+SUMMARY:🚴‍♂️ [RTL] Ethias Tour de Wallonie 🇧🇪 (2.Pro) - 3e étape
+UID:9a45cd18-52bd-4678-9d95-0b04b16e40e0@9a45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
+DTEND:20260607T132000Z
+LOCATION:Tipik
+DTSTART:20260607T110300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
+UID:f9e94ff5-4b90-4f58-91bc-4cb30babe373@f9e9.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260602T133000Z
+SUMMARY:🚴‍♂️ [RTL] Ethias Tour de Wallonie 🇧🇪 (2.Pro) - 2e étape
+UID:3fc41137-ca93-4580-86be-715ae8484009@3fc4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
@@ -15,41 +32,8 @@ DTEND:20260609T155300Z
 LOCATION:Tipik
 DTSTART:20260609T131800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 3 : Perreux > Perreux (Clm équipes)
-UID:b6e1281e-37cb-43f9-a74d-0ce12c878df8@b6e1.org
+UID:9b13056c-591d-4e6e-a789-88c40b4967d8@9b13.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-2-roncade-caorle-721445
-DTEND:20260531T132000Z
-DTSTART:20260531T105000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 2 : Roncade > Caorle
-UID:885de482-0d1c-45a6-b460-09e97846d1e4@885d.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-2-roncade-caorle-721445
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-4-belluno-nevegal-clm-721447
-DTEND:20260602T145000Z
-DTSTART:20260602T122000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 4 : Belluno > Nevegal (Clm)
-UID:5d8ba7a7-ef47-45f5-aaa9-947b0435b750@5d8b.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-4-belluno-nevegal-clm-721447
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-8-rivoli-sestriere-721453
-DTEND:20260606T155000Z
-DTSTART:20260606T132000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 8 : Rivoli > Sestriere
-UID:8508f77f-075e-49bc-8215-a4df1a68fcc3@8508.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-8-rivoli-sestriere-721453
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
-DTEND:20260611T155100Z
-LOCATION:Tipik
-DTSTART:20260611T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 5 : Saint-Chamond > Villars-les-Dombes
-UID:46c19ec2-a17d-40ad-8f44-471ed93f88f4@46c1.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
@@ -57,16 +41,74 @@ DTEND:20260612T160200Z
 LOCATION:Tipik
 DTSTART:20260612T132300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 6 : Saint-Vulbas > Crest-Voland
-UID:6f599bb1-ee18-4525-9be2-ccdfe166d54e@6f59.org
+UID:31cc84be-10bf-4bb8-93d8-92e5f5c201dd@31cc.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-3-bibione-buja-721446
-DTEND:20260601T160000Z
-DTSTART:20260601T133000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 3 : Bibione > Buja
-UID:b92cf6bf-a1e4-4da6-b935-e861dc7b2ecc@b92c.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-3-bibione-buja-721446
+DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260607T130000Z
+SUMMARY:🚴‍♂️ [RTL] Brussels Cycling Classic 🇧🇪 (1.Pro)
+UID:61095d3c-55ca-484e-9c2a-36cd2fe0bcee@6109.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-6-ala-brescello-721449
+DTEND:20260604T160000Z
+DTSTART:20260604T133000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 6 : Ala > Brescello
+UID:02666c46-0cd1-42ab-9467-b3ac381a971f@0266.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-6-ala-brescello-721449
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
+DTEND:20260611T155100Z
+LOCATION:Tipik
+DTSTART:20260611T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 5 : Saint-Chamond > Villars-les-Dombes
+UID:dfde0c1a-6256-4cbd-8d08-b4e17f1ad59a@dfde.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-9-saluzzo-saluzzo-721487
+DTEND:20260607T155000Z
+DTSTART:20260607T132000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 9 : Saluzzo > Saluzzo
+UID:6caea5cc-1a08-439d-a6e2-881f28620406@6cae.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-9-saluzzo-saluzzo-721487
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260604T133000Z
+SUMMARY:🚴‍♂️ [RTL] Ethias Tour de Wallonie 🇧🇪 (2.Pro) - 4e étape
+UID:158f12f2-ed66-48c9-b130-e55574d2aab1@158f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-1-cesenatico-ravenna-721444
+DTEND:20260530T170000Z
+DTSTART:20260530T143000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 1 : Cesenatico > Ravenna
+UID:a2e72006-c96f-49d1-87fd-0c8fc9016ce6@a2e7.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-1-cesenatico-ravenna-721444
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-8-rivoli-sestriere-721453
+DTEND:20260606T155000Z
+DTSTART:20260606T132000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 8 : Rivoli > Sestriere
+UID:cde1281f-fa64-4106-bfd5-fb17cd5fb14a@cde1.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-8-rivoli-sestriere-721453
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
+DTEND:20260608T155700Z
+LOCATION:Tipik
+DTSTART:20260608T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
+UID:2c6636a3-f03f-4693-a7ee-e3bd48855334@2c66.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-7-la-bridoire-grand-colombier-720112
@@ -74,23 +116,32 @@ DTEND:20260613T143800Z
 LOCATION:La Une
 DTSTART:20260613T121800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 7 : La Bridoire > Grand Colombier
-UID:337206ff-d3dd-4b89-b3d8-502338e0e9f9@3372.org
+UID:55fa54c9-1f1d-48e6-844f-8dd7b27fb922@55fa.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-7-la-bridoire-grand-colombier-720112
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-9-saluzzo-saluzzo-721487
-DTEND:20260607T155000Z
-DTSTART:20260607T132000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 9 : Saluzzo > Saluzzo
-UID:e150159c-7a0b-4f74-8f71-41ac4bb86397@e150.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-9-saluzzo-saluzzo-721487
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-3-bibione-buja-721446
+DTEND:20260601T160000Z
+DTSTART:20260601T133000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 3 : Bibione > Buja
+UID:b1d73369-a029-48b5-9a6a-24bd3d74eca8@b1d7.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-3-bibione-buja-721446
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
+DTEND:20260614T154300Z
+LOCATION:La Une
+DTSTART:20260614T131300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 8 : Beaufort > Plateau de Solaison
+UID:8c09bc22-d625-47ea-ae69-4ac2520b3685@8c09.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-5-longarone-santo-stefano-di-cadore-721448
 DTEND:20260603T160000Z
 DTSTART:20260603T133000Z
 SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 5 : Longarone > Santo Stefano di Cadore
-UID:00e9b3a2-e1a9-4ab8-b9cf-b6e41230cae3@00e9.org
+UID:9254a1fc-a100-4c40-a639-41b001967261@9254.org
 URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-5-longarone-santo-stefano-di-cadore-721448
 END:VEVENT
 BEGIN:VEVENT
@@ -99,50 +150,39 @@ DTEND:20260610T155500Z
 LOCATION:Tipik
 DTSTART:20260610T131800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 4 : Le Puy en Velay > Montrond-les-Bains
-UID:30d74c9e-95a0-4250-a5d6-5ef8a1be4fe4@30d7.org
+UID:039f108e-d337-4825-970e-99816dfa2cc2@039f.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
-DTEND:20260614T154300Z
-LOCATION:La Une
-DTSTART:20260614T131300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 8 : Beaufort > Plateau de Solaison
-UID:ea1b76ab-c5ae-4582-a3ac-73f1ce703ba9@ea1b.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
-DTEND:20260608T155700Z
-LOCATION:Tipik
-DTSTART:20260608T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 2 : Saint-Martin-Le-Vinoux > Le Puy-en-Velay
-UID:470f9f9f-f2a8-4201-b620-768fe403976d@470f.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-2-saint-martin-le-vinoux-le-puy-en-velay-714444
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-1-cesenatico-ravenna-721444
-DTEND:20260530T170000Z
-DTSTART:20260530T143000Z
-SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 1 : Cesenatico > Ravenna
-UID:3f3f0798-de1d-4ac7-ac24-96337b45aba3@3f3f.org
-URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-1-cesenatico-ravenna-721444
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-7-sorbolo-mezzani-salice-terme-721450
 DTEND:20260605T153500Z
 DTSTART:20260605T130500Z
 SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 7 : Sorbolo Mezzani > Salice Terme
-UID:eaae5afc-ded1-4c72-99fe-d35bf57414a0@eaae.org
+UID:9b1c7c01-b5d9-4366-8100-227ed87dfdd8@9b1c.org
 URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-7-sorbolo-mezzani-salice-terme-721450
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
-DTEND:20260607T132000Z
-LOCATION:Tipik
-DTSTART:20260607T110300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 1 : Vizille > Saint-Ismier
-UID:e98f0e7a-b33b-4bd9-b392-2bb071d5f40d@e98f.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-1-vizille-saint-ismier-717198
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-4-belluno-nevegal-clm-721447
+DTEND:20260602T145000Z
+DTSTART:20260602T122000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 4 : Belluno > Nevegal (Clm)
+UID:99842c32-71e4-413b-ac6f-e3b309584e4c@9984.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-4-belluno-nevegal-clm-721447
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/giro-ditalia-women-etape-2-roncade-caorle-721445
+DTEND:20260531T132000Z
+DTSTART:20260531T105000Z
+SUMMARY:🚴 [RTBF] Giro d'Italia Women - Etape 2 : Roncade > Caorle
+UID:69c25c41-37fb-4131-8b65-95078a231c1c@69c2.org
+URL:https://auvio.rtbf.be/live/giro-ditalia-women-etape-2-roncade-caorle-721445
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260605T133000Z
+SUMMARY:🚴‍♂️ [RTL] Ethias Tour de Wallonie 🇧🇪 (2.Pro) - 5e et dernière étape
+UID:ab8ebf03-3934-456f-8995-696fe265c592@ab8e.org
 END:VEVENT
 END:VCALENDAR
