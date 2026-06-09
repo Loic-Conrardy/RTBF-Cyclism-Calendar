@@ -2,55 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-franco-belge-presentation-des-coureurs-726531
-DTEND:20260610T113500Z
-DTSTART:20260610T093000Z
-SUMMARY:🚴 [RTBF] Cyclisme : Franco-Belge - Présentation des coureurs
-UID:96ee72f8-0e06-46a1-a730-a2e5e6321ac0@96ee.org
-URL:https://auvio.rtbf.be/live/cyclisme-franco-belge-presentation-des-coureurs-726531
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
-DTEND:20260611T155100Z
-LOCATION:Tipik
-DTSTART:20260611T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 5 : Saint-Chamond > Villars-les-Dombes
-UID:9487205f-314f-4cce-b00c-1bdb939eab1a@9487.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
-DTEND:20260610T155500Z
-LOCATION:Tipik
-DTSTART:20260610T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 4 : Le Puy en Velay > Montrond-les-Bains
-UID:27ea2b5e-3a92-405c-9620-ae089c535bef@27ea.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
-DTEND:20260620T160300Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
+DTEND:20260621T153400Z
 LOCATION:La Une
-DTSTART:20260620T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Begijnendijk - Aarschot
-UID:57afbd7b-ae64-463a-a2bb-f3fa56639b89@57af.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260617T133500Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 1re étape
-UID:90171de4-0a30-427c-ade9-ea232d4b29f7@9017.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260618T133500Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 2e étape
-UID:08b13294-29f6-40c5-ae1c-b9f7fec21309@08b1.org
+DTSTART:20260621T125800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
+UID:63b8dcfc-b4b7-4957-8595-dc7a3111bd09@63b8.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-7-la-bridoire-grand-colombier-720112
@@ -58,26 +16,8 @@ DTEND:20260613T143800Z
 LOCATION:La Une
 DTSTART:20260613T121800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 7 : La Bridoire > Grand Colombier
-UID:f7c4791b-ea1f-4e7b-a991-cea08bb15070@f7c4.org
+UID:502cec79-763b-48f4-bf1b-a63d6deb070f@502c.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-7-la-bridoire-grand-colombier-720112
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
-DTEND:20260617T160100Z
-LOCATION:Tipik
-DTSTART:20260617T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Scherpenheuvel-Zichem - Scherpenheuvel-Zichem
-UID:08c966c5-d000-4cab-937d-2c34f305de80@08c9.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
-DTEND:20260612T155700Z
-LOCATION:Tipik
-DTSTART:20260612T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 6 : Saint-Vulbas > Crest-Voland
-UID:c52f6afe-9feb-4b53-ba2c-543260e3b12b@c52f.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -85,52 +25,33 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260619T133000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 3e étape
-UID:a01573db-be95-4d7b-8a07-3e350530cfeb@a015.org
+UID:7516fda2-007d-4082-b272-e7f096c79a2a@7516.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
-DTEND:20260619T160000Z
-LOCATION:Tipik
-DTSTART:20260619T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Durbuy - Durbuy
-UID:bb74aec6-4622-48cd-b901-42335fc9973b@bb74.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-franco-belge-direct-tipik-726547
-DTEND:20260610T170000Z
-LOCATION:Tipik
-DTSTART:20260610T152500Z
-SUMMARY:🚴 [RTBF] Cyclisme : Franco-Belge - Direct Tipik
-UID:9120a449-9bb5-414c-8913-7fbce5b96954@9120.org
-URL:https://auvio.rtbf.be/live/cyclisme-franco-belge-direct-tipik-726547
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
-DTEND:20260614T153300Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
+DTEND:20260620T160300Z
 LOCATION:La Une
-DTSTART:20260614T131300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 8 : Beaufort > Plateau de Solaison
-UID:36ae597a-0564-4b73-8b8a-3499532f54f0@36ae.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
+DTSTART:20260620T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Begijnendijk - Aarschot
+UID:77e4b91a-96e4-4dcf-8d11-44e315ee62d6@77e4.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
-DTEND:20260621T153400Z
-LOCATION:La Une
-DTSTART:20260621T125800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
-UID:624d9490-0bda-4cc4-b7b7-ed0abaa20f5d@624d.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
-DTEND:20260609T154400Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
+DTEND:20260617T160100Z
 LOCATION:Tipik
-DTSTART:20260609T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 3 : Perreux > Perreux (Clm équipes)
-UID:c4957b43-41b0-4e1a-a559-e5069be5f654@c495.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
+DTSTART:20260617T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Scherpenheuvel-Zichem - Scherpenheuvel-Zichem
+UID:f3541bcb-50fa-4df9-88e6-d4a2889706f0@f354.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-franco-belge-presentation-des-coureurs-726531
+DTEND:20260610T113500Z
+DTSTART:20260610T093000Z
+SUMMARY:🚴 [RTBF] Cyclisme : Franco-Belge - Présentation des coureurs
+UID:854bd43e-8cfe-4b70-967c-0d9b2a0e0fac@854b.org
+URL:https://auvio.rtbf.be/live/cyclisme-franco-belge-presentation-des-coureurs-726531
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-merelbeke-melle-knokke-heist-725747
@@ -138,16 +59,8 @@ DTEND:20260618T160000Z
 LOCATION:Tipik
 DTSTART:20260618T132800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Merelbeke-Melle - Knokke-Heist
-UID:07d7995f-02c6-4828-80be-e3df513c7fb3@07d7.org
+UID:9e4e711b-2032-48bf-8969-f83153485aee@9e4e.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-merelbeke-melle-knokke-heist-725747
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-franco-belge-la-course-726532
-DTEND:20260610T165000Z
-DTSTART:20260610T141500Z
-SUMMARY:🚴 [RTBF] Cyclisme : Franco-Belge - La Course
-UID:1dc8ce1f-76be-415f-b761-a74cd5e65a3b@1dc8.org
-URL:https://auvio.rtbf.be/live/cyclisme-franco-belge-la-course-726532
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -155,7 +68,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260621T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 5e et dernière étape
-UID:f2a5ed8b-081d-4380-a1e8-059e84f1bffe@f2a5.org
+UID:72bb63d4-6e4c-450d-881a-f98e2338efdf@72bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -163,6 +76,93 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260620T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 4e étape
-UID:00d60498-cac3-4e46-a39c-41676a71ad7c@00d6.org
+UID:ea7857ef-0758-4278-a853-35c1044abf76@ea78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
+DTEND:20260609T154400Z
+LOCATION:Tipik
+DTSTART:20260609T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 3 : Perreux > Perreux (Clm équipes)
+UID:b8995452-9c03-4e05-89b5-38d6d4dcbfb0@b899.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-3-perreux-perreux-clm-equipes-715191
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
+DTEND:20260611T155100Z
+LOCATION:Tipik
+DTSTART:20260611T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 5 : Saint-Chamond > Villars-les-Dombes
+UID:2279902c-b111-4c2b-845b-6897fb59f0d5@2279.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-5-saint-chamond-villars-les-dombes-717430
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-franco-belge-direct-tipik-726547
+DTEND:20260610T170000Z
+LOCATION:Tipik
+DTSTART:20260610T152500Z
+SUMMARY:🚴 [RTBF] Cyclisme : Franco-Belge - Direct Tipik
+UID:055b1478-c0f0-48ed-9d55-2e1875bdc4c6@055b.org
+URL:https://auvio.rtbf.be/live/cyclisme-franco-belge-direct-tipik-726547
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260617T133500Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 1re étape
+UID:f40afced-8643-42b3-aa1f-0825ab47211a@f40a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-franco-belge-la-course-726532
+DTEND:20260610T165000Z
+DTSTART:20260610T141500Z
+SUMMARY:🚴 [RTBF] Cyclisme : Franco-Belge - La Course
+UID:5ac4f7f0-eafa-404b-bd78-f38ab0fd5029@5ac4.org
+URL:https://auvio.rtbf.be/live/cyclisme-franco-belge-la-course-726532
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
+DTEND:20260612T155700Z
+LOCATION:Tipik
+DTSTART:20260612T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 6 : Saint-Vulbas > Crest-Voland
+UID:f4b495ae-e939-47d3-89e4-7623e40af4b6@f4b4.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-6-saint-vulbas-crest-voland-718154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
+DTEND:20260610T155500Z
+LOCATION:Tipik
+DTSTART:20260610T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 4 : Le Puy en Velay > Montrond-les-Bains
+UID:fc1f9861-65cf-4a4e-b137-5e62980efba0@fc1f.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-4-le-puy-en-velay-montrond-les-bains-716566
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
+DTEND:20260614T153300Z
+LOCATION:La Une
+DTSTART:20260614T131300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 8 : Beaufort > Plateau de Solaison
+UID:dea2a44f-0090-449e-92de-9ca9bd985b2c@dea2.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260618T133500Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 2e étape
+UID:30c07421-de11-4aeb-9c7b-741218897b96@30c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
+DTEND:20260619T160000Z
+LOCATION:Tipik
+DTSTART:20260619T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Durbuy - Durbuy
+UID:d2d1be1b-571d-48d9-af8c-9b8c0929842e@d2d1.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
 END:VEVENT
 END:VCALENDAR
