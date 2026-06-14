@@ -2,47 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
-DTEND:20260614T153300Z
-LOCATION:La Une
-DTSTART:20260614T131300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 8 : Beaufort > Plateau de Solaison
-UID:19f269e8-4c8d-41fd-a5dd-a2adfd8b0534@19f2.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-merelbeke-melle-knokke-heist-725747
-DTEND:20260618T160000Z
-LOCATION:Tipik
-DTSTART:20260618T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Merelbeke-Melle - Knokke-Heist
-UID:ed95b8a4-bd16-43f8-899a-6c40249e1c39@ed95.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-merelbeke-melle-knokke-heist-725747
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
-DTSTART:20260618T133500Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 2e étape
-UID:75a79a6e-2444-4709-abd6-84445d1b6d7b@75a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260617T133500Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 1re étape
-UID:f501e803-b7a3-43c6-8d2b-b80406427907@f501.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
-DTEND:20260621T153400Z
-LOCATION:La Une
-DTSTART:20260621T125800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
-UID:3e44c865-b2d5-4a86-9549-5cedfa5d02ad@3e44.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
+DTSTART:20260621T132000Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 5e et dernière étape
+UID:53096bc8-2318-4c09-98eb-27b640114387@5309.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -50,50 +15,41 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260619T133000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 3e étape
-UID:5062fdf2-838b-411f-9898-e289f6927cbe@5062.org
+UID:ea2971a1-7c00-4a3d-9cc1-ae111ce15968@ea29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
+DTEND:20260621T153400Z
+LOCATION:La Une
+DTSTART:20260621T125800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
+UID:a9fa7127-647e-43ad-8243-200c5af54a45@a9fa.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-muur-classic-728312
 DTEND:20260614T140000Z
 DTSTART:20260614T113500Z
 SUMMARY:🚴 [RTBF] Cyclisme - Muur Classic
-UID:c4432cc5-6f60-4848-9088-45d2c1f6f281@c443.org
+UID:ef2d28b6-3140-4eeb-9f0a-8723de6ebc31@ef2d.org
 URL:https://auvio.rtbf.be/live/cyclisme-muur-classic-728312
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
-DTEND:20260620T160300Z
-LOCATION:La Une
-DTSTART:20260620T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Begijnendijk - Aarschot
-UID:7e665d7d-9b60-4a9a-b0d4-cc5645e51e7b@7e66.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-merelbeke-melle-knokke-heist-725747
+DTEND:20260618T160000Z
+LOCATION:Tipik
+DTSTART:20260618T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Merelbeke-Melle - Knokke-Heist
+UID:8f4d681b-e3ae-4b86-8c0f-c268c17754a2@8f4d.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-merelbeke-melle-knokke-heist-725747
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
-DTSTART:20260621T132000Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 5e et dernière étape
-UID:52e937e4-14d3-4a12-9ec0-827457a7607d@52e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
-DTEND:20260619T160000Z
-LOCATION:Tipik
-DTSTART:20260619T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Durbuy - Durbuy
-UID:7aa3a1cf-64e5-4fd4-8154-df7371310169@7aa3.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
-DTEND:20260617T160100Z
-LOCATION:Tipik
-DTSTART:20260617T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Scherpenheuvel-Zichem - Scherpenheuvel-Zichem
-UID:74ead9ca-a86b-4b9c-be93-265dcf6be034@74ea.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
+DTSTART:20260617T133500Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 1re étape
+UID:9d8c1f41-6b2a-41ff-bf33-45f7d44d2c27@9d8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -101,6 +57,50 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260620T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 4e étape
-UID:396a6a03-e57b-4840-9760-501ad8eecc73@396a.org
+UID:93e5225c-ebb4-456b-abb3-2e7db3151c13@93e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
+DTEND:20260620T160300Z
+LOCATION:La Une
+DTSTART:20260620T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Begijnendijk - Aarschot
+UID:1b5824ab-affc-4717-b59f-e792c7252945@1b58.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h35 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260618T133500Z
+SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 2e étape
+UID:352ffcc8-872e-4d26-aaa3-ffcf22980802@352f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
+DTEND:20260619T160000Z
+LOCATION:Tipik
+DTSTART:20260619T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Durbuy - Durbuy
+UID:11ffa902-9442-429d-acef-ab74c5e51c85@11ff.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
+DTEND:20260614T153300Z
+LOCATION:La Une
+DTSTART:20260614T131300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour Auvergne-Rhône-Alpes - Etape 8 : Beaufort > Plateau de Solaison
+UID:d473024c-b16e-46ed-bbed-e1621d210d00@d473.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-auvergne-rhone-alpes-etape-8-beaufort-plateau-de-solaison-720113
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
+DTEND:20260617T160100Z
+LOCATION:Tipik
+DTSTART:20260617T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Scherpenheuvel-Zichem - Scherpenheuvel-Zichem
+UID:3574e3a6-7610-46fe-900b-168be6e12ae2@3574.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-scherpenheuvel-zichem-scherpenheuvel-zichem-725746
 END:VEVENT
 END:VCALENDAR
