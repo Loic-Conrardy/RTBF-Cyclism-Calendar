@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
-DTEND:20260621T153400Z
-LOCATION:La Une
-DTSTART:20260621T125800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
-UID:e3c6dea4-c031-4dc0-b8ff-e85f4e0a6c17@e3c6.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h20 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260621T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 5e et dernière étape
-UID:f75169b5-7f50-4bc0-9dda-953751960a01@f751.org
+UID:046564f0-53f3-4185-aeb6-ba0d1d078134@0465.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
+DTEND:20260621T153400Z
+LOCATION:La Une
+DTSTART:20260621T125800Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
+UID:39e365cf-24bd-4790-9ed1-95b4f9aa8af3@39e3.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -24,7 +24,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260619T133000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 3e étape
-UID:bcaac98c-6533-45d5-9c61-e80ece2794c5@bcaa.org
+UID:ffa76d0a-15cd-4670-93fe-b54eb6bf8549@ffa7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
@@ -32,7 +32,7 @@ DTEND:20260619T160000Z
 LOCATION:Tipik
 DTSTART:20260619T132800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Durbuy - Durbuy
-UID:2a6d3eb2-2b0d-47ee-9ceb-68a4a7588f80@2a6d.org
+UID:7b035a0e-5ebb-4cad-85a5-39cbd1cb278b@7b03.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
 END:VEVENT
 BEGIN:VEVENT
@@ -41,7 +41,7 @@ DTEND:20260620T160300Z
 LOCATION:La Une
 DTSTART:20260620T132800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Begijnendijk - Aarschot
-UID:147db3e8-3c87-4924-82b4-b6f516ccc6d8@147d.org
+UID:b16be2b6-e28f-4101-beda-204b0537ebbd@b16b.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
 END:VEVENT
 BEGIN:VEVENT
@@ -50,6 +50,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260620T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 4e étape
-UID:41c0cc43-e680-46c1-8d5e-492447d72de6@41c0.org
+UID:bb7b8964-2cf8-4960-a413-d9426fe18920@bb7b.org
 END:VEVENT
 END:VCALENDAR
