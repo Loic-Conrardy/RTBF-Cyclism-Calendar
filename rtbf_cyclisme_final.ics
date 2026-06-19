@@ -7,7 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260621T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 5e et dernière étape
-UID:046564f0-53f3-4185-aeb6-ba0d1d078134@0465.org
+UID:fd672cd9-6be4-4743-8615-e1901435663b@fd67.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
@@ -15,25 +15,8 @@ DTEND:20260621T153400Z
 LOCATION:La Une
 DTSTART:20260621T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
-UID:39e365cf-24bd-4790-9ed1-95b4f9aa8af3@39e3.org
+UID:d3f43db0-f832-4d13-86aa-3e16e7fbcbcc@d3f4.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h30 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260619T133000Z
-SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 3e étape
-UID:ffa76d0a-15cd-4670-93fe-b54eb6bf8549@ffa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
-DTEND:20260619T160000Z
-LOCATION:Tipik
-DTSTART:20260619T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Durbuy - Durbuy
-UID:7b035a0e-5ebb-4cad-85a5-39cbd1cb278b@7b03.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-durbuy-durbuy-725748
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
@@ -41,7 +24,7 @@ DTEND:20260620T160300Z
 LOCATION:La Une
 DTSTART:20260620T132800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Begijnendijk - Aarschot
-UID:b16be2b6-e28f-4101-beda-204b0537ebbd@b16b.org
+UID:97ca02da-0c33-4313-b539-08ef8ea73ed0@97ca.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-begijnendijk-aarschot-725749
 END:VEVENT
 BEGIN:VEVENT
@@ -50,6 +33,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260620T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 4e étape
-UID:bb7b8964-2cf8-4960-a413-d9426fe18920@bb7b.org
+UID:3f9974d6-dfc7-4a3d-9758-43016fbcda81@3f99.org
 END:VEVENT
 END:VCALENDAR
