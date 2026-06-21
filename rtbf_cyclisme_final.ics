@@ -7,7 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260621T132000Z
 SUMMARY:🚴‍♂️ [RTL] Tour de Suisse - Hommes 🇨🇭 (2.UWT) - 5e et dernière étape
-UID:4d252fdc-d5e0-4053-8f24-8b943e5cded6@4d25.org
+UID:2236c8d1-59f2-4584-a0b3-cadd23443063@2236.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
@@ -15,7 +15,7 @@ DTEND:20260621T153400Z
 LOCATION:La Une
 DTSTART:20260621T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Belgique - Gingelom - Hoeilaart
-UID:6252b162-c5ed-41e9-931b-2046e046a4d9@6252.org
+UID:e2371edb-c01f-459c-a2a2-019b8bd093f9@e237.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-belgique-gingelom-hoeilaart-725750
 END:VEVENT
 END:VCALENDAR
