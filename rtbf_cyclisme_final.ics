@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h15 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 16h30 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTBF
-DTSTART:20260628T131500Z
-SUMMARY:🚴‍♂️ [RTBF] Championnats de Belgique sur route - Course en ligne hommes 🇧🇪 (CN)
-UID:482b3a31-4933-408d-8c72-39a17a238166@482b.org
+DTSTART:20260704T143000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de France 🇫🇷 (2.UWT) - 1re étape
+UID:40a63fa8-005d-40b6-bd79-f6fea8fa9c9b@40a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h05 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,15 +15,7 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260628T120500Z
 SUMMARY:🚴‍♂️ [RTBF] Championnats de Belgique sur route - Course en ligne femmes 🇧🇪 (CN)
-UID:2f0a8020-bc17-49c2-974b-2744524e5db1@2f0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 16h00 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260626T140000Z
-SUMMARY:🚴‍♂️ [RTBF] Championnats de Belgique sur route - Contre-la-montre hommes 🇧🇪 (CN)
-UID:c2bdef0c-56cc-4142-b827-b4bbc9d335da@c2bd.org
+UID:8cf213e2-a118-4633-ab25-62d394a808e4@8cf2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h20 sur Tipik\, puis dès 14h05 sur La Une\, et dès 13h20 sur RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -31,14 +23,22 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20260705T112000Z
 SUMMARY:🚴‍♂️ [RTBF] Tour de France 🇫🇷 (2.UWT) - 2e étape
-UID:672fc1fa-fddc-46c8-8ebd-7517c393a241@672f.org
+UID:5ccd5cab-6f7b-4139-9b9c-6697441a4513@5ccd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 16h30 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 15h15 sur La Une et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTBF
-DTSTART:20260704T143000Z
-SUMMARY:🚴‍♂️ [RTBF] Tour de France 🇫🇷 (2.UWT) - 1re étape
-UID:69a7c1f9-06f3-4ab0-a231-d4203d769943@69a7.org
+DTSTART:20260628T131500Z
+SUMMARY:🚴‍♂️ [RTBF] Championnats de Belgique sur route - Course en ligne hommes 🇧🇪 (CN)
+UID:95cedc9b-ea68-416d-8ed0-5b849bc11947@95ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 16h00 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260626T140000Z
+SUMMARY:🚴‍♂️ [RTBF] Championnats de Belgique sur route - Contre-la-montre hommes 🇧🇪 (CN)
+UID:b5b0e85a-17a3-4b6f-9a07-85302719ea90@b5b0.org
 END:VEVENT
 END:VCALENDAR
