@@ -2,40 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731124
-DTEND:20260709T123200Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-731122
+DTEND:20260708T122500Z
 LOCATION:Tipik
-DTSTART:20260709T094800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 6 Pau Gavarnie Gèdre
-UID:428f283c-9eb3-4459-9219-c2bdfb6642d0@428f.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731124
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-9-malemort-ussel-731130
-DTEND:20260712T114800Z
-LOCATION:Tipik
-DTSTART:20260712T110300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 9 - Malemort > Ussel
-UID:7fe607ec-6bf4-4256-adf2-741f574e3037@7fe6.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-9-malemort-ussel-731130
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-8-perigueux-bergerac-731128
-DTEND:20260711T120100Z
-LOCATION:Tipik
-DTSTART:20260711T104300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 8 Périgueux Bergerac
-UID:aff30175-4887-497d-9819-3dc78f5f9e90@aff3.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-8-perigueux-bergerac-731128
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-731116
-DTEND:20260705T122100Z
-LOCATION:Tipik
-DTSTART:20260705T111800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 2 Tarragone Barcelone
-UID:3ae97f1f-54e6-4089-8b76-e2cfd342a70b@3ae9.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-731116
+DTSTART:20260708T113800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France
+UID:2dd54a74-3d98-41bd-a3a4-b6bf2b1f5b81@2dd5.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-731122
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-8-perigueux-bergerac-731129
@@ -43,62 +16,8 @@ DTEND:20260711T164400Z
 LOCATION:La Une
 DTSTART:20260711T113300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 8 - Périgueux > Bergerac
-UID:71751652-f28f-4093-b518-d40171542337@7175.org
+UID:9c1c2aed-217b-46f6-8a71-269e4e760703@9c1c.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-8-perigueux-bergerac-731129
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731125
-DTEND:20260709T164700Z
-LOCATION:La Une
-DTSTART:20260709T120800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 6 - Pau > Gavarnie-Gèdre
-UID:d33ab5f1-f369-4279-8d44-fbad3188de8e@d33a.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731125
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-5-lannemezan-pau-731123
-DTEND:20260708T165700Z
-LOCATION:La Une
-DTSTART:20260708T120600Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 5 - Lannemezan > Pau
-UID:eb81615e-4541-471e-9047-3c1b15a18b17@eb81.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-5-lannemezan-pau-731123
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-4-carcassonne-foix-731120
-DTEND:20260707T122800Z
-LOCATION:Tipik
-DTSTART:20260707T104300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 4 Carcassonne Foix
-UID:ddb466f3-b82a-452b-bba2-6313c1c01d72@ddb4.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-4-carcassonne-foix-731120
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-1-barcelone-barcelone-731115
-DTEND:20260704T173500Z
-LOCATION:La Une
-DTSTART:20260704T142900Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 1 : Barcelone > Barcelone
-UID:62551b20-e513-4d26-905c-3be4f9808d64@6255.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-1-barcelone-barcelone-731115
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-3-granollers-les-angles-731118
-DTEND:20260706T115400Z
-LOCATION:Tipik
-DTSTART:20260706T093300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 3 Granollers Les Angles
-UID:8108c64c-bc02-4d1a-8af8-ca3529b64e02@8108.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-3-granollers-les-angles-731118
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731126
-DTEND:20260710T122600Z
-LOCATION:Tipik
-DTSTART:20260710T104800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 7 Hagetmau Bordeaux
-UID:cfab3e57-424a-43ad-97ba-0898e83025ac@cfab.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731126
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-championnat-de-belgique-course-dames-hommes-731088
@@ -106,35 +25,17 @@ DTEND:20260628T164500Z
 LOCATION:La Une
 DTSTART:20260628T120300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnat de Belgique - Course Dames & Hommes
-UID:17d05ce3-ffce-40f2-89cd-e6153a19c9ce@17d0.org
+UID:0fb3709d-a965-4e71-bab7-1f8572f6a48a@0fb3.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnat-de-belgique-course-dames-hommes-731088
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731127
-DTEND:20260710T164400Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-5-lannemezan-pau-731123
+DTEND:20260708T165700Z
 LOCATION:La Une
-DTSTART:20260710T120800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 7 - Hagetmau > Bordeaux
-UID:5b8d1185-ee69-411d-816b-9ed5d5da034e@5b8d.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731127
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-731122
-DTEND:20260708T122500Z
-LOCATION:Tipik
-DTSTART:20260708T113800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France
-UID:30623901-826a-4085-87bd-56179a6eee57@3062.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-731122
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-9-malemort-ussel-731131
-DTEND:20260712T171200Z
-LOCATION:La Une
-DTSTART:20260712T113100Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 9 - Malemort > Ussel
-UID:efda5d28-7c08-4626-b726-706505dc1463@efda.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-9-malemort-ussel-731131
+DTSTART:20260708T120600Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 5 - Lannemezan > Pau
+UID:56a2daf7-a459-4be5-bd64-9b11a5ef15b6@56a2.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-5-lannemezan-pau-731123
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-4-carcassonne-foix-731121
@@ -142,17 +43,44 @@ DTEND:20260707T165000Z
 LOCATION:La Une
 DTSTART:20260707T120800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 4 - Carcassonne > Foix
-UID:7eac2bd6-1fc4-4b43-8b2a-d6f3e2a22f98@7eac.org
+UID:44af8a6b-1c3d-4572-ad2e-8bfe81bb310e@44af.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-4-carcassonne-foix-731121
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-22-731117
-DTEND:20260705T165000Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-8-perigueux-bergerac-731128
+DTEND:20260711T120100Z
+LOCATION:Tipik
+DTSTART:20260711T104300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 8 Périgueux Bergerac
+UID:f38e5aaa-85d3-433e-b576-54f3592939ef@f38e.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-8-perigueux-bergerac-731128
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-messieurs-731528
+DTEND:20260628T165400Z
 LOCATION:La Une
-DTSTART:20260705T120500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 2 : Tarragone > Barcelone (2/2)
-UID:94ab0991-a26c-43b6-a846-adccbd7c588b@94ab.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-22-731117
+DTSTART:20260628T135800Z
+SUMMARY:🚴 [RTBF] Championnats de Belgique de Cyclisme - Messieurs
+UID:d9a5d943-455a-4f36-871f-cbba39ae6141@d9a5.org
+URL:https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-messieurs-731528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-731116
+DTEND:20260705T122100Z
+LOCATION:Tipik
+DTSTART:20260705T111800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 2 Tarragone Barcelone
+UID:f8e02477-a131-476b-807e-6f634b074f64@f8e0.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-731116
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731124
+DTEND:20260709T123200Z
+LOCATION:Tipik
+DTSTART:20260709T094800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 6 Pau Gavarnie Gèdre
+UID:7e303a7a-037e-4ffa-9e99-9aa727c2d23f@7e30.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731124
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnat-de-belgique-contre-la-montre-hommes-731059
@@ -160,7 +88,7 @@ DTEND:20260626T161500Z
 LOCATION:Tipik
 DTSTART:20260626T140500Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnat de Belgique - Contre-la-Montre Hommes
-UID:b1da5b61-4439-4789-a890-626c03b75b4e@b1da.org
+UID:9e343db2-bed9-4945-8153-bbfe3a6bf6a5@9e34.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnat-de-belgique-contre-la-montre-hommes-731059
 END:VEVENT
 BEGIN:VEVENT
@@ -169,16 +97,88 @@ DTEND:20260706T162300Z
 LOCATION:La Une
 DTSTART:20260706T113300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 3 - Granollers > Les Angles
-UID:f8ebf5fa-13e1-41cc-89d0-4ebf52dcb0c8@f8eb.org
+UID:616f5128-2c11-4254-95f6-d0d5d8a2d3e8@616f.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-3-granollers-les-angles-731119
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-contre-la-montre-731355
-DTEND:20260626T162300Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-22-731117
+DTEND:20260705T165000Z
+LOCATION:La Une
+DTSTART:20260705T120500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 2 : Tarragone > Barcelone (2/2)
+UID:b79532a3-8844-416a-bd34-20c14f224670@b795.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-2-tarragone-barcelone-22-731117
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-resume-contre-la-montre-dames-et-messieurs-731527
+DTEND:20260628T141400Z
+LOCATION:La Une
+DTSTART:20260628T130100Z
+SUMMARY:🚴 [RTBF] Championnats de Belgique de Cyclisme - Résumé contre la montre Dames et Messieurs
+UID:cf3aafca-a155-4ad4-8b9b-39f13480335b@cf3a.org
+URL:https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-resume-contre-la-montre-dames-et-messieurs-731527
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731125
+DTEND:20260709T164700Z
+LOCATION:La Une
+DTSTART:20260709T120800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 6 - Pau > Gavarnie-Gèdre
+UID:3c9c1542-4621-487a-b797-c948be147c49@3c9c.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-6-pau-gavarnie-gedre-731125
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-3-granollers-les-angles-731118
+DTEND:20260706T115400Z
 LOCATION:Tipik
-DTSTART:20260626T140800Z
-SUMMARY:🚴 [RTBF] Championnats de Belgique de Cyclisme - Contre la montre
-UID:c87a419e-b440-446a-82fe-d92d73059172@c87a.org
-URL:https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-contre-la-montre-731355
+DTSTART:20260706T093300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 3 Granollers Les Angles
+UID:55e0b2c8-daa5-4c79-b357-f6dd25c0d83b@55e0.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-3-granollers-les-angles-731118
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-4-carcassonne-foix-731120
+DTEND:20260707T122800Z
+LOCATION:Tipik
+DTSTART:20260707T104300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 4 Carcassonne Foix
+UID:24276a4c-050e-425d-bfc8-873d4e382192@2427.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-4-carcassonne-foix-731120
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-1-barcelone-barcelone-731115
+DTEND:20260704T173500Z
+LOCATION:La Une
+DTSTART:20260704T142900Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 1 : Barcelone > Barcelone
+UID:60d44639-7a53-43bd-8d21-abbbf1134841@60d4.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-1-barcelone-barcelone-731115
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-dames-731526
+DTEND:20260628T131800Z
+LOCATION:La Une
+DTSTART:20260628T120400Z
+SUMMARY:🚴 [RTBF] Championnats de Belgique de Cyclisme - Dames
+UID:a9d1566b-bab8-4669-952a-758adbbb74ff@a9d1.org
+URL:https://auvio.rtbf.be/live/championnats-de-belgique-de-cyclisme-dames-731526
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731126
+DTEND:20260710T122600Z
+LOCATION:Tipik
+DTSTART:20260710T104800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 7 Hagetmau Bordeaux
+UID:99ccf609-3fb7-4ef7-80a5-17747dbae516@99cc.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731126
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731127
+DTEND:20260710T164400Z
+LOCATION:La Une
+DTSTART:20260710T120800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 7 - Hagetmau > Bordeaux
+UID:dd6884fd-1494-4aa3-8722-ddad361eb4bf@dd68.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-7-hagetmau-bordeaux-731127
 END:VEVENT
 END:VCALENDAR
