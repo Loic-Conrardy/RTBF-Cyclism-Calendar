@@ -7,26 +7,17 @@ DTEND:20260719T120800Z
 LOCATION:Tipik
 DTSTART:20260719T103300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 15 - Champagnole > Plateau de Solaison (1/2)
-UID:d7a15a3d-7965-47db-ba73-5cf00eab2a1d@d7a1.org
+UID:10ccfb3b-4dae-4af7-a43d-4f3efbffb774@10cc.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-15-champagnole-plateau-de-solaison-12-732351
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-734848
-DTEND:20260724T170200Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-22-731658
+DTEND:20260715T165000Z
 LOCATION:La Une
-DTSTART:20260724T121000Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 - Gap > Alpe d'Huez
-UID:ce98911c-30c6-4637-868b-d29e3cebcd3e@ce98.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-734848
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-16-evian-les-bains-thonon-les-bains-733360
-DTEND:20260721T165200Z
-LOCATION:Tipik
-DTSTART:20260721T103300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 16 - Evian-les-Bains > Thonon-les-Bains
-UID:c460418d-667c-40aa-adb8-03a7fcd1bf42@c460.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-16-evian-les-bains-thonon-les-bains-733360
+DTSTART:20260715T120400Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 11 - Vichy > Nevers (2/2)
+UID:6449c3ec-4e69-4b91-9fff-d33a2d3d51ed@6449.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-22-731658
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-14-mulhouse-le-markstein-fellering-12-732283
@@ -34,26 +25,26 @@ DTEND:20260718T113800Z
 LOCATION:Tipik
 DTSTART:20260718T103300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 14 : Mulhouse -Le Markstein-Fellering (1/2)
-UID:67711854-2372-48df-be47-4bf45f7bbebe@6771.org
+UID:4aef471b-92cc-4fa0-a52e-ff1d9a8dbf01@4aef.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-14-mulhouse-le-markstein-fellering-12-732283
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-12-731228
-DTEND:20260714T121200Z
-LOCATION:Tipik
-DTSTART:20260714T103300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 10 - Aurillac > Le Lioran (1/2)
-UID:2058ef53-6336-400f-921a-6a6d03598c75@2058.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-12-731228
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-22-731339
+DTEND:20260714T164500Z
+LOCATION:La Une
+DTSTART:20260714T120900Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 10 - Aurillac > Le Lioran (2/2)
+UID:913aad10-878a-4459-96a6-63f2c91c6bb0@913a.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-22-731339
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-12-731642
-DTEND:20260715T121200Z
-LOCATION:Tipik
-DTSTART:20260715T112300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 11 : Vichy > Nevers (1/2)
-UID:1abbb91e-995f-4efc-b6c4-c3816910641c@1abb.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-12-731642
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-734321
+DTEND:20260723T164400Z
+LOCATION:La Une
+DTSTART:20260723T120800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 18 - Voiron > Orcières-Merlette
+UID:2824b19a-5e53-4f46-aa1f-5a88c82e3a0e@2824.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-734321
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-12circuit-magny-courschalon-sur-saone-12-731806
@@ -61,17 +52,35 @@ DTEND:20260716T121300Z
 LOCATION:Tipik
 DTSTART:20260716T110300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 12:Circuit Magny-Cours>Chalon-sur-Saône 1/2
-UID:2eb20309-7ea4-493e-b62f-9926fefa2f58@2eb2.org
+UID:6ed03251-ecd7-4a14-9aae-3f30122c3cb3@6ed0.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-12circuit-magny-courschalon-sur-saone-12-731806
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-15-champagnole-plateau-de-solaison-22-732286
-DTEND:20260719T171800Z
-LOCATION:La Une
-DTSTART:20260719T120300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 15 - Champagnole > Plateau de Solaison (2/2)
-UID:011c4489-f415-4763-b2c6-b3ed3a6b4b17@011c.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-15-champagnole-plateau-de-solaison-22-732286
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-734265
+DTEND:20260723T122100Z
+LOCATION:Tipik
+DTSTART:20260723T095800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape18 Voiron - Orcières Merlette
+UID:2ab46c48-51e7-4d58-aea2-4f9c7c46ebfe@2ab4.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-734265
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-12-731642
+DTEND:20260715T121200Z
+LOCATION:Tipik
+DTSTART:20260715T112300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 11 : Vichy > Nevers (1/2)
+UID:aa8cc3f4-b34e-4904-aa60-727951dced9b@aa8c.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-12-731642
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-734090
+DTEND:20260722T121800Z
+LOCATION:Tipik
+DTSTART:20260722T105300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 17 Chambéry Voiron
+UID:03b2efb7-2791-486d-878f-8c446e35ee53@03b2.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-734090
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-734845
@@ -79,7 +88,7 @@ DTEND:20260724T121900Z
 LOCATION:Tipik
 DTSTART:20260724T112300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 Gap > Alpe d'Huez
-UID:3f0f5095-8c0f-4b20-91fe-1812fed78554@3f0f.org
+UID:374522e5-da76-4166-a098-31733af25401@3745.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-734845
 END:VEVENT
 BEGIN:VEVENT
@@ -88,71 +97,8 @@ DTEND:20260718T165000Z
 LOCATION:La Une
 DTSTART:20260718T113200Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 14 : Mulhouse -Le Markstein-Fellering (2/2)
-UID:0f8d92a6-5c9d-4b71-988f-5d09b71ec698@0f8d.org
+UID:8f4dba37-9699-428b-ab41-db85d366161d@8f4d.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-14-mulhouse-le-markstein-fellering-22-732285
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-22-731938
-DTEND:20260717T165000Z
-LOCATION:La Une
-DTSTART:20260717T113300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 13 : Dole > Belfort (2/2)
-UID:233cd1da-3493-4c11-8f8d-dccad74131b3@233c.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-22-731938
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-12circuit-magny-courschalon-sur-saone-22-731814
-DTEND:20260716T165000Z
-LOCATION:La Une
-DTSTART:20260716T120800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 12:Circuit Magny-Cours>Chalon-sur-Saône 2/2
-UID:44b92969-bf0b-44e7-b1b4-3f1283ebbb99@44b9.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-12circuit-magny-courschalon-sur-saone-22-731814
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-22-731339
-DTEND:20260714T164500Z
-LOCATION:La Une
-DTSTART:20260714T120900Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 10 - Aurillac > Le Lioran (2/2)
-UID:f0c07f8d-aaad-4744-a20e-c09647c5feac@f0c0.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-22-731339
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-734090
-DTEND:20260722T121800Z
-LOCATION:Tipik
-DTSTART:20260722T105300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 17 Chambéry Voiron
-UID:8a953b92-e446-4963-9f26-c488bbd100a2@8a95.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-734090
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-12-731931
-DTEND:20260717T113500Z
-LOCATION:Tipik
-DTSTART:20260717T102800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 13 : Dole > Belfort (1/2)
-UID:8a3bcd02-a484-47c2-a245-0098114b44e0@8a3b.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-12-731931
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-734265
-DTEND:20260723T122100Z
-LOCATION:Tipik
-DTSTART:20260723T095800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape18 Voiron - Orcières Merlette
-UID:fbc7c26e-d411-478c-895a-0300d5c807a3@fbc7.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-734265
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-734321
-DTEND:20260723T164400Z
-LOCATION:La Une
-DTSTART:20260723T120800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 18 - Voiron > Orcières-Merlette
-UID:0591d6b1-7de6-4e6b-9c7a-78e8d8250384@0591.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-734321
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-734099
@@ -160,25 +106,95 @@ DTEND:20260722T164400Z
 LOCATION:La Une
 DTSTART:20260722T120800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 17 - Chambery > Voiron
-UID:e83435e8-dc97-40e1-946d-aa1e7104275d@e834.org
+UID:4fe0c2a2-6c8e-4e71-9532-e556b7dc352c@4fe0.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-734099
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-735819
-DTEND:20260725T115400Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-737473
+DTEND:20260717T115600Z
 LOCATION:Tipik
-DTSTART:20260725T084300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 20 Le Bourg d'Oisans Alpe d'Huez
-UID:da126245-129c-4e0d-a86c-b1904e7338bf@da12.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-735819
+DTSTART:20260717T102800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 13 Dole > Belfort
+UID:5d3ed2e0-37ee-45e7-82c2-be3abb1dfcd6@5d3e.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-737473
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-22-731658
-DTEND:20260715T165000Z
+DESCRIPTION:Diffusion : Dès 15h30 sur La Une\, puis dès 19h20 sur Tipik\, et dès 15h30 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260726T133000Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de France 🇫🇷 (2.UWT) - 21e et dernière étape
+UID:8a7813e9-1763-4afd-a76e-49af1dbf10c1@8a78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-22-731938
+DTEND:20260717T165000Z
 LOCATION:La Une
-DTSTART:20260715T120400Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 11 - Vichy > Nevers (2/2)
-UID:580877b6-7f07-4e60-82ec-065467502d7c@5808.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-11-vichy-nevers-22-731658
+DTSTART:20260717T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 13 : Dole > Belfort (2/2)
+UID:2778c5ad-ed93-416d-b4aa-f2a4f134491e@2778.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-22-731938
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-734848
+DTEND:20260724T170200Z
+LOCATION:La Une
+DTSTART:20260724T121000Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 - Gap > Alpe d'Huez
+UID:de1b892b-7bcb-4d6c-845c-06dca7158b16@de1b.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-734848
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-16-evian-les-bains-thonon-les-bains-733360
+DTEND:20260721T165200Z
+LOCATION:Tipik
+DTSTART:20260721T103300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 16 - Evian-les-Bains > Thonon-les-Bains
+UID:7650a7de-3a4e-4e71-8bc4-e4a1619b1358@7650.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-16-evian-les-bains-thonon-les-bains-733360
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-12-731228
+DTEND:20260714T121200Z
+LOCATION:Tipik
+DTSTART:20260714T102400Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 10 - Aurillac > Le Lioran (1/2)
+UID:dafeafe8-c399-434a-a8bd-a50a2a0696de@dafe.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-10-aurillac-le-lioran-12-731228
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-15-champagnole-plateau-de-solaison-22-732286
+DTEND:20260719T171800Z
+LOCATION:La Une
+DTSTART:20260719T120300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 15 - Champagnole > Plateau de Solaison (2/2)
+UID:d95cffa8-d525-408c-8946-5acdab4496f3@d95c.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-15-champagnole-plateau-de-solaison-22-732286
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-12circuit-magny-courschalon-sur-saone-22-731814
+DTEND:20260716T165000Z
+LOCATION:La Une
+DTSTART:20260716T120800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 12:Circuit Magny-Cours>Chalon-sur-Saône 2/2
+UID:f62a319a-d757-4c75-a79c-5fc45f0c41a2@f62a.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-12circuit-magny-courschalon-sur-saone-22-731814
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-12-731931
+DTEND:20260717T113500Z
+LOCATION:Tipik
+DTSTART:20260717T102800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 13 : Dole > Belfort (1/2)
+UID:a56160eb-fe28-480d-b7ee-9e217f496b0e@a561.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-13-dole-belfort-12-731931
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 10h45 sur Tipik\, puis dès 13h35 sur La Une\, et dès 10h45 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260725T084500Z
+SUMMARY:🚴‍♂️ [RTBF] Tour de France 🇫🇷 (2.UWT) - 20e étape
+UID:d6c3d5d3-d942-44b9-85d4-f94fd9acfbea@d6c3.org
 END:VEVENT
 END:VCALENDAR
