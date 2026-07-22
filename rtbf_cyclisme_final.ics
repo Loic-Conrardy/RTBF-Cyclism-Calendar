@@ -2,156 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-12-734090
-DTEND:20260722T121200Z
-LOCATION:Tipik
-DTSTART:20260722T105300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 17 : Chambéry > Voiron (1/2)
-UID:b04087cc-71b6-47bf-837d-8e6433fe15ac@b040.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-12-734090
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-4-gevrey-chambertin-dijon-737968
-DTEND:20260804T163200Z
-LOCATION:Tipik
-DTSTART:20260804T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 4  : Gevrey-Chambertin > Dijon
-UID:f278a1b1-ef65-4746-a9dd-f5ba49324391@f278.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-4-gevrey-chambertin-dijon-737968
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-12-734265
-DTEND:20260723T121300Z
-LOCATION:Tipik
-DTSTART:20260723T095800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape18 : Voiron > Orcières-Merlette (1/2)
-UID:af26f955-1087-4690-9b33-54b223e1bfd4@af26.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-12-734265
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-1-lausanne-lausanne-737750
-DTEND:20260801T180600Z
-LOCATION:La Une
-DTSTART:20260801T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 1 : Lausanne > Lausanne
-UID:dec07f70-ae9e-4232-a08c-98c408493dc4@dec0.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-1-lausanne-lausanne-737750
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-21-thoiry-paris-champs-elysees-735757
-DTEND:20260726T173600Z
-LOCATION:La Une
-DTSTART:20260726T132800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 21 - Thoiry > Paris Champs-Elysées
-UID:a7a86ce1-c597-42d6-8679-6bc08a529d23@a7a8.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-21-thoiry-paris-champs-elysees-735757
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-22-734321
-DTEND:20260723T164500Z
-LOCATION:La Une
-DTSTART:20260723T120800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 18 : Voiron > Orcières-Merlette (2/2)
-UID:96bc68b0-3cec-4abd-a2c7-658e2acbf6f2@96bc.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-22-734321
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
-DTEND:20260809T180100Z
-LOCATION:Tipik
-DTSTART:20260809T135300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 9 : Nice > Nice
-UID:f7b31662-83fe-49bf-a916-fbc4754fc092@f7b3.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
-DTEND:20260808T163300Z
-LOCATION:La Une
-DTSTART:20260808T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Étape 8 : Sisteron > Nice
-UID:9fe555fa-8587-4069-92bf-f61e409ca7ae@9fe5.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-12-735819
-DTEND:20260725T114500Z
-LOCATION:Tipik
-DTSTART:20260725T084300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 20 : Le Bourg d'Oisans > Alpe d'Huez (1/2)
-UID:df78bbdc-e456-4cc3-8964-b9c1ea443f35@df78.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-12-735819
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-735820
-DTEND:20260726T190900Z
-LOCATION:Tipik
-DTSTART:20260726T171800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France
-UID:7716fafa-dd93-4933-8ef4-973847e875bc@7716.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-735820
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
-DTEND:20260802T180500Z
-LOCATION:La Une
-DTSTART:20260802T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 2 : Aigle > Genève
-UID:631316f1-491c-4709-82da-cf3094d0c306@6313.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
-DTEND:20260801T153700Z
-LOCATION:Tipik
-DTSTART:20260801T125800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Clasica San Sebastian
-UID:e700eb82-e618-4cff-94f0-920e8296f431@e700.org
-URL:https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-12-734845
-DTEND:20260724T121300Z
-LOCATION:Tipik
-DTSTART:20260724T112300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 : Gap > Alpe d'Huez (1/2)
-UID:292c30dd-22c2-4e49-beda-69910c011f90@292c.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-12-734845
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
-DTEND:20260805T162900Z
-LOCATION:Tipik
-DTSTART:20260805T113300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 5 : Mâcon > Belleville-en-Beaujolais
-UID:bf5059da-7196-4f26-800b-130ddfb9c5f8@bf50.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-3-geneve-poligny-737644
-DTEND:20260803T163200Z
-LOCATION:Tipik
-DTSTART:20260803T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 3 : Genève > Poligny
-UID:b7637395-5e79-4f6b-b2c4-58eec8c4cc53@b763.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-3-geneve-poligny-737644
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-22-734848
-DTEND:20260724T170000Z
-LOCATION:La Une
-DTSTART:20260724T120800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 : Gap > Alpe d'Huez (2/2)
-UID:83554ac9-0d48-40e9-a71c-ecf9baaef2cc@8355.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-22-734848
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-22-734099
 DTEND:20260722T164500Z
 LOCATION:La Une
 DTSTART:20260722T120800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 17 : Chambéry > Voiron (2/2)
-UID:3de10b76-7abc-4227-986a-2c2d6fa572bd@3de1.org
+UID:a2b65dd6-388a-4878-b75e-d2dfb7435ee0@a2b6.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-22-734099
 END:VEVENT
 BEGIN:VEVENT
@@ -160,17 +16,89 @@ DTEND:20260725T160000Z
 LOCATION:La Une
 DTSTART:20260725T113300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 20 : Le Bourg d'Oisans > Alpe d'Huez (2/2)
-UID:bbc7630a-bf42-4341-8b27-d33136a8d3ca@bbc7.org
+UID:36bdb6ad-2432-4788-b9dd-6a90746a4790@36bd.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-22-735756
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
-DTEND:20260807T162700Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
+DTEND:20260802T180500Z
+LOCATION:La Une
+DTSTART:20260802T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 2 : Aigle > Genève
+UID:04e2cea6-b6c1-47a5-92ac-05a92090fe0a@04e2.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-12-734265
+DTEND:20260723T121300Z
 LOCATION:Tipik
-DTSTART:20260807T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 7 : La Voulte-sur-Rhône > Mont Ventoux
-UID:5bcdc152-8712-4790-b0aa-c0647a299435@5bcd.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+DTSTART:20260723T095800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape18 : Voiron > Orcières-Merlette (1/2)
+UID:2f2bc233-aff4-455a-9d4a-1c5f9876b18b@2f2b.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape18-voiron-orcieres-merlette-12-734265
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-12-735819
+DTEND:20260725T114500Z
+LOCATION:Tipik
+DTSTART:20260725T084300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 20 : Le Bourg d'Oisans > Alpe d'Huez (1/2)
+UID:63d6605c-3b09-4b68-9c8d-29938ae33110@63d6.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-20-le-bourg-doisans-alpe-dhuez-12-735819
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
+DTEND:20260801T153700Z
+LOCATION:Tipik
+DTSTART:20260801T125800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Clasica San Sebastian
+UID:88f0b544-dd08-48dd-af31-31527288da25@88f0.org
+URL:https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-12-734845
+DTEND:20260724T121300Z
+LOCATION:Tipik
+DTSTART:20260724T112300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 : Gap > Alpe d'Huez (1/2)
+UID:2efef532-a583-472d-8f4c-bd1dcf798af5@2efe.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-12-734845
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-22-734848
+DTEND:20260724T170000Z
+LOCATION:La Une
+DTSTART:20260724T120800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 19 : Gap > Alpe d'Huez (2/2)
+UID:8ffcada6-25a7-4431-862a-847a2721fcd7@8ffc.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-19-gap-alpe-dhuez-22-734848
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-12-734090
+DTEND:20260722T121200Z
+LOCATION:Tipik
+DTSTART:20260722T105300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 17 : Chambéry > Voiron (1/2)
+UID:864ed378-a207-493a-bb5b-3ef666e7cba7@864e.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-17-chambery-voiron-12-734090
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-3-geneve-poligny-737644
+DTEND:20260803T163200Z
+LOCATION:Tipik
+DTSTART:20260803T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 3 : Genève > Poligny
+UID:336bbf9d-6192-4975-a285-00dbc5e43e82@336b.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-3-geneve-poligny-737644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
+DTEND:20260808T163300Z
+LOCATION:La Une
+DTSTART:20260808T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Étape 8 : Sisteron > Nice
+UID:ba2f57c3-1b01-4c67-9bb0-d409afa84351@ba2f.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
@@ -178,7 +106,79 @@ DTEND:20260806T162600Z
 LOCATION:Tipik
 DTSTART:20260806T134300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 6 : Montbrison > Tournon-sur-Rhône
-UID:7be44e3e-f08e-4be7-b409-29910ac7e80e@7be4.org
+UID:decc0e29-4661-4a62-abfe-85e09e31cffa@decc.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-22-734321
+DTEND:20260723T164500Z
+LOCATION:La Une
+DTSTART:20260723T120800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 18 : Voiron > Orcières-Merlette (2/2)
+UID:9970bea5-b250-4d98-8886-74e2f0659b1f@9970.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-18-voiron-orcieres-merlette-22-734321
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
+DTEND:20260809T180100Z
+LOCATION:Tipik
+DTSTART:20260809T135300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 9 : Nice > Nice
+UID:6ccd30a1-76a0-468f-b635-a0bfbd2280cd@6ccd.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+DTEND:20260807T162700Z
+LOCATION:Tipik
+DTSTART:20260807T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 7 : La Voulte-sur-Rhône > Mont Ventoux
+UID:29fab4cf-dc84-4278-aac5-628a4af9f466@29fa.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-735820
+DTEND:20260726T190900Z
+LOCATION:Tipik
+DTSTART:20260726T171800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France
+UID:56b85e6a-fddb-49e6-be64-3dd3ac494f69@56b8.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-735820
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-1-lausanne-lausanne-737750
+DTEND:20260801T180600Z
+LOCATION:La Une
+DTSTART:20260801T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 1 : Lausanne > Lausanne
+UID:69159423-9e41-409e-aefb-c521db7c1e13@6915.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-1-lausanne-lausanne-737750
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-21-thoiry-paris-champs-elysees-735757
+DTEND:20260726T173600Z
+LOCATION:La Une
+DTSTART:20260726T132800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France - Etape 21 - Thoiry > Paris Champs-Elysées
+UID:a8d84fee-081f-49f7-a68b-559bdb50ed79@a8d8.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-etape-21-thoiry-paris-champs-elysees-735757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-4-gevrey-chambertin-dijon-737968
+DTEND:20260804T163200Z
+LOCATION:Tipik
+DTSTART:20260804T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 4  : Gevrey-Chambertin > Dijon
+UID:a4960415-2e19-4c8d-9706-459388493aac@a496.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-4-gevrey-chambertin-dijon-737968
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
+DTEND:20260805T162900Z
+LOCATION:Tipik
+DTSTART:20260805T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 5 : Mâcon > Belleville-en-Beaujolais
+UID:9ae1a032-e105-45f9-9877-24e18234cacc@9ae1.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
 END:VEVENT
 END:VCALENDAR
