@@ -2,57 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/hamburg-cyclassics-739319
-DTEND:20260811T161100Z
-LOCATION:Tipik
-DTSTART:20260811T125400Z
-SUMMARY:🚴 [RTBF] Hamburg Cyclassics
-UID:eb62720e-67b3-4784-b667-637759ed33a6@eb62.org
-URL:https://auvio.rtbf.be/live/hamburg-cyclassics-739319
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
-DTEND:20260807T162700Z
-LOCATION:Tipik
-DTSTART:20260807T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 7 : La Voulte-sur-Rhône > Mont Ventoux
-UID:d310076a-560b-413d-b0af-142d90b895be@d310.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
-DTEND:20260809T180100Z
-LOCATION:Tipik
-DTSTART:20260809T135300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 9 : Nice > Nice
-UID:e8f5ab5e-e8a5-4b9a-bc10-79d6a6ae3cc7@e8f5.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
-DTEND:20260801T153700Z
-LOCATION:Tipik
-DTSTART:20260801T125800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Clasica San Sebastian
-UID:f4432292-6ceb-438f-be67-af549d935a14@f443.org
-URL:https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
-DTEND:20260802T180500Z
-LOCATION:La Une
-DTSTART:20260802T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 2 : Aigle > Genève
-UID:9fcb64b9-bacc-4c71-a2cc-5d7d7e241bb5@9fcb.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
 DTEND:20260808T163300Z
 LOCATION:La Une
 DTSTART:20260808T134300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Étape 8 : Sisteron > Nice
-UID:e9d12213-aaae-4915-ac79-a00d3fa816be@e9d1.org
+UID:09ab0a12-9eba-40cf-8d02-326ca2fa2881@09ab.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
 END:VEVENT
 BEGIN:VEVENT
@@ -61,26 +16,8 @@ DTEND:20260804T163200Z
 LOCATION:Tipik
 DTSTART:20260804T134300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 4  : Gevrey-Chambertin > Dijon
-UID:160dbe57-0e84-4227-9ea5-6dbc2dc08a36@160d.org
+UID:a0058fb0-8083-4aca-845b-b16adb7fc68b@a005.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-4-gevrey-chambertin-dijon-737968
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
-DTEND:20260805T162900Z
-LOCATION:Tipik
-DTSTART:20260805T113300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 5 : Mâcon > Belleville-en-Beaujolais
-UID:9271f943-e57e-4849-9405-eac82c3a298b@9271.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
-DTEND:20260806T162600Z
-LOCATION:Tipik
-DTSTART:20260806T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 6 : Montbrison > Tournon-sur-Rhône
-UID:1c638051-61dc-41ac-b164-9808216b3b59@1c63.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-3-geneve-poligny-737644
@@ -88,8 +25,44 @@ DTEND:20260803T163200Z
 LOCATION:Tipik
 DTSTART:20260803T134300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 3 : Genève > Poligny
-UID:7a811a6e-cd69-401d-ad3c-0d8835cf4ea7@7a81.org
+UID:0b2afca0-34bf-4fae-bf80-300869987929@0b2a.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-3-geneve-poligny-737644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
+DTEND:20260802T180500Z
+LOCATION:La Une
+DTSTART:20260802T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 2 : Aigle > Genève
+UID:9d05bfbe-771b-44ff-a7f3-89abbc46e3a7@9d05.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-2-aigle-geneve-737827
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
+DTEND:20260806T162600Z
+LOCATION:Tipik
+DTSTART:20260806T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 6 : Montbrison > Tournon-sur-Rhône
+UID:c7e1f419-ee2c-4982-874a-b01eab10d4ae@c7e1.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+DTEND:20260807T162700Z
+LOCATION:Tipik
+DTSTART:20260807T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 7 : La Voulte-sur-Rhône > Mont Ventoux
+UID:5f0482ae-333f-4160-a4c6-c5c07d09c0a3@5f04.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
+DTEND:20260805T162900Z
+LOCATION:Tipik
+DTSTART:20260805T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 5 : Mâcon > Belleville-en-Beaujolais
+UID:b46877f6-9dfd-4987-9806-cee3ea9bd40d@b468.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-5-macon-belleville-en-beaujolais-738318
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-1-lausanne-lausanne-737750
@@ -97,7 +70,34 @@ DTEND:20260801T180600Z
 LOCATION:La Une
 DTSTART:20260801T134300Z
 SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 1 : Lausanne > Lausanne
-UID:36486a41-ed22-41b7-a4b8-09e7836c8991@3648.org
+UID:c1b89f4c-f4a3-4896-93b2-693977d8b675@c1b8.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-1-lausanne-lausanne-737750
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
+DTEND:20260801T153700Z
+LOCATION:Tipik
+DTSTART:20260801T125800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Clasica San Sebastian
+UID:d5588399-5b5c-4a0a-b970-7bf7806374ea@d558.org
+URL:https://auvio.rtbf.be/live/cyclisme-clasica-san-sebastian-737620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
+DTEND:20260809T180100Z
+LOCATION:Tipik
+DTSTART:20260809T135300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 9 : Nice > Nice
+UID:4c86d14d-5f6f-4436-9164-c2bf01a15e7d@4c86.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/hamburg-cyclassics-739319
+DTEND:20260811T161100Z
+LOCATION:Tipik
+DTSTART:20260811T125400Z
+SUMMARY:🚴 [RTBF] Hamburg Cyclassics
+UID:8bca8f77-ebfc-466a-9a67-cbe47f62755c@8bca.org
+URL:https://auvio.rtbf.be/live/hamburg-cyclassics-739319
 END:VEVENT
 END:VCALENDAR
