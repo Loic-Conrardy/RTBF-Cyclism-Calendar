@@ -2,103 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-743615
-DTEND:20260825T155000Z
-LOCATION:Tipik
-DTSTART:20260825T123300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 4 : Andorre-la-Vieille > Andorre-la-Vieille
-UID:53bb65d5-43d9-4380-bb76-caa653f6dee3@53bb.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-743615
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
-DTEND:20260808T163500Z
-LOCATION:La Une
-DTSTART:20260808T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Étape 8 : Sisteron > Nice
-UID:44f29e3f-617b-4e50-88e1-e8acb2761e12@44f2.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
-DTEND:20260806T162700Z
-LOCATION:Tipik
-DTSTART:20260806T134300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 6 : Montbrison > Tournon-sur-Rhône
-UID:be26073c-97eb-4da6-8460-74164a3a30a5@be26.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/hamburg-cyclassics-741133
-DTEND:20260816T150200Z
-LOCATION:Tipik
-DTSTART:20260816T114300Z
-SUMMARY:🚴 [RTBF] Hamburg Cyclassics
-UID:e7f37726-1f36-4649-80ab-59557bc2093a@e7f3.org
-URL:https://auvio.rtbf.be/live/hamburg-cyclassics-741133
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-743011
-DTEND:20260822T145400Z
-LOCATION:Tipik
-DTSTART:20260822T132800Z
-SUMMARY:🚴 [RTBF] Renewi Tour
-UID:8143a127-f26f-4d3b-b8da-ffd0f1db27ca@8143.org
-URL:https://auvio.rtbf.be/live/renewi-tour-743011
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-743016
 DTEND:20260823T124400Z
 LOCATION:Tipik
 DTSTART:20260823T114300Z
 SUMMARY:🚴 [RTBF] Renewi Tour
-UID:82aadaf1-b84c-4928-ba05-68ef21a2ad4f@82aa.org
+UID:78185057-cdd6-4006-9226-53b7cccf88f9@7818.org
 URL:https://auvio.rtbf.be/live/renewi-tour-743016
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
-DTEND:20260809T180300Z
-LOCATION:Tipik
-DTSTART:20260809T135300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 9 : Nice > Nice
-UID:ab45ca6d-0917-44fa-befb-9b0d913eaa2f@ab45.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
-DTEND:20260807T162800Z
-LOCATION:Tipik
-DTSTART:20260807T131800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 7 : La Voulte-sur-Rhône > Mont Ventoux
-UID:a5fc375e-31ed-47a3-a26b-b7b484291c69@a5fc.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-741820
-DTEND:20260820T154900Z
-LOCATION:Tipik
-DTSTART:20260820T132800Z
-SUMMARY:🚴 [RTBF] Renewi Tour
-UID:95accd7b-5b97-4c77-a960-da5c4d4563ad@95ac.org
-URL:https://auvio.rtbf.be/live/renewi-tour-741820
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-741565
-DTEND:20260819T155400Z
-LOCATION:Tipik
-DTSTART:20260819T132800Z
-SUMMARY:🚴 [RTBF] Renewi Tour
-UID:9e29edd5-1e33-48de-918e-03d172629303@9e29.org
-URL:https://auvio.rtbf.be/live/renewi-tour-741565
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-743043
-DTEND:20260824T160500Z
-LOCATION:Tipik
-DTSTART:20260824T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 3 : Gruissan-Aude > Font Romeu
-UID:ece18983-90ac-4f24-b9ce-0ce3800c4628@ece1.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-743043
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-2-monaco-manosque-742951
@@ -106,17 +16,26 @@ DTEND:20260823T161400Z
 LOCATION:La Une
 DTSTART:20260823T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 2 : Monaco > Manosque
-UID:e42e5147-b051-450e-98f8-af7c095ccce8@e42e.org
+UID:62b521da-b18a-4277-a931-2a450bb1b4b0@62b5.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-2-monaco-manosque-742951
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-741884
-DTEND:20260821T144900Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
+DTEND:20260809T180300Z
 LOCATION:Tipik
-DTSTART:20260821T132800Z
+DTSTART:20260809T135300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 9 : Nice > Nice
+UID:69273420-a1f5-4287-a40e-ef98e2e97d0e@6927.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-9-nice-nice-739125
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-743011
+DTEND:20260822T145400Z
+LOCATION:Tipik
+DTSTART:20260822T132800Z
 SUMMARY:🚴 [RTBF] Renewi Tour
-UID:d2acf2b6-148d-4f60-aace-1a197c00d5c3@d2ac.org
-URL:https://auvio.rtbf.be/live/renewi-tour-741884
+UID:de18cdfc-f063-4644-aec5-46e8a1451095@de18.org
+URL:https://auvio.rtbf.be/live/renewi-tour-743011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-1-monaco-monaco-742950
@@ -124,7 +43,88 @@ DTEND:20260822T173600Z
 LOCATION:La Une
 DTSTART:20260822T140300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 1 : Monaco > Monaco
-UID:49a54d89-7a60-4577-9d89-3ddbc4c2c151@49a5.org
+UID:de4365b2-91d4-4c02-a0a6-2dc3b286894e@de43.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-1-monaco-monaco-742950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-741884
+DTEND:20260821T144900Z
+LOCATION:Tipik
+DTSTART:20260821T132800Z
+SUMMARY:🚴 [RTBF] Renewi Tour
+UID:87b0d608-0203-4d09-be1e-11e6d49ec338@87b0.org
+URL:https://auvio.rtbf.be/live/renewi-tour-741884
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
+DTEND:20260806T162700Z
+LOCATION:Tipik
+DTSTART:20260806T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 6 : Montbrison > Tournon-sur-Rhône
+UID:4a88dcaf-8d05-4c1f-826a-ff68f904fae8@4a88.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-6-montbrison-tournon-sur-rhone-738613
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+DTEND:20260807T162800Z
+LOCATION:Tipik
+DTSTART:20260807T131800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Etape 7 : La Voulte-sur-Rhône > Mont Ventoux
+UID:83d6301b-fef8-437c-b640-80b6dbc4f07f@83d6.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-7-la-voulte-sur-rhone-mont-ventoux-738744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-741565
+DTEND:20260819T155400Z
+LOCATION:Tipik
+DTSTART:20260819T132800Z
+SUMMARY:🚴 [RTBF] Renewi Tour
+UID:86c71adf-77f3-451a-af19-e7c2a35b5422@86c7.org
+URL:https://auvio.rtbf.be/live/renewi-tour-741565
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-743615
+DTEND:20260825T155000Z
+LOCATION:Tipik
+DTSTART:20260825T123300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 4 : Andorre-la-Vieille > Andorre-la-Vieille
+UID:70763a0b-e402-4caa-97b9-a6f506ef543d@7076.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-743615
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/renewi-tour-741820
+DTEND:20260820T154900Z
+LOCATION:Tipik
+DTSTART:20260820T132800Z
+SUMMARY:🚴 [RTBF] Renewi Tour
+UID:b7e2ac55-3356-4d3d-b41a-e406ff19aee1@b7e2.org
+URL:https://auvio.rtbf.be/live/renewi-tour-741820
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-743043
+DTEND:20260824T160500Z
+LOCATION:Tipik
+DTSTART:20260824T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 3 : Gruissan-Aude > Font Romeu
+UID:a2d7c8af-10b1-4d38-b520-8d12d29232a8@a2d7.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-743043
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/hamburg-cyclassics-741133
+DTEND:20260816T150200Z
+LOCATION:Tipik
+DTSTART:20260816T114300Z
+SUMMARY:🚴 [RTBF] Hamburg Cyclassics
+UID:d1e5c762-da6d-49a4-b1c2-93d456982e6a@d1e5.org
+URL:https://auvio.rtbf.be/live/hamburg-cyclassics-741133
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
+DTEND:20260808T163500Z
+LOCATION:La Une
+DTSTART:20260808T134300Z
+SUMMARY:🚴 [RTBF] Cyclisme - Tour de France Femmes 2026 - Étape 8 : Sisteron > Nice
+UID:a96a9a32-4458-40e2-8116-36e9ac549b8f@a96a.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-france-femmes-2026-etape-8-sisteron-nice-739124
 END:VEVENT
 END:VCALENDAR
