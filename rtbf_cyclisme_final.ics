@@ -2,49 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-6-alcossebre-castello-744915
-DTEND:20260827T160600Z
-LOCATION:Tipik
-DTSTART:20260827T124900Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 6 : Alcossebre > Castello
-UID:20aad880-1a49-4139-862b-1f90fcedde42@20aa.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-6-alcossebre-castello-744915
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/renewi-tour-etape-5-louvain-louvain-744948
-DTEND:20260823T145000Z
-LOCATION:Auvio
-DTSTART:20260823T122900Z
-SUMMARY:🚴 [RTBF] Renewi Tour - Etape 5 : Louvain > Louvain
-UID:909edd2f-119a-491e-920b-1e7e55a4546a@909e.org
-URL:https://auvio.rtbf.be/live/renewi-tour-etape-5-louvain-louvain-744948
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-7-vall-dalba-aramon-valdelinares-744916
 DTEND:20260828T160600Z
 LOCATION:Tipik
 DTSTART:20260828T112800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 7 : Vall d'Alba > Aramon Valdelinares
-UID:df4f6be8-0c6e-47d4-a7d4-65cbef4c6319@df4f.org
+UID:66939ecf-3b9b-454d-84a4-6d3f7959610f@6693.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-7-vall-dalba-aramon-valdelinares-744916
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
-DTEND:20260906T160400Z
-LOCATION:La Une
-DTSTART:20260906T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 15 : Palma del Rio > Cordoba
-UID:104c70db-b420-4eb1-9f8d-e3f2d0501993@104c.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
-DTEND:20260904T154900Z
-LOCATION:Tipik
-DTSTART:20260904T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 13 : Almunecar > Loja
-UID:d228bc79-7b4e-49a3-bbbe-3a6a838f143d@d228.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-9-la-vila-joiosa-alto-de-aitana-745033
@@ -52,53 +16,8 @@ DTEND:20260830T160500Z
 LOCATION:La Une
 DTSTART:20260830T113500Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 9 : La Vila Joiosa > Alto de Aitana
-UID:d01dc49b-3554-4c9d-a38a-224c7ad07db2@d01d.org
+UID:90b769d9-ebdc-43da-92d7-789172dee89b@90b7.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-9-la-vila-joiosa-alto-de-aitana-745033
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-8-pucol-xeraco-745032
-DTEND:20260829T160700Z
-LOCATION:La Une
-DTSTART:20260829T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 8 : Puçol > Xeraco
-UID:7ab4105e-238e-4781-94ea-f7f1612c4940@7ab4.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-8-pucol-xeraco-745032
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-744913
-DTEND:20260825T155000Z
-LOCATION:Tipik
-DTSTART:20260825T123300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 4 : Andorre-la-Vieille > Andorre-la-Vieille
-UID:294c9a4d-7002-4801-9b67-2f4889b91bde@294c.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-744913
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-745070
-DTEND:20260824T160500Z
-LOCATION:Tipik
-DTSTART:20260824T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 3 : Gruissan-Aude > Font Romeu
-UID:b02b648d-a165-40b4-bee5-cca59a77acdc@b02b.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-745070
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-5-costa-daurada-roquetes-744914
-DTEND:20260826T160500Z
-LOCATION:Tipik
-DTSTART:20260826T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 5 : Costa Daurada >Roquetes
-UID:ab7e199a-47b1-4f35-90f1-06ec6274b30b@ab7e.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-5-costa-daurada-roquetes-744914
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
-DTEND:20260901T160700Z
-LOCATION:Tipik
-DTSTART:20260901T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 10 : Alcaraz >Elche de la Sierra
-UID:efd8fa64-396f-4a2d-aae5-a7cdb7831930@efd8.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
@@ -106,44 +25,62 @@ DTEND:20260905T160800Z
 LOCATION:La Une
 DTSTART:20260905T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 14 : Jaen > Sierra de la Pandera
-UID:348bebd5-c86a-47c5-a272-e0d358442347@348b.org
+UID:5cdc1356-75dd-4022-aa43-8f894a62ffe5@5cdc.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
-DTEND:20260902T160700Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-6-alcossebre-castello-744915
+DTEND:20260827T160600Z
 LOCATION:Tipik
-DTSTART:20260902T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 11 : Carthagène > Lorca
-UID:9216c43f-9d82-4401-9297-aa974c934328@9216.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
+DTSTART:20260827T124900Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 6 : Alcossebre > Castello
+UID:404bf542-7447-45fa-a141-caac871a3a2d@404b.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-6-alcossebre-castello-744915
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-2-monaco-manosque-744911
-DTEND:20260823T160900Z
-LOCATION:La Une
-DTSTART:20260823T125100Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 2 : Monaco > Manosque
-UID:920a4a56-7d19-424b-8d48-ff284e1a5ef7@920a.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-2-monaco-manosque-744911
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-1-monaco-monaco-22-748342
-DTEND:20260822T175000Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-744913
+DTEND:20260825T155000Z
 LOCATION:Tipik
-DTSTART:20260822T171400Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 1 : Monaco > Monaco (2/2)
-UID:8e7c41e6-2a0f-4013-b184-14e0e99b2758@8e7c.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-1-monaco-monaco-22-748342
+DTSTART:20260825T123300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 4 : Andorre-la-Vieille > Andorre-la-Vieille
+UID:9b90c1df-1309-470d-819d-52d1a5a738a9@9b90.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-4-andorre-la-vieille-andorre-la-vieille-744913
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-1-monaco-monaco-12-748293
-DTEND:20260822T172000Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
+DTEND:20260903T160900Z
+LOCATION:Tipik
+DTSTART:20260903T104800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 12 : Vera > Calar Alto
+UID:a050ee9d-199a-434d-9860-ace833cd46a6@a050.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
+DTEND:20260906T160400Z
 LOCATION:La Une
-DTSTART:20260822T140300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 1 : Monaco > Monaco (1/2)
-UID:3cdc6d2e-6acf-4919-b5ae-34e015ce3f59@3cdc.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-1-monaco-monaco-12-748293
+DTSTART:20260906T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 15 : Palma del Rio > Cordoba
+UID:18ea6ce1-f0e5-459f-9213-682c93621d65@18ea.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
+DTEND:20260911T160600Z
+LOCATION:Tipik
+DTSTART:20260911T111300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 19 : Velez-Malaga > Penas Blanca
+UID:c2eaaf71-dab6-4749-9670-93fdc87f0ca6@c2ea.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
+DTEND:20260901T160700Z
+LOCATION:Tipik
+DTSTART:20260901T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 10 : Alcaraz >Elche de la Sierra
+UID:e1aaea6a-165b-43a0-bb41-cb28a48cb5a2@e1aa.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
@@ -151,7 +88,7 @@ DTEND:20260908T161200Z
 LOCATION:Tipik
 DTSTART:20260908T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 16 : Cortogena > La Rabida
-UID:9a909803-3bc7-4a88-8037-ef0449d507b1@9a90.org
+UID:bda3c349-a46e-4e32-8472-2bf8bdbf493e@bda3.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
 END:VEVENT
 BEGIN:VEVENT
@@ -160,7 +97,7 @@ DTEND:20260909T160500Z
 LOCATION:Tipik
 DTSTART:20260909T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 17 : Dos Hermanas > Seville
-UID:57261d9d-f979-432e-87f4-11b7169dafcc@5726.org
+UID:977d6abb-c729-4089-8733-2982fe027c95@977d.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
 END:VEVENT
 BEGIN:VEVENT
@@ -168,16 +105,79 @@ DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnat-deurope-de-bmx
 DTEND:20260823T153000Z
 DTSTART:20260823T105000Z
 SUMMARY:🚴 [RTBF] Championnat d'Europe de BMX Freestyle
-UID:fbac36f8-4ec4-4c2e-9d43-bd2866673c04@fbac.org
+UID:08780f62-4060-4c73-a0fa-9bac60596ff9@0878.org
 URL:https://auvio.rtbf.be/live/championnat-deurope-de-bmx-freestyle-748115
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
-DTEND:20260903T160900Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-745070
+DTEND:20260824T160500Z
 LOCATION:Tipik
-DTSTART:20260903T104800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 12 : Vera > Calar Alto
-UID:6aa351a6-ec56-4932-90e8-7cdcf6371665@6aa3.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
+DTSTART:20260824T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 3 : Gruissan-Aude > Font Romeu
+UID:054bd5aa-8713-44eb-8f52-3e61155b3606@054b.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-3-gruissan-aude-font-romeu-745070
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
+DTEND:20260904T154900Z
+LOCATION:Tipik
+DTSTART:20260904T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 13 : Almunecar > Loja
+UID:1b7c435d-4a27-4dea-8382-769914dd93f8@1b7c.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-5-costa-daurada-roquetes-744914
+DTEND:20260826T160500Z
+LOCATION:Tipik
+DTSTART:20260826T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 5 : Costa Daurada >Roquetes
+UID:4f9c94b0-a46d-4e3c-98e2-503052aa8aef@4f9c.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-5-costa-daurada-roquetes-744914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/renewi-tour-etape-5-louvain-louvain-744948
+DTEND:20260823T145000Z
+LOCATION:Auvio
+DTSTART:20260823T122900Z
+SUMMARY:🚴 [RTBF] Renewi Tour - Etape 5 : Louvain > Louvain
+UID:e91e42fb-806d-4e5e-bae3-d3eb611ea762@e91e.org
+URL:https://auvio.rtbf.be/live/renewi-tour-etape-5-louvain-louvain-744948
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-2-monaco-manosque-744911
+DTEND:20260823T160900Z
+LOCATION:La Une
+DTSTART:20260823T125100Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 2 : Monaco > Manosque
+UID:5bf05c41-20f6-4734-9109-7cd9b4c3df0d@5bf0.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-2-monaco-manosque-744911
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-18-el-puerto-santa-maria-jerez-de-la-frontera-748382
+DTEND:20260910T160500Z
+LOCATION:Tipik
+DTSTART:20260910T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 18 : El Puerto Santa Maria >Jerez de la Frontera
+UID:3a0c793f-1060-4f04-b75d-71c186a105ac@3a0c.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-18-el-puerto-santa-maria-jerez-de-la-frontera-748382
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-8-pucol-xeraco-745032
+DTEND:20260829T160700Z
+LOCATION:La Une
+DTSTART:20260829T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 8 : Puçol > Xeraco
+UID:7c52e097-5bd1-47d3-b125-69e1808fb55c@7c52.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-8-pucol-xeraco-745032
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
+DTEND:20260902T160700Z
+LOCATION:Tipik
+DTSTART:20260902T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 11 : Carthagène > Lorca
+UID:735fbbd7-c06c-4453-a5f6-ec10beb78d9a@735f.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
 END:VEVENT
 END:VCALENDAR
