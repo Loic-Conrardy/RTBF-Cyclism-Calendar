@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
-DTEND:20260903T160900Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
+DTEND:20260902T160900Z
 LOCATION:Tipik
-DTSTART:20260903T104800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 12 : Vera > Calar Alto
-UID:663313a0-fb82-4e20-a061-c58b76ed25c7@6633.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
-DTEND:20260901T160700Z
-LOCATION:Tipik
-DTSTART:20260901T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 10 : Alcaraz >Elche de la Sierra
-UID:e8397075-b322-4a6d-b4ec-6dfb2f245548@e839.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
+DTSTART:20260902T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 11 : Carthagène > Lorca
+UID:001cba30-fd55-4920-a277-68e680aed8ed@001c.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
@@ -25,53 +16,8 @@ DTEND:20260908T161200Z
 LOCATION:Tipik
 DTSTART:20260908T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 16 : Cortogena > La Rabida
-UID:47e3eccb-2934-4248-9e8f-88702162fc07@47e3.org
+UID:74902d72-c8d1-478f-abb2-c2ba9d167712@7490.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749063
-DTEND:20260912T160000Z
-LOCATION:La Une
-DTSTART:20260912T121300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 La Calahorra > Collado Del Alguacil
-UID:e38e0073-3d7a-4b30-be8b-884096ac2142@e38e.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749063
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
-DTEND:20260905T160800Z
-LOCATION:La Une
-DTSTART:20260905T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 14 : Jaen > Sierra de la Pandera
-UID:f3bee811-f494-4f15-affa-f947639fdc52@f3be.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
-DTEND:20260902T160700Z
-LOCATION:Tipik
-DTSTART:20260902T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 11 : Carthagène > Lorca
-UID:c472816e-11c8-4d0c-9b5f-8b10deb1aeb4@c472.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-11-carthagene-lorca-746706
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
-DTEND:20260906T160400Z
-LOCATION:La Une
-DTSTART:20260906T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 15 : Palma del Rio > Cordoba
-UID:0377dd2b-dfd6-4a94-adc7-e6d29dd7fc11@0377.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
-DTEND:20260904T154900Z
-LOCATION:Tipik
-DTSTART:20260904T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 13 : Almunecar > Loja
-UID:9b296af8-fea2-49a3-bcca-10e419edc18f@9b29.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
@@ -79,7 +25,7 @@ DTEND:20260909T160500Z
 LOCATION:Tipik
 DTSTART:20260909T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 17 : Dos Hermanas > Seville
-UID:af449d46-89ae-4024-8d88-02925e58eef4@af44.org
+UID:4f9b1724-346a-446f-8686-3defe949b636@4f9b.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
 END:VEVENT
 BEGIN:VEVENT
@@ -88,8 +34,26 @@ DTEND:20260910T160500Z
 LOCATION:Tipik
 DTSTART:20260910T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 18 : El Puerto Santa Maria >Jerez de la Frontera
-UID:4a717e7c-7350-4bb4-83ea-4451beca0aa5@4a71.org
+UID:f6528287-be72-4f06-8ada-3a09197252ef@f652.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-18-el-puerto-santa-maria-jerez-de-la-frontera-748382
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
+DTEND:20260903T161000Z
+LOCATION:Tipik
+DTSTART:20260903T104800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 12 : Vera > Calar Alto
+UID:221be148-2dd9-4e81-887d-6017b9a4929c@221b.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-12-vera-calar-alto-747150
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
+DTEND:20260906T160400Z
+LOCATION:La Une
+DTSTART:20260906T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 15 : Palma del Rio > Cordoba
+UID:b9b24926-d02d-4721-a4c0-ccc4200233d9@b9b2.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
@@ -97,7 +61,7 @@ DTEND:20260911T160600Z
 LOCATION:Tipik
 DTSTART:20260911T111300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 19 : Velez-Malaga > Penas Blanca
-UID:ba7d3eb4-2ad2-4f6c-991f-cf5d8a4249a4@ba7d.org
+UID:35038a59-8aef-4c14-b82d-493b0c91c1eb@3503.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
 END:VEVENT
 BEGIN:VEVENT
@@ -106,8 +70,35 @@ DTEND:20260912T124100Z
 LOCATION:Tipik
 DTSTART:20260912T101800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 : La Calahorra > Collado Del Alguacil
-UID:b345a8f5-bc15-4624-9241-e4259bf83052@b345.org
+UID:18b52cc5-cd5a-4663-ad7a-db173502c1c3@18b5.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749062
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749063
+DTEND:20260912T160000Z
+LOCATION:La Une
+DTSTART:20260912T121300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 La Calahorra > Collado Del Alguacil
+UID:d47dae6c-28f9-4a71-85e4-0d0e88aba05f@d47d.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749063
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
+DTEND:20260901T160400Z
+LOCATION:Tipik
+DTSTART:20260901T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 10 : Alcaraz >Elche de la Sierra
+UID:872f895a-012f-4545-b210-a0810cdf30ff@872f.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-10-alcaraz-elche-de-la-sierra-745241
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
+DTEND:20260905T160800Z
+LOCATION:La Une
+DTSTART:20260905T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 14 : Jaen > Sierra de la Pandera
+UID:441d66b7-48f0-4d02-9a1f-1b69512a296f@441d.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
@@ -115,7 +106,16 @@ DTEND:20260913T165500Z
 LOCATION:La Une
 DTSTART:20260913T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 21 : Granada > Granada
-UID:848d30cf-722d-4aa0-8716-759b3f8b1079@848d.org
+UID:331a08bb-23b8-4cdb-9334-20fbdcd5bb83@331a.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
+DTEND:20260904T154900Z
+LOCATION:Tipik
+DTSTART:20260904T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 13 : Almunecar > Loja
+UID:93678e14-c324-4bc3-b14b-0972e4442e6a@9367.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-13-almunecar-loja-747225
 END:VEVENT
 END:VCALENDAR
