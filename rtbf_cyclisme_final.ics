@@ -2,31 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
-DTEND:20260911T160600Z
-LOCATION:Tipik
-DTSTART:20260911T111300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 19 : Velez-Malaga > Penas Blanca
-UID:ee495c22-7156-40ca-ac6f-c44eca573aea@ee49.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-18-el-puerto-santa-maria-jerez-de-la-frontera-748382
 DTEND:20260910T160500Z
 LOCATION:Tipik
 DTSTART:20260910T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 18 : El Puerto Santa Maria >Jerez de la Frontera
-UID:4e1b143c-cf28-46cd-90c9-64bd259c7cc1@4e1b.org
+UID:6831a113-55d3-46a1-b72f-1fdaae4874df@6831.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-18-el-puerto-santa-maria-jerez-de-la-frontera-748382
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
-DTEND:20260921T191700Z
-LOCATION:Tipik
-DTSTART:20260921T154800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs CLM
-UID:3ef2200c-ac76-4c1b-b581-87a581f2c36a@3ef2.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
@@ -34,7 +16,7 @@ DTEND:20260920T200400Z
 LOCATION:Tipik
 DTSTART:20260920T171800Z
 SUMMARY:🚴 [RTBF] Championnats du Monde - Elite Messieurs CLM
-UID:ed45bb0e-7960-41d1-a401-c30312519e1f@ed45.org
+UID:2510620d-523b-4a82-91ca-d08b663be7c8@2510.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
 END:VEVENT
 BEGIN:VEVENT
@@ -43,35 +25,17 @@ DTEND:20260912T160000Z
 LOCATION:La Une
 DTSTART:20260912T121300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 La Calahorra > Collado Del Alguacil
-UID:322084b4-5c8f-41f8-9e06-c101e72d2a40@3220.org
+UID:e81b68b5-144a-47b7-844e-af642ad80917@e81b.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749063
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
-DTEND:20260908T161200Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
+DTEND:20260911T160600Z
 LOCATION:Tipik
-DTSTART:20260908T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 16 : Cortogena > La Rabida
-UID:4edecfcf-77f3-43f1-a547-b6c355c5627b@4ede.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
-DTEND:20260909T160500Z
-LOCATION:Tipik
-DTSTART:20260909T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 17 : Dos Hermanas > Seville
-UID:e608a68b-2c33-48f3-b070-39c724b44652@e608.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
-DTEND:20260905T160800Z
-LOCATION:La Une
-DTSTART:20260905T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 14 : Jaen > Sierra de la Pandera
-UID:26dcae2f-d560-41c9-a662-c036fbc9b8b7@26dc.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-14-jaen-sierra-de-la-pandera-747566
+DTSTART:20260911T111300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 19 : Velez-Malaga > Penas Blanca
+UID:26050f68-fa71-48af-9ec1-89d94f82154e@2605.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
@@ -79,8 +43,35 @@ DTEND:20260913T165500Z
 LOCATION:La Une
 DTSTART:20260913T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 21 : Granada > Granada
-UID:626afc72-68aa-4ed8-ab6b-4a659e2a5519@626a.org
+UID:d14c61db-c617-4064-bd32-88bfa99622f9@d14c.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
+DTEND:20260925T181500Z
+LOCATION:Tipik
+DTSTART:20260925T130900Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs sur route
+UID:a48fbb82-0460-4be1-8721-b5d82c85e099@a48f.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
+DTEND:20260909T160500Z
+LOCATION:Tipik
+DTSTART:20260909T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 17 : Dos Hermanas > Seville
+UID:4338b1a3-4217-433a-a435-1689f375bf50@4338.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-17-dos-hermanas-seville-748218
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
+DTEND:20260908T161200Z
+LOCATION:Tipik
+DTSTART:20260908T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 16 : Cortogena > La Rabida
+UID:e6656c4e-4d28-4be3-bacc-73d91be4960f@e665.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-16-cortogena-la-rabida-747860
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749062
@@ -88,7 +79,7 @@ DTEND:20260912T124100Z
 LOCATION:Tipik
 DTSTART:20260912T101800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 : La Calahorra > Collado Del Alguacil
-UID:56074ebb-8242-4a38-8d9a-d94b658dfa39@5607.org
+UID:061b9a27-0521-45a8-8b20-a77f8a6e22f6@061b.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-749062
 END:VEVENT
 BEGIN:VEVENT
@@ -97,7 +88,16 @@ DTEND:20260906T160900Z
 LOCATION:La Une
 DTSTART:20260906T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 15 : Palma del Rio > Cordoba
-UID:3c56ccaa-0b90-4f36-af25-05acf0174d0f@3c56.org
+UID:1525f7b4-40b7-41ad-b834-b83bde685466@1525.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-15-palma-del-rio-cordoba-747614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
+DTEND:20260921T191700Z
+LOCATION:Tipik
+DTSTART:20260921T154800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs CLM
+UID:d492c600-d726-48b1-abf8-0835f230b49a@d492.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
 END:VEVENT
 END:VCALENDAR
