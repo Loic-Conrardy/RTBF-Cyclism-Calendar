@@ -2,56 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
-DTEND:20260927T202300Z
-LOCATION:Tipik
-DTSTART:20260927T124800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - Montréal Elite messieurs sur route
-UID:cf22b13d-b173-4c4a-8289-fe20d3869c4d@cf22.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260919T135000Z
-SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
-UID:9ebeedd7-5f67-439e-bf6b-5e0f08895330@9ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-752588
-DTEND:20260912T160000Z
-DTSTART:20260912T102000Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 La Calahorra > Collado Del Alguacil
-UID:8f44e39f-16a1-4760-bde6-4f780a4639cf@8f44.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-752588
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
-DTEND:20260920T200400Z
-LOCATION:Tipik
-DTSTART:20260920T171800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - Elite Messieurs CLM
-UID:ac798e1f-9c47-4043-9e20-1a81196cc893@ac79.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-a-montreal-753522
 DTEND:20260926T185200Z
 LOCATION:Tipik
 DTSTART:20260926T124800Z
 SUMMARY:🚴 [RTBF] Championnats du Monde à Montréal
-UID:5249b6cd-ac2e-4615-91bf-932bfc729993@5249.org
+UID:81da125a-c8dd-431d-89f7-9cba89a0c691@81da.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-a-montreal-753522
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
-DTEND:20260921T191700Z
-LOCATION:Tipik
-DTSTART:20260921T154800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs CLM
-UID:44843fe7-d967-490e-b689-a0333eb46e09@4484.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
@@ -59,49 +16,25 @@ DTEND:20260925T181500Z
 LOCATION:Tipik
 DTSTART:20260925T130900Z
 SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs sur route
-UID:af391d65-58f1-4ef8-a850-818e522ea991@af39.org
+UID:ccd9a197-bbd4-443f-9d80-51f84d19bb18@ccd9.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
-DTEND:20260911T160600Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
+DTEND:20260920T200400Z
 LOCATION:Tipik
-DTSTART:20260911T111300Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 19 : Velez-Malaga > Penas Blanca
-UID:c4641abe-4e03-4705-adb7-c3e8ff32c03f@c464.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
+DTSTART:20260920T171800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - Elite Messieurs CLM
+UID:ef44108f-f547-4b1a-8984-8ec541a7bf28@ef44.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260916T130000Z
-SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Hommes 🇧🇪 (1.Pro)
-UID:2edd11c7-b7a2-44cd-86eb-b76e6438ecf4@2edd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260916T114500Z
-SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
-UID:a10fda96-37bd-459a-a9af-4a9cbb6b633f@a10f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/vueta-etape-18-el-puerto-santa-maria-jerez-frontera-753995
-DTEND:20260910T160000Z
-DTSTART:20260910T125000Z
-SUMMARY:🚴 [RTBF] Vueta - Etape 18: El Puerto Santa Maria >Jerez Frontera
-UID:0fa4d9da-71b1-4618-99a4-b512a1afc824@0fa4.org
-URL:https://auvio.rtbf.be/live/vueta-etape-18-el-puerto-santa-maria-jerez-frontera-753995
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 12h15 surRTBF Auvio\, puis dès 15h00 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260913T101500Z
-SUMMARY:🚴‍♂️ [RTBF] Brussels Urban Sessions - BMX Freestyle 🇧🇪
-UID:bd70021a-174b-4750-a6ed-05eff8de59e1@bd70.org
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-752588
+DTEND:20260912T160000Z
+DTSTART:20260912T102000Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 La Calahorra > Collado Del Alguacil
+UID:4bdf42a3-0868-40d3-826b-684fa75c17da@4bdf.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-752588
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
@@ -109,7 +42,74 @@ DTEND:20260913T165500Z
 LOCATION:La Une
 DTSTART:20260913T140800Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 21 : Granada > Granada
-UID:b17d297f-36af-4e25-8dff-6392228849da@b17d.org
+UID:dc7dbd2a-ea9f-4980-abaf-89a5dc5833f9@dc7d.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
+DTEND:20260911T160600Z
+LOCATION:Tipik
+DTSTART:20260911T111300Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 19 : Velez-Malaga > Penas Blanca
+UID:aca23b4e-554b-433b-b42f-b3fb78bc84e5@aca2.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-19-velez-malaga-penas-blanca-748455
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
+DTEND:20260921T191700Z
+LOCATION:Tipik
+DTSTART:20260921T154800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs CLM
+UID:6d03a338-2972-4f99-baa1-6ab77240de6b@6d03.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260916T130000Z
+SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Hommes 🇧🇪 (1.Pro)
+UID:d34acdc0-f39b-467f-acf9-533c903f8c93@d34a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260916T114500Z
+SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
+UID:5aa1e1c5-b121-4ecf-9c6d-dcfb0f4ff49c@5aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 12h15 surRTBF Auvio\, puis dès 15h00 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260913T101500Z
+SUMMARY:🚴‍♂️ [RTBF] Brussels Urban Sessions - BMX Freestyle 🇧🇪
+UID:5ed99507-12cd-46f0-9535-cbcac30ea389@5ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/vueta-etape-18-el-puerto-santa-maria-jerez-frontera-753995
+DTEND:20260910T160000Z
+DTSTART:20260910T125000Z
+SUMMARY:🚴 [RTBF] Vueta - Etape 18: El Puerto Santa Maria >Jerez Frontera
+UID:e92cbcd5-4d80-4af4-809f-783a642c500b@e92c.org
+URL:https://auvio.rtbf.be/live/vueta-etape-18-el-puerto-santa-maria-jerez-frontera-753995
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260919T135000Z
+SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
+UID:a49c45b4-7617-4eba-b08a-2a1125afd62d@a49c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
+DTEND:20260927T202300Z
+LOCATION:Tipik
+DTSTART:20260927T124800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - Montréal Elite messieurs sur route
+UID:35e5b389-ee4d-4208-b149-b7915d63e606@35e5.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
 END:VEVENT
 END:VCALENDAR
