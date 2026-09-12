@@ -2,38 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
-DTEND:20260913T165500Z
-LOCATION:La Une
-DTSTART:20260913T141800Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 21 : Granada > Granada
-UID:6db11bf9-49e2-48f2-b311-1857390a485b@6db1.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-752588
-DTEND:20260912T160000Z
-DTSTART:20260912T102000Z
-SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 20 La Calahorra > Collado Del Alguacil
-UID:9d640238-631f-4380-9c1f-ec10c1da738c@9d64.org
-URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-20-la-calahorra-collado-del-alguacil-752588
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 12h15 surRTBF Auvio\, puis dès 15h00 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20260913T101500Z
-SUMMARY:🚴‍♂️ [RTBF] Brussels Urban Sessions - BMX Freestyle 🇧🇪
-UID:36e85664-ec2d-48ac-bfb4-1172dfdf5118@36e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
-DTEND:20260920T200400Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
+DTEND:20260927T202300Z
 LOCATION:Tipik
-DTSTART:20260920T171800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - Elite Messieurs CLM
-UID:84a3ce67-9677-45e7-a2a0-e243d3fcea5c@84a3.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
+DTSTART:20260927T124800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - Montréal Elite messieurs sur route
+UID:a0c49c07-83a6-4494-be23-2bfc3b3a955d@a0c4.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-754688
@@ -41,7 +16,7 @@ DTEND:20260913T184800Z
 LOCATION:Tipik
 DTSTART:20260913T163300Z
 SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta
-UID:442d0b8c-fedc-47d5-8546-e93f91921300@442d.org
+UID:6a112d24-2f68-4158-9737-55e682a8772a@6a11.org
 URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-754688
 END:VEVENT
 BEGIN:VEVENT
@@ -50,42 +25,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260916T130000Z
 SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Hommes 🇧🇪 (1.Pro)
-UID:93625854-e3f2-4dcf-b122-df8ae49f8d64@9362.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
-DTEND:20260925T181500Z
-LOCATION:Tipik
-DTSTART:20260925T130900Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs sur route
-UID:deb0f128-4af0-4213-868e-19028c43ec08@deb0.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
-DTEND:20260927T202300Z
-LOCATION:Tipik
-DTSTART:20260927T124800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde - Montréal Elite messieurs sur route
-UID:f98db330-a71d-4c31-b58b-ad575e4aeccb@f98d.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-montreal-elite-messieurs-sur-route-753523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-a-montreal-753522
-DTEND:20260926T185200Z
-LOCATION:Tipik
-DTSTART:20260926T124800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde à Montréal
-UID:5c0d7bd3-c5ed-4e9b-878c-d71086b1dc57@5c0d.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-a-montreal-753522
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260916T114500Z
-SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
-UID:3c2873ea-2389-4066-915d-f7c5796c5370@3c28.org
+UID:54a60960-1b65-44e6-a80b-0ba4e25e4c38@54a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
@@ -93,8 +33,60 @@ DTEND:20260921T191700Z
 LOCATION:Tipik
 DTSTART:20260921T154800Z
 SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs CLM
-UID:b849082f-151e-4e35-bb72-3dfc59384e5f@b849.org
+UID:aabe1004-2d1c-44e2-9da8-446db026f2ec@aabe.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-clm-752396
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-a-montreal-753522
+DTEND:20260926T185200Z
+LOCATION:Tipik
+DTSTART:20260926T124800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde à Montréal
+UID:60078d70-4663-4d4a-911f-647dfef8d7e2@6007.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-a-montreal-753522
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
+DTEND:20260913T165500Z
+LOCATION:La Une
+DTSTART:20260913T141800Z
+SUMMARY:🚴 [RTBF] Cyclisme - La Vuelta - Etape 21 : Granada > Granada
+UID:7e3653e6-84df-4cde-9b09-583202c5c24d@7e36.org
+URL:https://auvio.rtbf.be/live/cyclisme-la-vuelta-etape-21-granada-granada-749064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 12h15 surRTBF Auvio\, puis dès 15h00 surRTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20260913T101500Z
+SUMMARY:🚴‍♂️ [RTBF] Brussels Urban Sessions - BMX Freestyle 🇧🇪
+UID:0fe740f1-1764-4811-a240-ec99dd6830f5@0fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
+DTEND:20260920T200400Z
+LOCATION:Tipik
+DTSTART:20260920T171800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - Elite Messieurs CLM
+UID:3bb1bb11-b670-4a58-aa9a-25e702796d6b@3bb1.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-elite-messieurs-clm-752395
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260916T114500Z
+SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
+UID:f8413994-ff72-40a7-b44e-062daa24ace1@f841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
+DTEND:20260925T181500Z
+LOCATION:Tipik
+DTSTART:20260925T130900Z
+SUMMARY:🚴 [RTBF] Championnats du Monde - U23 Messieurs sur route
+UID:ac6b808f-c675-467a-ad70-d24d21175d21@ac6b.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-u23-messieurs-sur-route-752518
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -102,6 +94,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260919T135000Z
 SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
-UID:9d95b344-e3e4-4c4b-bdda-931bcb964860@9d95.org
+UID:096e891d-a65f-4b1c-94a2-307381ca4265@096e.org
 END:VEVENT
 END:VCALENDAR
