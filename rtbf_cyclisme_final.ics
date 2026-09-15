@@ -2,81 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/belgian-cycling-cup-championnat-des-flandres-754890
-DTEND:20260918T154500Z
-LOCATION:Tipik
-DTSTART:20260918T132800Z
-SUMMARY:🚴 [RTBF] Belgian Cycling Cup - Championnat des Flandres
-UID:9398b99d-4493-4fad-bfa5-be7849a6e2dc@9398.org
-URL:https://auvio.rtbf.be/live/belgian-cycling-cup-championnat-des-flandres-754890
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-DTEND:20260927T202300Z
-LOCATION:Tipik
-DTSTART:20260927T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
-UID:07ccfc73-e1b1-4205-8e6a-78c52e30ad77@07cc.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
 DTEND:20260926T185200Z
 LOCATION:Tipik
 DTSTART:20260926T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
-UID:5d95df41-d1cf-411e-8c0a-1c6b9b7edd9c@5d95.org
+UID:ef3bcac1-c2bc-42fb-9a5a-4523af1e9c58@ef3b.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260919T135000Z
-SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
-UID:f2765966-838e-4083-91c9-816087b594b9@f276.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
-DTEND:20260920T200000Z
-DTSTART:20260920T163500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes
-UID:13c1c5b2-cb86-44ce-8ef8-f622662b6a84@13c1.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
-DTEND:20260925T181500Z
-LOCATION:Tipik
-DTSTART:20260925T130900Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
-UID:8cfd3b6f-c870-4a20-a35c-8d9d525283cf@8cfd.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260916T114500Z
-SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
-UID:b9a27902-a24a-473c-97cd-d7ff8fccf8df@b9a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
-DTEND:20260921T191700Z
-LOCATION:Tipik
-DTSTART:20260921T154800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes U23
-UID:3b8f7e27-b708-4596-b8c9-940527c07341@3b8f.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260916T130000Z
-SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Hommes 🇧🇪 (1.Pro)
-UID:03fe724c-3f62-4508-95e3-b9173dc0a1db@03fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-clm-dames-755052
@@ -84,7 +16,75 @@ DTEND:20260920T161300Z
 LOCATION:Tipik
 DTSTART:20260920T131300Z
 SUMMARY:🚴 [RTBF] Championnats du Monde - CLM dames
-UID:7d94fea1-1f7b-4527-84f2-5097a2115fe0@7d94.org
+UID:d25397f3-c0b5-491a-89e3-53c1329767e1@d253.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-clm-dames-755052
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
+DTEND:20260921T191700Z
+LOCATION:Tipik
+DTSTART:20260921T154800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes U23
+UID:757e3122-7d2b-4184-b2f6-dc66a4f2dbf4@757e.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260916T114500Z
+SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
+UID:22763cdd-088a-40ff-9a78-20683678f689@2276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260919T135000Z
+SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
+UID:ddc1393d-b4f2-4ba8-b4de-cdf499e3cefe@ddc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
+DTEND:20260927T202300Z
+LOCATION:Tipik
+DTSTART:20260927T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
+UID:659f9ec3-90fe-4363-a1e2-6f28d801999b@659f.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260916T130000Z
+SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Hommes 🇧🇪 (1.Pro)
+UID:8152509f-db65-40d6-877e-ee569632d8f0@8152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
+DTEND:20260925T181500Z
+LOCATION:Tipik
+DTSTART:20260925T130900Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
+UID:55e9da4b-8bf9-4b48-91b6-ce971cfe5981@55e9.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
+DTEND:20260920T200000Z
+DTSTART:20260920T163500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes
+UID:c80b01c3-c2b4-44b5-a3e4-82f4f3f13e78@c80b.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/belgian-cycling-cup-championnat-des-flandres-754890
+DTEND:20260918T154500Z
+LOCATION:Tipik
+DTSTART:20260918T132800Z
+SUMMARY:🚴 [RTBF] Belgian Cycling Cup - Championnat des Flandres
+UID:ec3f13bd-f4bd-4f37-b939-76b1b21498d4@ec3f.org
+URL:https://auvio.rtbf.be/live/belgian-cycling-cup-championnat-des-flandres-754890
 END:VEVENT
 END:VCALENDAR
