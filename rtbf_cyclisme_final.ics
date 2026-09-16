@@ -2,12 +2,30 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
+DTEND:20260927T202300Z
+LOCATION:Tipik
+DTSTART:20260927T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
+UID:6632cb9c-a6e0-46c8-90ee-7f1be66db3cc@6632.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
+DTEND:20260926T185200Z
+LOCATION:Tipik
+DTSTART:20260926T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
+UID:23f21db7-aa2d-434f-b293-cd901db79adb@23f2.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-clm-dames-755052
 DTEND:20260920T161300Z
 LOCATION:Tipik
 DTSTART:20260920T131300Z
 SUMMARY:🚴 [RTBF] Championnats du Monde - CLM dames
-UID:9b834239-27c4-4919-b459-d51a72101337@9b83.org
+UID:6f8808b9-b908-49ba-ad07-a22e78a6660b@6f88.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-clm-dames-755052
 END:VEVENT
 BEGIN:VEVENT
@@ -16,17 +34,16 @@ DTEND:20260925T181500Z
 LOCATION:Tipik
 DTSTART:20260925T130900Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
-UID:3968841b-a770-495c-891f-502cf67fa912@3968.org
+UID:ffa20f14-d749-4ec1-9056-6ea5e45484f9@ffa2.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
-DTEND:20260921T191700Z
-LOCATION:Tipik
-DTSTART:20260921T154800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes U23
-UID:c1652c4a-dc20-4407-a709-96c79a4f1220@c165.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
+DTEND:20260920T200000Z
+DTSTART:20260920T163500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes
+UID:f4435db2-497f-4946-8d04-ca207bc90008@f443.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/belgian-cycling-cup-championnat-des-flandres-754890
@@ -34,42 +51,8 @@ DTEND:20260918T154500Z
 LOCATION:Tipik
 DTSTART:20260918T132800Z
 SUMMARY:🚴 [RTBF] Belgian Cycling Cup - Championnat des Flandres
-UID:29341464-63b0-45fb-b6e5-7b9578639b9f@2934.org
+UID:cb2af665-5cfd-4eb2-9f0c-4eb565618d57@cb2a.org
 URL:https://auvio.rtbf.be/live/belgian-cycling-cup-championnat-des-flandres-754890
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
-DTEND:20260926T185200Z
-LOCATION:Tipik
-DTSTART:20260926T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
-UID:9d942cdd-37bb-4edd-b7db-0d65eb1807e8@9d94.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
-DTEND:20260920T200000Z
-DTSTART:20260920T163500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes
-UID:460d88e2-2666-414f-be0a-7353dad88441@460d.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-754882
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-DTEND:20260927T202300Z
-LOCATION:Tipik
-DTSTART:20260927T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
-UID:5c5a46d7-f924-4997-bad9-34624b04bb74@5c5a.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20260919T135000Z
-SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
-UID:bb955ff6-3390-403b-ada5-907f7d80ee0f@bb95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -77,7 +60,16 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260916T130000Z
 SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Hommes 🇧🇪 (1.Pro)
-UID:161e38d4-dcab-4ce7-8b7e-8e6beefbbeef@161e.org
+UID:ced5b7a2-9114-4d07-a4fa-33db1d78cd1a@ced5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
+DTEND:20260921T191700Z
+LOCATION:Tipik
+DTSTART:20260921T154800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes U23
+UID:8fccedda-0ada-484e-ab0d-b2e2d2f0c80e@8fcc.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h45 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -85,6 +77,14 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20260916T114500Z
 SUMMARY:🚴‍♂️ [RTL] Grand Prix de Wallonie - Femmes 🇧🇪 (1.Pro)
-UID:18194c57-e085-4eec-a938-aeab82f702c4@1819.org
+UID:21557ec9-5e21-4199-8ab6-8cff6f9851a7@2155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 15h50 sur RTL Club etRTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20260919T135000Z
+SUMMARY:🚴‍♂️ [RTL] Flandrien 0.0 Classic 🇧🇪 (1.Pro)
+UID:d4f85155-156a-4712-aac6-90b8dbcef87c@d4f8.org
 END:VEVENT
 END:VCALENDAR
