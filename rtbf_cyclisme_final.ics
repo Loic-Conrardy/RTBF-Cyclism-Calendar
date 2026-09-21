@@ -2,49 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
-DTEND:20260925T181500Z
-LOCATION:Tipik
-DTSTART:20260925T130900Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
-UID:52f10c88-188f-4234-ba8f-f40dcbb9ff30@52f1.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
-DTEND:20260926T185200Z
-LOCATION:Tipik
-DTSTART:20260926T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
-UID:5cb8d7ff-73d2-4b04-a6d2-876d512d4618@5cb8.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-756054
-DTEND:20260920T200400Z
-LOCATION:Tipik
-DTSTART:20260920T165300Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes
-UID:8c4a4bb5-9aac-4898-8b98-34405103d264@8c4a.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-756054
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
 DTEND:20260921T191700Z
 LOCATION:Tipik
 DTSTART:20260921T154800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Contre-la-Montre Hommes U23
-UID:13776bb2-ec8e-4a8e-927e-3b57a317f2bb@1377.org
+UID:3ecfbd98-a6cd-4c9c-8a84-6a65636b99df@3ecf.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-contre-la-montre-hommes-u23-752396
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-sur-route-contre-la-montre-individuel-hommes-752395
-DTEND:20260920T185900Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
+DTEND:20260925T181500Z
 LOCATION:Tipik
-DTSTART:20260920T172000Z
-SUMMARY:🚴 [RTBF] Championnats du Monde sur Route - Contre-la-Montre Individuel Hommes
-UID:9311d0b6-c150-41a3-840b-e934cdbb02e4@9311.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-sur-route-contre-la-montre-individuel-hommes-752395
+DTSTART:20260925T130900Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
+UID:b05cece8-3f69-464a-9730-a7dbcbcc0324@b05c.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
@@ -52,7 +25,16 @@ DTEND:20260927T202300Z
 LOCATION:Tipik
 DTSTART:20260927T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
-UID:060585e9-b091-46f6-be44-4ee20f3051c7@0605.org
+UID:d8ff0b1c-da93-4eeb-b3c3-75b1d6c6d180@d8ff.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
+DTEND:20260926T185200Z
+LOCATION:Tipik
+DTSTART:20260926T124800Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
+UID:6df02053-4ae2-478b-b968-9b9d5373aa3a@6df0.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
 END:VEVENT
 END:VCALENDAR
