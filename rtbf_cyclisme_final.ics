@@ -7,16 +7,8 @@ DTEND:20260925T181500Z
 LOCATION:Tipik
 DTSTART:20260925T130900Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
-UID:92b9bf04-40ea-43e6-a8eb-0641c99f72cf@92b9.org
+UID:45be150b-b12f-4cee-a1b9-7fa615a56fe3@45be.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
-DTEND:20260924T214500Z
-DTSTART:20260924T171500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Junior Men
-UID:0099c8cd-4e0c-48d4-ab20-310dbbd6677e@0099.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
@@ -24,8 +16,16 @@ DTEND:20260927T202300Z
 LOCATION:Tipik
 DTSTART:20260927T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
-UID:2ff67e72-06bc-4521-baf0-6d1cfe01a121@2ff6.org
+UID:58e5f92e-b6d1-4f8c-aadb-b87b2f6c6f73@58e5.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
+DTEND:20260924T214500Z
+DTSTART:20260924T171500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Junior Men
+UID:18aa75d6-5501-43b1-adaf-36ea8d5fd222@18aa.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
@@ -33,7 +33,7 @@ DTEND:20260926T185200Z
 LOCATION:Tipik
 DTSTART:20260926T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
-UID:b4311575-999b-40e8-8b5f-8c85cf17e1a6@b431.org
+UID:89b4ab02-7d47-4299-aff5-27bbaebc1d11@89b4.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
 END:VEVENT
 END:VCALENDAR
