@@ -2,46 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-dames-756614
-DTEND:20261010T071800Z
-LOCATION:Tipik
-DTSTART:20261010T035800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Dames
-UID:762c7edb-7610-4d03-8635-881c4bd9a538@762c.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-dames-756614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 12h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261004T102000Z
-SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites hommes
-UID:ee4e5725-74b8-424c-af17-8e2b41b86e6a@ee4e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
 DTEND:20260927T202300Z
 LOCATION:Tipik
 DTSTART:20260927T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
-UID:18b9c1da-3180-4b22-b390-f259b7324ed5@18b9.org
+UID:e6c9bda7-cc16-4dea-8222-47183b1a5f7f@e6c9.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
-DTEND:20260924T214500Z
-DTSTART:20260924T171500Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Junior Men
-UID:72e734b1-763f-43e2-815d-4bbabd332394@72e7.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261006T123000Z
-SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
-UID:eda85ca1-e954-418c-9ebc-30e8e15ffdcb@eda8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -49,16 +16,7 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261003T112000Z
 SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites femmes
-UID:ce0aa4c7-99d8-4bb0-90e7-aeabc690c44a@ce0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
-DTEND:20260925T181500Z
-LOCATION:Tipik
-DTSTART:20260925T130900Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
-UID:1e06c915-6d54-4ef1-906d-4bb452d2a4af@1e06.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
+UID:7289d45c-1a79-490d-810a-cedc6c261e61@7289.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
@@ -66,8 +24,50 @@ DTEND:20260926T185200Z
 LOCATION:Tipik
 DTSTART:20260926T124800Z
 SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Dames
-UID:e9d91979-9be2-4852-9f79-8a48c9f6edc3@e9d9.org
+UID:21a76792-fedd-4ee5-b477-fba29550b434@21a7.org
 URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-dames-753522
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
+DTEND:20260924T214500Z
+DTSTART:20260924T171500Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Junior Men
+UID:759a4f2c-64dd-4e71-ba06-3bd5c0bfa1bc@759a.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-junior-men-756103
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
+DTEND:20260925T181500Z
+LOCATION:Tipik
+DTSTART:20260925T130900Z
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course U23
+UID:238ad411-6c98-43d7-889a-6517ae1dff52@238a.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-u23-752518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 12h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20261004T102000Z
+SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites hommes
+UID:9d1ffb1c-3aeb-41ec-a844-112845deb7c1@9d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-dames-756614
+DTEND:20261010T071800Z
+LOCATION:Tipik
+DTSTART:20261010T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Dames
+UID:d7a82ed0-d6e9-4aaa-ba4f-9e8e68bde7a6@d7a8.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-dames-756614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20261006T123000Z
+SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
+UID:dab77226-391a-4185-8417-6cb57dea0fc3@dab7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h35 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -75,6 +75,6 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261006T113500Z
 SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Femmes 🇧🇪 (1.Pro)
-UID:429d2aef-51e4-4bb3-a3fe-aeadb23126b8@429d.org
+UID:39ef7889-81e3-45a2-8b1f-4e1671966bea@39ef.org
 END:VEVENT
 END:VCALENDAR
