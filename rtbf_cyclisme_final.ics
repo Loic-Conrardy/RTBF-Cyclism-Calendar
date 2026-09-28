@@ -7,33 +7,8 @@ DTEND:20261010T071800Z
 LOCATION:Tipik
 DTSTART:20261010T035800Z
 SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Dames
-UID:23c8dc98-a785-41ef-85dc-7d3f5b50afcf@23c8.org
+UID:82f60458-8efa-4280-b309-ee0975c92f37@82f6.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-dames-756614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-DTEND:20260927T202300Z
-LOCATION:Tipik
-DTSTART:20260927T124800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats du Monde 2026 - Course Hommes
-UID:baf0d944-666b-409b-b7e8-4c7b39a6bd98@baf0.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-du-monde-2026-course-hommes-753523
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h35 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261006T113500Z
-SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Femmes 🇧🇪 (1.Pro)
-UID:83307f79-1231-49d4-a319-1bbebca8c69e@8330.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261006T123000Z
-SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
-UID:b96ece6b-3a5a-45bf-9f18-c7dbb7da414c@b96e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -41,7 +16,23 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261003T112000Z
 SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites femmes
-UID:df6e1bd2-6e47-4977-9566-268b112c9c9e@df6e.org
+UID:6e9f9594-7811-44af-ad82-b23230d83b5b@6e9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20261006T123000Z
+SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
+UID:f2cf34f2-681c-49c0-8b73-d22157384744@f2cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h35 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTBF
+DTSTART:20261006T113500Z
+SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Femmes 🇧🇪 (1.Pro)
+UID:6217ba57-97ad-43f8-91b5-7becf56d822b@6217.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 12h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -49,6 +40,6 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261004T102000Z
 SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites hommes
-UID:9620abbd-ed90-40e1-aa31-3e7820a19e10@9620.org
+UID:87846587-f356-464c-bda7-f9aa38e39df8@8784.org
 END:VEVENT
 END:VCALENDAR
