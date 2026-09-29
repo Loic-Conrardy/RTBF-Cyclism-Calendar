@@ -2,20 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 12h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261004T102000Z
-SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites hommes
-UID:9125e293-645c-447d-aaab-f282e40ae023@9125.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261006T123000Z
-SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
-UID:8c61b52f-bd46-450b-aefa-a7e2fb4c7adb@8c61.org
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
+DTEND:20261007T160000Z
+LOCATION:Tipik
+DTSTART:20261007T121800Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - CLM Dames élites  + CLM Messieurs élites
+UID:81d29eb1-69f8-4199-b2aa-51584aa5ce7e@81d2.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h35 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -23,15 +16,24 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261006T113500Z
 SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Femmes 🇧🇪 (1.Pro)
-UID:be3e3a2d-421c-4712-8aa8-faf2896ab519@be3e.org
+UID:5c33119f-1e14-4672-8c58-85d74d406a79@5c33.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h20 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758030
+DTEND:20261003T155600Z
+LOCATION:Tipik
+DTSTART:20261003T111800Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route
+UID:a320f710-ce0e-491d-95fa-e6bd4a9166ba@a320.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758030
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTBF
-DTSTART:20261003T112000Z
-SUMMARY:🚴‍♂️ [RTBF] Championnats d’Europe sur route à Ljubljana 🇸🇮 (CC) - Course en ligne élites femmes
-UID:8bbd4378-5421-4713-b004-7e811c893673@8bbd.org
+DTSTART:20261006T123000Z
+SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
+UID:746aa054-6b48-4e9c-9f20-4c4d1b748164@746a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
@@ -39,7 +41,16 @@ DTEND:20261010T071800Z
 LOCATION:Tipik
 DTSTART:20261010T035800Z
 SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Chpts du monde de Gravel - course Dames élites
-UID:ff82ffd1-5490-4688-a975-bcb7aaa14fce@ff82.org
+UID:0a17fa96-d34d-4366-8792-2f8496284af6@0a17.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758031
+DTEND:20261004T161600Z
+LOCATION:Tipik
+DTSTART:20261004T101800Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route
+UID:b196a1d2-21b9-4fec-9a31-ce10885a72c0@b196.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758031
 END:VEVENT
 END:VCALENDAR
