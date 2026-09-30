@@ -2,31 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
-DTEND:20261007T160000Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
+DTEND:20261010T071800Z
 LOCATION:Tipik
-DTSTART:20261007T121800Z
-SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - CLM Dames élites  + CLM Messieurs élites
-UID:8601d5aa-6700-4b63-ad0e-77c5ada690bd@8601.org
-URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758030
-DTEND:20261003T155600Z
-LOCATION:Tipik
-DTSTART:20261003T111800Z
-SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route
-UID:19c61367-1df9-4517-8a9b-0ff60c2938bc@19c6.org
-URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758030
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758031
-DTEND:20261004T161600Z
-LOCATION:Tipik
-DTSTART:20261004T101800Z
-SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route
-UID:359b3b4c-4cd9-4528-97ac-1b14b8ef822a@359b.org
-URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-758031
+DTSTART:20261010T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Chpts du monde de Gravel - course Dames élites
+UID:28b8104d-b584-4ec6-9013-40652957359e@28b8.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h30 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -34,16 +16,25 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261006T123000Z
 SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Hommes 🇧🇪 (1.Pro)
-UID:5ec795c5-5eb3-430d-834c-b9529efff503@5ec7.org
+UID:2cbf6d28-9d1e-419d-ac64-b076e14fa725@2cbf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
-DTEND:20261010T071800Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-course-messieurs-elites-758031
+DTEND:20261004T161700Z
 LOCATION:Tipik
-DTSTART:20261010T035800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Chpts du monde de Gravel - course Dames élites
-UID:ee29bf47-8085-4470-9ded-e5562bf64fae@ee29.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
+DTSTART:20261004T101800Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - Course Messieurs élites
+UID:d3d9f864-f183-4beb-bf89-9cba0da84314@d3d9.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-course-messieurs-elites-758031
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
+DTEND:20261007T160000Z
+LOCATION:Tipik
+DTSTART:20261007T121800Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - CLM Dames élites  + CLM Messieurs élites
+UID:99fd20a3-0d69-4916-83ee-52224d7eec59@99fd.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h35 sur Tipik et RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -51,6 +42,15 @@ DURATION:PT2H30M
 LOCATION:RTBF
 DTSTART:20261006T113500Z
 SUMMARY:🚴‍♂️ [RTBF] Binche-Chimay-Binche - Femmes 🇧🇪 (1.Pro)
-UID:c4a9aa80-d972-473c-9918-b958130e9600@c4a9.org
+UID:52932be8-32eb-49f9-b49e-70b3a93b39ee@5293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-courses-dames-elites-758030
+DTEND:20261003T155800Z
+LOCATION:Tipik
+DTSTART:20261003T111800Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - Courses Dames élites
+UID:40e7f36d-c728-4208-bd92-094c20dee90e@40e7.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-courses-dames-elites-758030
 END:VEVENT
 END:VCALENDAR
