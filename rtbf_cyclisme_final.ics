@@ -2,21 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
-DTEND:20261010T071800Z
-LOCATION:Tipik
-DTSTART:20261010T035800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Chpts du monde de Gravel - course Dames élites
-UID:7b08836f-8a95-4554-9f01-3ba69377ae2c@7b08.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-dames-hommes-758908
 DTEND:20261006T155100Z
 LOCATION:Tipik
 DTSTART:20261006T113300Z
 SUMMARY:🚴 [RTBF] Cyclisme : Binche-Chimay-Binche - Dames + Hommes
-UID:cef99dc9-a1cf-470d-ac03-9ba252bc1d08@cef9.org
+UID:56db6400-ed1a-4353-a469-617bc539cb7a@56db.org
 URL:https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-dames-hommes-758908
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +16,7 @@ DTEND:20261010T153500Z
 LOCATION:Auvio
 DTSTART:20261010T095800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - version intégrale auvio
-UID:e7dcb4d2-7511-4189-939a-b34b6485bcc3@e7dc.org
+UID:165229d9-0bd0-4a4f-bb65-e06633bc8f03@1652.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-version-integrale-auvio-758854
 END:VEVENT
 BEGIN:VEVENT
@@ -34,7 +25,7 @@ DTEND:20261011T154500Z
 LOCATION:La Une
 DTSTART:20261011T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Tours
-UID:6ab63b38-505f-4673-8376-2bcdceae1071@6ab6.org
+UID:3f6628a4-14c1-4cec-b7f6-26cf51d0e51f@3f66.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-tours-758856
 END:VEVENT
 BEGIN:VEVENT
@@ -43,17 +34,8 @@ DTEND:20261006T130000Z
 LOCATION:Auvio
 DTSTART:20261006T085800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Binche-Chimay-Binche - Dames + Hommes
-UID:d25a18a5-8df4-4360-affe-c5f6e633bff8@d25a.org
+UID:171102b5-ea22-4c55-9ab8-aaf9b32e6f30@1711.org
 URL:https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-dames-hommes-759022
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-course-messieurs-elites-758031
-DTEND:20261004T161500Z
-LOCATION:Tipik
-DTSTART:20261004T101800Z
-SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - Course Messieurs élites
-UID:2be68d4c-fc22-46ad-9837-7701d567aef1@2be6.org
-URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-course-messieurs-elites-758031
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
@@ -61,7 +43,24 @@ DTEND:20261007T160000Z
 LOCATION:Tipik
 DTSTART:20261007T121800Z
 SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - CLM Dames élites  + CLM Messieurs élites
-UID:2c768d62-fa38-4836-b2a1-18361cc0da8d@2c76.org
+UID:b913e14b-88b3-462e-8dd0-df03b9c39de4@b913.org
 URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-clm-dames-elites-clm-messieurs-elites-758032
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-course-messieurs-elites-759196
+DTEND:20261004T161500Z
+DTSTART:20261004T102000Z
+SUMMARY:🚴 [RTBF] Championnats Européens de cyclisme route - Course Messieurs élites
+UID:e24d7070-777e-4a85-8785-a29fa6b90184@e24d.org
+URL:https://auvio.rtbf.be/live/championnats-europeens-de-cyclisme-route-course-messieurs-elites-759196
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
+DTEND:20261010T071800Z
+LOCATION:Tipik
+DTSTART:20261010T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Chpts du monde de Gravel - course Dames élites
+UID:06fec329-5343-421e-b757-008544262ed5@06fe.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
 END:VEVENT
 END:VCALENDAR
