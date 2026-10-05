@@ -2,65 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-758854
-DTEND:20261010T153500Z
-LOCATION:Auvio
-DTSTART:20261010T095800Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - La course
-UID:241b0b28-21ad-4bb0-b957-1f93ff1812bf@241b.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-758854
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-course-dames-hommes-758908
-DTEND:20261006T155000Z
-LOCATION:Tipik
-DTSTART:20261006T113300Z
-SUMMARY:🚴 [RTBF] Cyclisme : Binche-Chimay-Binche - Course Dames & Hommes
-UID:843c26bf-578c-46d5-b819-b764df1618ef@843c.org
-URL:https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-course-dames-hommes-758908
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-presentation-des-equipes-759233
-DTEND:20261006T104000Z
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-presentation-des-equipes-759260
+DTEND:20261006T104500Z
 LOCATION:Auvio
 DTSTART:20261006T090000Z
 SUMMARY:🚴 [RTBF] Cyclisme : Binche-Chimay-Binche - Présentation des équipes
-UID:37bf0800-ba4a-418b-8421-fb083357aca1@37bf.org
-URL:https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-presentation-des-equipes-759233
+UID:82ab9c0d-0499-49b0-b7ab-da3531f788ca@82ab.org
+URL:https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-presentation-des-equipes-759260
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
-DTEND:20261010T071800Z
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
+DTEND:20261010T154000Z
+LOCATION:Auvio
+DTSTART:20261010T100000Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - La course
+UID:60eecc64-cb3a-49aa-a77a-c68bff3d6438@60ee.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759264
+DTEND:20261011T071000Z
+DTSTART:20261011T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Hommes
+UID:732f6a72-b086-4d1e-92a4-e9f2fcea4f59@732f.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-course-dames-hommes-759261
+DTEND:20261006T160000Z
 LOCATION:Tipik
-DTSTART:20261010T035800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Chpts du monde de Gravel - course Dames élites
-UID:d59f40f3-ab15-45f8-8090-def7de3a1d1b@d59f.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-chpts-du-monde-de-gravel-course-dames-elites-756614
+DTSTART:20261006T113300Z
+SUMMARY:🚴 [RTBF] Cyclisme : Binche-Chimay-Binche - Course Dames & Hommes
+UID:8cc58936-7ee1-41a3-b49b-6c45a59191f4@8cc5.org
+URL:https://auvio.rtbf.be/live/cyclisme-binche-chimay-binche-course-dames-hommes-759261
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 06h00 sur RTBF Auvio\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTBF
-DTSTART:20261011T040000Z
-SUMMARY:🚴‍♂️ [RTBF] Championnats du monde de gravel à Nannup - Course hommes 🇦🇺 (CM)
-UID:7fce7e0b-c0a8-4867-8168-6fb95ad3c483@7fce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnat-deurope-2026-c-l-m-dames-hommes-758032
-DTEND:20261007T160500Z
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-deurope-2026-c-l-m-dames-hommes-759262
+DTEND:20261007T160000Z
 LOCATION:Tipik
 DTSTART:20261007T121800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnat d'Europe 2026 - C-l-M Dames & Hommes
-UID:7a8c2f47-8ca3-47f5-861a-36f03f1f0b92@7a8c.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnat-deurope-2026-c-l-m-dames-hommes-758032
+SUMMARY:🚴 [RTBF] Cyclisme - Championnats d'Europe 2026 - C-l-M Dames & Hommes
+UID:ef80fc8d-b27f-4d28-8a6b-eb19adf72c9c@ef80.org
+URL:https://auvio.rtbf.be/live/cyclisme-championnats-deurope-2026-c-l-m-dames-hommes-759262
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-tours-758856
-DTEND:20261011T154500Z
+DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
+DTEND:20261011T155000Z
 LOCATION:La Une
 DTSTART:20261011T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Tours
-UID:581423ea-ad40-4416-8789-f34fbf71e1f3@5814.org
-URL:https://auvio.rtbf.be/live/cyclisme-paris-tours-758856
+UID:b60bf7af-a3b3-4844-9b83-592135087df1@b60b.org
+URL:https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
+DTEND:20261010T071500Z
+LOCATION:Tipik
+DTSTART:20261010T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Dames
+UID:68692951-ac80-4a8f-8611-bb267eca03c5@6869.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
 END:VEVENT
 END:VCALENDAR
