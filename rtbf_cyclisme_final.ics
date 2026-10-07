@@ -2,30 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
-DTEND:20261010T071500Z
-LOCATION:Tipik
-DTSTART:20261010T035800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Dames
-UID:2883a1a0-01ea-4918-8c00-f8fdef31a81a@2883.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
 DTEND:20261011T155000Z
 LOCATION:La Une
 DTSTART:20261011T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Tours
-UID:e2601c8c-c61b-4c7a-918e-fd8ef44d4e26@e260.org
+UID:3c6e5c70-3616-4ba3-bf35-e64fc9922c35@3c6e.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
-DTEND:20261011T071500Z
-DTSTART:20261011T040000Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Hommes
-UID:615bcdb9-0ef2-4fb3-b2cf-880b3251dafb@615b.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
+DTEND:20261010T071500Z
+LOCATION:Tipik
+DTSTART:20261010T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Dames
+UID:9191c778-2736-4005-bc28-58705a7c491f@9191.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
@@ -33,16 +25,15 @@ DTEND:20261010T154000Z
 LOCATION:Auvio
 DTSTART:20261010T100000Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - La course
-UID:484179ea-b403-441d-9b95-7e2cd4fa4a85@4841.org
+UID:9bc33e2f-04f5-4d91-a0e9-7346bfa2da89@9bc3.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/cyclisme-championnats-deurope-2026-c-l-m-dames-hommes-759262
-DTEND:20261007T160000Z
-LOCATION:Tipik
-DTSTART:20261007T121800Z
-SUMMARY:🚴 [RTBF] Cyclisme - Championnats d'Europe 2026 - C-l-M Dames & Hommes
-UID:4f684ec8-5368-4996-8aaf-56527ccc2b57@4f68.org
-URL:https://auvio.rtbf.be/live/cyclisme-championnats-deurope-2026-c-l-m-dames-hommes-759262
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
+DTEND:20261011T071500Z
+DTSTART:20261011T040000Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Hommes
+UID:cbb691c7-7f40-440a-b1ea-aff8bad6f06c@cbb6.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
 END:VEVENT
 END:VCALENDAR
