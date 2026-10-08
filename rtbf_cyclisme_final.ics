@@ -7,17 +7,8 @@ DTEND:20261011T155000Z
 LOCATION:La Une
 DTSTART:20261011T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Tours
-UID:3c6e5c70-3616-4ba3-bf35-e64fc9922c35@3c6e.org
+UID:b9888470-fd85-49a3-bd38-a15dc3fa2a39@b988.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
-DTEND:20261010T071500Z
-LOCATION:Tipik
-DTSTART:20261010T035800Z
-SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Dames
-UID:9191c778-2736-4005-bc28-58705a7c491f@9191.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
@@ -25,15 +16,24 @@ DTEND:20261010T154000Z
 LOCATION:Auvio
 DTSTART:20261010T100000Z
 SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - La course
-UID:9bc33e2f-04f5-4d91-a0e9-7346bfa2da89@9bc3.org
+UID:873c0f44-b6f4-4110-a8fd-094287a7de5e@873c.org
 URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
+DTEND:20261010T071500Z
+LOCATION:Tipik
+DTSTART:20261010T035800Z
+SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Dames
+UID:b19296e8-c4aa-47dc-8c55-d57926a269cb@b192.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
 DTEND:20261011T071500Z
 DTSTART:20261011T040000Z
 SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Hommes
-UID:cbb691c7-7f40-440a-b1ea-aff8bad6f06c@cbb6.org
+UID:b6762413-62c2-4b75-b8b4-96efaa679415@b676.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
 END:VEVENT
 END:VCALENDAR
