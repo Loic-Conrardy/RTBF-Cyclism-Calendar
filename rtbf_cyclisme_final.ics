@@ -2,22 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-championnats-du-monde-de-cyclisme-sur-pist-760404
+DTEND:20261017T122300Z
+LOCATION:Tipik
+DTSTART:20261017T085800Z
+SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste - Championnats du monde de Cyclisme sur pist
+UID:41e6c61c-921e-4795-9851-244ba8529e88@41e6.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-championnats-du-monde-de-cyclisme-sur-pist-760404
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION: sur La Une.\nLien : https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
 DTEND:20261011T155000Z
 LOCATION:La Une
 DTSTART:20261011T125800Z
 SUMMARY:🚴 [RTBF] Cyclisme : Paris - Tours
-UID:b9888470-fd85-49a3-bd38-a15dc3fa2a39@b988.org
+UID:af689fd2-78db-43ec-817b-e34df8b15c9b@af68.org
 URL:https://auvio.rtbf.be/live/cyclisme-paris-tours-759263
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
-DTEND:20261010T154000Z
-LOCATION:Auvio
-DTSTART:20261010T100000Z
-SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - La course
-UID:873c0f44-b6f4-4110-a8fd-094287a7de5e@873c.org
-URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
@@ -25,7 +25,7 @@ DTEND:20261010T071500Z
 LOCATION:Tipik
 DTSTART:20261010T035800Z
 SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Dames
-UID:b19296e8-c4aa-47dc-8c55-d57926a269cb@b192.org
+UID:619f10f3-484f-492c-a1ba-376c863a2500@619f.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-dames-756614
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,34 @@ DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-g
 DTEND:20261011T071500Z
 DTSTART:20261011T040000Z
 SUMMARY:🚴 [RTBF] Championnats du Monde de Gravel - Course Hommes
-UID:b6762413-62c2-4b75-b8b4-96efaa679415@b676.org
+UID:2c98b4cc-3735-4908-b4d2-5af94576c56d@2c98.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-de-gravel-course-hommes-759748
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Auvio.\nLien : https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
+DTEND:20261010T154000Z
+LOCATION:Auvio
+DTSTART:20261010T100000Z
+SUMMARY:🚴 [RTBF] Cyclisme : Tour de Lombardie - La course
+UID:9d917470-31a6-4e8c-8232-de46cb50dead@9d91.org
+URL:https://auvio.rtbf.be/live/cyclisme-tour-de-lombardie-la-course-759252
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-championnats-du-monde-de-cyclisme-sur-pist-760405
+DTEND:20261018T085300Z
+LOCATION:Tipik
+DTSTART:20261018T052800Z
+SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste - Championnats du monde de Cyclisme sur pist
+UID:6f83f4f6-7431-4e25-ad88-6841e2285644@6f83.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-championnats-du-monde-de-cyclisme-sur-pist-760405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760403
+DTEND:20261014T135600Z
+LOCATION:Tipik
+DTSTART:20261014T102800Z
+SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste
+UID:a501f0cd-5867-4716-b1fc-2d2956683431@a501.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760403
 END:VEVENT
 END:VCALENDAR
