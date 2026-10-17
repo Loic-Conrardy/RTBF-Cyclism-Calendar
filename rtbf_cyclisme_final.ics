@@ -2,30 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760404
-DTEND:20261017T132500Z
-LOCATION:Tipik
-DTSTART:20261017T093300Z
-SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste
-UID:6afe22b9-5c4e-4c80-9934-79547dfe7fa1@6afe.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760404
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-762636
-DTEND:20261017T130200Z
-LOCATION:Tipik
-DTSTART:20261017T093300Z
-SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste
-UID:2b737a83-460d-436e-a7a7-046ea6a86632@2b73.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-762636
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760405
 DTEND:20261018T085300Z
 LOCATION:Tipik
 DTSTART:20261018T052800Z
 SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste
-UID:bb530b78-a434-4498-99f1-9037f6bd6a8d@bb53.org
+UID:6375aedd-6d8c-4186-b514-59dd2c31644d@6375.org
 URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760404
+DTEND:20261017T132500Z
+LOCATION:Tipik
+DTSTART:20261017T093300Z
+SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste
+UID:be3feab7-33e9-4e62-86a4-dbd4b7e9f61c@be3f.org
+URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760404
 END:VEVENT
 END:VCALENDAR
