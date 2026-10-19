@@ -2,12 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION: sur Tipik.\nLien : https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760405
-DTEND:20261018T085300Z
-LOCATION:Tipik
-DTSTART:20261018T052800Z
-SUMMARY:🚴 [RTBF] Championnats du monde de Cyclisme sur piste
-UID:c9c46bdf-f631-44b0-8db2-be366b3ef362@c9c4.org
-URL:https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760405
+DESCRIPTION: sur .\nLien : https://auvio.rtbf.be/live/presentation-tour-de-france-2027-762821
+DTEND:20261022T110000Z
+DTSTART:20261022T090000Z
+SUMMARY:🚴 [RTBF] Présentation Tour de France 2027
+UID:71bdb4a9-df7c-48f6-b513-a663ee7c4206@71bd.org
+URL:https://auvio.rtbf.be/live/presentation-tour-de-france-2027-762821
 END:VEVENT
 END:VCALENDAR
