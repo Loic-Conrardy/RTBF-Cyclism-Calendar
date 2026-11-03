@@ -7,7 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261115T140000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites hommes
-UID:d357d047-00e0-46c3-9f87-af18d16674f4@d357.org
+UID:5aa7050c-273a-46fb-86b8-add3a14ba88d@5aa7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,6 +15,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261115T123000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites femmes
-UID:31dee473-f9e4-4551-ade4-a378d4f05f80@31de.org
+UID:913f172a-42bf-456b-8f97-bcc716d302a9@913f.org
 END:VEVENT
 END:VCALENDAR
