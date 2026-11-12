@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261115T123000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites femmes
+UID:f527e047-d19c-4194-b24d-2b81c5dcaee7@f527.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261115T140000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites hommes
-UID:49fec231-e6a7-4ad2-8a69-ff376321c490@49fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h50 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261122T135000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites hommes
-UID:60060ada-d4df-40dd-a762-2c46430c774f@6006.org
+UID:0a902256-4527-45d0-8a90-56362229d2af@0a90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -23,14 +23,14 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261122T123000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites femmes
-UID:8c0aea01-dd18-4c0f-8353-a446451378ab@8c0a.org
+UID:4f00b4cb-0b4a-40ff-9c23-e4cbad91ad17@4f00.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 14h50 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
-DTSTART:20261115T123000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites femmes
-UID:04518747-1aaf-43b2-a19a-a742ae6e73fa@0451.org
+DTSTART:20261122T135000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites hommes
+UID:cf404c80-3369-4d14-af83-0f213cf8cb3f@cf40.org
 END:VEVENT
 END:VCALENDAR
