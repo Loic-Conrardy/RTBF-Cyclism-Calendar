@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 14h50 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
-DTSTART:20261115T123000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites femmes
-UID:c40ad14e-deab-4a3d-ae47-e474658b953a@c40a.org
+DTSTART:20261122T135000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites hommes
+UID:58908ad4-62f1-4bd0-901f-4442688a7f80@5890.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,22 +15,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261122T123000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites femmes
-UID:b4f8e565-9d28-441e-aa1b-0f464f8d5b20@b4f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 15h00 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261115T140000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Hamme-Zogge 🇧🇪 (C1) - Élites hommes
-UID:f21c5ebe-ca70-4610-ab49-fa75b7948903@f21c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h50 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261122T135000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites hommes
-UID:370af807-1916-4f05-a4f6-08fa72ec75c9@370a.org
+UID:1eb4dda0-b3ec-4318-910b-e4da6fca9bca@1eb4.org
 END:VEVENT
 END:VCALENDAR
