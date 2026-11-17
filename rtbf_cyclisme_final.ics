@@ -7,7 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261122T135000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites hommes
-UID:ffb79565-673b-488d-a53f-a0090647b7c7@ffb7.org
+UID:c69b9bca-b8e9-47ae-913a-d7c882bba8af@c69b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,6 +15,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261122T123000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites femmes
-UID:1e155977-eec7-4361-bc5c-5a40d2153be2@1e15.org
+UID:014fd898-5c13-4e22-84cd-42203bcbe787@014f.org
 END:VEVENT
 END:VCALENDAR
