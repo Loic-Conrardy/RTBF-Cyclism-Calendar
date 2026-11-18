@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261122T123000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites femmes
-UID:41345e69-f185-4d93-aa91-845f0b2efb7b@4134.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h50 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261122T135000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites hommes
-UID:931d4f9a-d222-4ca7-9f10-6d98ad9d233b@931d.org
+UID:14d5c1a0-b553-484d-89f5-c8a985c8e769@14d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h30 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261122T123000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Be-Mine Cross à Beringen 🇧🇪 (C1) - Élites femmes
+UID:c54760ac-069c-4835-bf70-4ef1b903cfb1@c547.org
 END:VEVENT
 END:VCALENDAR
