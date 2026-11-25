@@ -7,15 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261222T124000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites femmes
-UID:bd5ad2fe-ca6a-457b-8a4b-632bf8ae473a@bd5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261222T134500Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites hommes
-UID:0331dea8-e2c6-4987-bc7a-8455b229d50b@0331.org
+UID:de13ca4e-74c1-4d0f-acee-cd45c94c5041@de13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -23,7 +15,15 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261223T124000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites femmes
-UID:5821a0b9-9648-4c35-9f82-3939b8030972@5821.org
+UID:5fbfd4ae-9b9b-46da-baa0-6ca8eac9c872@5fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261222T134500Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites hommes
+UID:ad395ca2-ce6e-4d75-88e8-7cc6f69ff2ba@ad39.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -31,6 +31,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261223T134500Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites hommes
-UID:1bc6fa50-7b1d-464e-ae91-f11eaf873930@1bc6.org
+UID:c865ebbc-33b6-4eaa-9f46-1f04ef72aff9@c865.org
 END:VEVENT
 END:VCALENDAR
