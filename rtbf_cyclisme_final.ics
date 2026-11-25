@@ -7,23 +7,7 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261223T124000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites femmes
-UID:77574703-8f90-4a8a-b30c-6b9731a89e10@7757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261223T134500Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites hommes
-UID:f03893eb-8ce7-43a3-8849-83deb7c7b57f@f038.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261222T124000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites femmes
-UID:93b67140-a9a6-492d-b20f-9413eaf16dd9@93b6.org
+UID:3c39787a-cd44-4cc3-9bee-cb959db7d1a9@3c39.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -31,6 +15,22 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261222T134500Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites hommes
-UID:a9aa35bd-d58b-4304-8596-d64b5eea42a9@a9aa.org
+UID:099334c4-ea6b-45ff-9d43-1ed4d9be51b3@0993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261222T124000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites femmes
+UID:bbfc5d41-1ce1-453e-9343-35a279d72d41@bbfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261223T134500Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites hommes
+UID:5c5e0a28-736f-4289-9ca0-1bcfff6da7ce@5c5e.org
 END:VEVENT
 END:VCALENDAR
