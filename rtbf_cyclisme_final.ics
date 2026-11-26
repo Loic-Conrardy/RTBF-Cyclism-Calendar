@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261223T124000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites femmes
-UID:3c39787a-cd44-4cc3-9bee-cb959db7d1a9@3c39.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261222T134500Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites hommes
-UID:099334c4-ea6b-45ff-9d43-1ed4d9be51b3@0993.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
-DURATION:PT2H30M
-LOCATION:RTL
-DTSTART:20261222T124000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites femmes
-UID:bbfc5d41-1ce1-453e-9343-35a279d72d41@bbfc.org
+UID:8de98bfb-02ac-4951-b575-ac12c38e51a4@8de9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -31,6 +15,22 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261223T134500Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites hommes
-UID:5c5e0a28-736f-4289-9ca0-1bcfff6da7ce@5c5e.org
+UID:7687f8b6-fdd1-4c79-abf7-2d8da047211d@7687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261223T124000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites femmes
+UID:b62502b1-12ba-47d8-aa1e-56de0f0ceac3@b625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DURATION:PT2H30M
+LOCATION:RTL
+DTSTART:20261222T124000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites femmes
+UID:4d3129d8-e9ae-4ee6-a9c0-083b6ab0c6f2@4d31.org
 END:VEVENT
 END:VCALENDAR
