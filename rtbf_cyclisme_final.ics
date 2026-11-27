@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
-DTSTART:20261223T124000Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites femmes
-UID:b5dd5806-3408-40f2-b1f7-dbd331d86eb8@b5dd.org
+DTSTART:20261223T134500Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites hommes
+UID:783d3e7e-b4e4-4974-b424-280e2ad5c7cc@783d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -15,15 +15,15 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261222T134500Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites hommes
-UID:61351637-3e87-452b-a307-ca46c9247d8c@6135.org
+UID:e7f43801-29e5-4679-af25-449660a69dc9@e7f4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Diffusion : Dès 14h45 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
+DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
 DURATION:PT2H30M
 LOCATION:RTL
-DTSTART:20261223T134500Z
-SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites hommes
-UID:8be7ad12-ceb9-44c2-91a6-be1959dbfb93@8be7.org
+DTSTART:20261223T124000Z
+SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Azencross à Loenhout 🇧🇪 (C1) - Élites femmes
+UID:790f1697-c17c-49a0-82b6-e11d6ef1d180@790f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Diffusion : Dès 13h40 sur RTL Club et RTL Play\nSource : https://cyclismerevue.be/programme-tv-cyclisme/
@@ -31,6 +31,6 @@ DURATION:PT2H30M
 LOCATION:RTL
 DTSTART:20261222T124000Z
 SUMMARY:🚴‍♂️ [RTL] Trophée X2O Badkamers - Plage Cross à Hofstade 🇧🇪 (C1) - Élites femmes
-UID:654a45a9-3461-4726-91f6-04c30ab0cd27@654a.org
+UID:8f75959d-f364-463c-b222-337cb2233063@8f75.org
 END:VEVENT
 END:VCALENDAR
